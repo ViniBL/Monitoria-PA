@@ -1,0 +1,57 @@
+Testando sua solução...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Procurando exercício 3...
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+ERRO DE EXECUÇÃO (informar o professor):
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista02/ex4.py", line 7, in <module>
+    x1 = (-b + d**(1/2))/(2*a)
+ZeroDivisionError: float division by zero
+
+Teste 3 deu errado!
+O resultado para
+0
+1
+-1
+
+deveria ser
+A raiz é 1
+mas deu
+
+Teste 4: correto!
+ERRO DE EXECUÇÃO (informar o professor):
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista02/ex4.py", line 7, in <module>
+    x1 = (-b + d**(1/2))/(2*a)
+ZeroDivisionError: float division by zero
+
+Teste 5 deu errado!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Nota exercicio 4: 0.8
+Procurando exercício 5...
+Procurando exercício 6...
+Procurando exercício 7...
+Procurando exercício 8...
+Procurando exercício 9...
+Procurando exercício 10...
+{"scores": {"ex1": 1.0, "ex2": 0, "ex3": 0, "ex4": 0.8, "ex5": 0, "ex6": 0, "ex7": 0, "ex8": 0, "ex9": 0, "ex10": 0}}
