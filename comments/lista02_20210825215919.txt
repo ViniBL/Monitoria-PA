@@ -1,0 +1,344 @@
+Varificando data de envio...
+Testando sua solução...
+Procurando exercício 1...
+Exercício 1...
+4.00
+b'qnt bola: pre\xc3\xa7o bola: qnt chocolate: pre\xc3\xa7o chocolate: O pre\xc3\xa7o total \xc3\xa9: 4.00 R$\n'
+b''
+Teste 1: correto!
+4.00
+b'qnt bola: pre\xc3\xa7o bola: qnt chocolate: pre\xc3\xa7o chocolate: O pre\xc3\xa7o total \xc3\xa9: 4.00 R$\n'
+b''
+Teste 2: correto!
+1.00
+b'qnt bola: pre\xc3\xa7o bola: qnt chocolate: pre\xc3\xa7o chocolate: O pre\xc3\xa7o total \xc3\xa9: 1.00 R$\n'
+b''
+Teste 3: correto!
+10.00
+b'qnt bola: pre\xc3\xa7o bola: qnt chocolate: pre\xc3\xa7o chocolate: O pre\xc3\xa7o total \xc3\xa9: 10.00 R$\n'
+b''
+Teste 4: correto!
+19.32
+b'qnt bola: pre\xc3\xa7o bola: qnt chocolate: pre\xc3\xa7o chocolate: O pre\xc3\xa7o total \xc3\xa9: 19.32 R$\n'
+b''
+Teste 5: correto!
+30.91
+b'qnt bola: pre\xc3\xa7o bola: qnt chocolate: pre\xc3\xa7o chocolate: O pre\xc3\xa7o total \xc3\xa9: 30.91 R$\n'
+b''
+Teste 6: correto!
+17.0
+b'qnt bola: pre\xc3\xa7o bola: qnt chocolate: pre\xc3\xa7o chocolate: O pre\xc3\xa7o total \xc3\xa9: 17.00 R$\n'
+b''
+Teste 7: correto!
+20.08
+b'qnt bola: pre\xc3\xa7o bola: qnt chocolate: pre\xc3\xa7o chocolate: O pre\xc3\xa7o total \xc3\xa9: 20.08 R$\n'
+b''
+Teste 8: correto!
+15.700000000000001
+b'qnt bola: pre\xc3\xa7o bola: qnt chocolate: pre\xc3\xa7o chocolate: O pre\xc3\xa7o total \xc3\xa9: 15.70 R$\n'
+b''
+Teste 9: correto!
+13.590000000000002
+b'qnt bola: pre\xc3\xa7o bola: qnt chocolate: pre\xc3\xa7o chocolate: O pre\xc3\xa7o total \xc3\xa9: 13.59 R$\n'
+b''
+Teste 10: correto!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Procurando exercício 3...
+Procurando exercício 4...
+Exercício 4...
+A raiz é -1
+b'A raiz \xc3\xa9 -1.0\n'
+b''
+Teste 1: correto!
+Nenhuma raiz
+b'Nenhuma raiz\n'
+b''
+Teste 2: correto!
+A raiz é 1
+b'A raiz \xc3\xa9 1.0\n'
+b''
+Teste 3: correto!
+As raízes são 0 e 1
+b'As ra\xc3\xadzes s\xc3\xa3o 0.0 e 1.0\n'
+b''
+Teste 4: correto!
+A raiz é 2
+b'A raiz \xc3\xa9 2.0\n'
+b''
+Teste 5: correto!
+Nenhuma raiz
+b'Nenhuma raiz\n'
+b''
+Teste 6: correto!
+As raízes são -0.2825983534202393 e 0.6499452921957495
+b'As ra\xc3\xadzes s\xc3\xa3o -0.2825983534202393 e 0.6499452921957495\n'
+b''
+Teste 7: correto!
+Nenhuma raiz
+b'Nenhuma raiz\n'
+b''
+Teste 8: correto!
+As raízes são -1.9897702905414847 e 2.0731036238748177
+b'As ra\xc3\xadzes s\xc3\xa3o -1.9897702905414847 e 2.0731036238748177\n'
+b''
+Teste 9: correto!
+As raízes são -0.7609601433550266 e 4.456612317268069
+b'As ra\xc3\xadzes s\xc3\xa3o -0.7609601433550266 e 4.456612317268069\n'
+b''
+Teste 10: correto!
+Nota exercicio 4: 1.0
+Procurando exercício 5...
+Exercício 5...
+Menor: 1.636363636
+Maior: 2.160246899
+b'Menor: 1.6363636363636365\nMaior: 2.160246899469287\n'
+b''
+Teste 1: correto!
+Menor: 1
+Maior: 1
+b'Menor: 1.0\nMaior: 1.0\n'
+b''
+Teste 2: correto!
+Menor: 1.42857
+Maior: 5.83095
+b'Menor: 1.4285714285714286\nMaior: 5.830951894845301\n'
+b''
+Teste 3: correto!
+Menor: 1.636363636
+Maior: 2.160246899
+b'Menor: 1.6363636363636365\nMaior: 2.160246899469287\n'
+b''
+Teste 4: correto!
+Menor: 6.528325123152709
+Maior: 6.638272867747052
+b'Menor: 6.528325123152709\nMaior: 6.638272867747052\n'
+b''
+Teste 5: correto!
+Menor: 3.7716037911168927
+Maior: 4.712395003251179
+b'Menor: 3.7716037911168927\nMaior: 4.712395003251179\n'
+b''
+Teste 6: correto!
+Menor: 4.331872423519202
+Maior: 6.555659132891724
+b'Menor: 4.331872423519202\nMaior: 6.555659132891724\n'
+b''
+Teste 7: correto!
+Menor: 3.9707171853856567
+Maior: 7.358894844562826
+b'Menor: 3.9707171853856567\nMaior: 7.358894844562826\n'
+b''
+Teste 8: correto!
+Menor: 3.3389704271631984
+Maior: 4.7420108252371875
+b'Menor: 3.3389704271631984\nMaior: 4.7420108252371875\n'
+b''
+Teste 9: correto!
+Menor: 7.3520203858755
+Maior: 7.475515589799364
+b'Menor: 7.3520203858755\nMaior: 7.475515589799364\n'
+b''
+Teste 10: correto!
+Nota exercicio 5: 1.0
+Procurando exercício 6...
+Procurando exercício 7...
+Exercício 7...
+Troco: R$ 99.49
+0 de R$ 100.00
+1 de R$ 50.00
+2 de R$ 20.00
+0 de R$ 10.00
+1 de R$ 5.00
+2 de R$ 2.00
+0 de R$ 1.00
+0 de R$ 0.50
+1 de R$ 0.25
+2 de R$ 0.10
+0 de R$ 0.05
+4 de R$ 0.01
+b'Troco: R$ 99.49000000000001\n0 de R$ 100.00\n1 de R$ 50.00\n2 de R$ 20.00\n0 de R$ 10.00\n1 de R$ 5.00\n2 de R$ 2.00\n0 de R$ 1.00\n0 de R$ 0.50\n1 de R$ 0.25\n2 de R$ 0.10\n0 de R$ 0.05\n4 de R$ 0.01\n'
+b''
+Teste 1: correto!
+Troco: R$ 80.20
+0 de R$ 100.00
+1 de R$ 50.00
+1 de R$ 20.00
+1 de R$ 10.00
+0 de R$ 5.00
+0 de R$ 2.00
+0 de R$ 1.00
+0 de R$ 0.50
+0 de R$ 0.25
+2 de R$ 0.10
+0 de R$ 0.05
+0 de R$ 0.01
+b'Troco: R$ 80.20000000000005\n0 de R$ 100.00\n1 de R$ 50.00\n1 de R$ 20.00\n1 de R$ 10.00\n0 de R$ 5.00\n0 de R$ 2.00\n0 de R$ 1.00\n0 de R$ 0.50\n0 de R$ 0.25\n2 de R$ 0.10\n0 de R$ 0.05\n0 de R$ 0.01\n'
+b''
+Teste 2: correto!
+Troco: R$ 89.92
+0 de R$ 100.00
+1 de R$ 50.00
+1 de R$ 20.00
+1 de R$ 10.00
+1 de R$ 5.00
+2 de R$ 2.00
+0 de R$ 1.00
+1 de R$ 0.50
+1 de R$ 0.25
+1 de R$ 0.10
+1 de R$ 0.05
+2 de R$ 0.01
+b'Troco: R$ 89.91999999999996\n0 de R$ 100.00\n1 de R$ 50.00\n1 de R$ 20.00\n1 de R$ 10.00\n1 de R$ 5.00\n2 de R$ 2.00\n0 de R$ 1.00\n1 de R$ 0.50\n1 de R$ 0.25\n1 de R$ 0.10\n1 de R$ 0.05\n1 de R$ 0.01\n'
+b''
+Teste 3: correto!
+Troco: R$ 486.80
+4 de R$ 100.00
+1 de R$ 50.00
+1 de R$ 20.00
+1 de R$ 10.00
+1 de R$ 5.00
+0 de R$ 2.00
+1 de R$ 1.00
+1 de R$ 0.50
+1 de R$ 0.25
+0 de R$ 0.10
+1 de R$ 0.05
+0 de R$ 0.01
+b'Troco: R$ 486.79999999999995\n4 de R$ 100.00\n1 de R$ 50.00\n1 de R$ 20.00\n1 de R$ 10.00\n1 de R$ 5.00\n0 de R$ 2.00\n1 de R$ 1.00\n1 de R$ 0.50\n1 de R$ 0.25\n0 de R$ 0.10\n0 de R$ 0.05\n4 de R$ 0.01\n'
+b''
+Teste 4: correto!
+O resultado para
+27.22
+514.02
+
+deveria ser
+Troco: R$ 486.80
+4 de R$ 100.00
+1 de R$ 50.00
+1 de R$ 20.00
+1 de R$ 10.00
+1 de R$ 5.00
+0 de R$ 2.00
+1 de R$ 1.00
+1 de R$ 0.50
+1 de R$ 0.25
+0 de R$ 0.10
+1 de R$ 0.05
+0 de R$ 0.01
+mas deu
+Troco: R$ 486.79999999999995
+4 de R$ 100.00
+1 de R$ 50.00
+1 de R$ 20.00
+1 de R$ 10.00
+1 de R$ 5.00
+0 de R$ 2.00
+1 de R$ 1.00
+1 de R$ 0.50
+1 de R$ 0.25
+0 de R$ 0.10
+0 de R$ 0.05
+4 de R$ 0.01
+
+Troco: R$ 248.94
+2 de R$ 100.00
+0 de R$ 50.00
+2 de R$ 20.00
+0 de R$ 10.00
+1 de R$ 5.00
+1 de R$ 2.00
+1 de R$ 1.00
+1 de R$ 0.50
+1 de R$ 0.25
+1 de R$ 0.10
+1 de R$ 0.05
+4 de R$ 0.01
+b'Troco: R$ 248.93999999999994\n2 de R$ 100.00\n0 de R$ 50.00\n2 de R$ 20.00\n0 de R$ 10.00\n1 de R$ 5.00\n1 de R$ 2.00\n1 de R$ 1.00\n1 de R$ 0.50\n1 de R$ 0.25\n1 de R$ 0.10\n1 de R$ 0.05\n3 de R$ 0.01\n'
+b''
+Teste 5: correto!
+Troco: R$ 41.62
+0 de R$ 100.00
+0 de R$ 50.00
+2 de R$ 20.00
+0 de R$ 10.00
+0 de R$ 5.00
+0 de R$ 2.00
+1 de R$ 1.00
+1 de R$ 0.50
+0 de R$ 0.25
+1 de R$ 0.10
+0 de R$ 0.05
+2 de R$ 0.01
+b'Troco: R$ 41.620000000000005\n0 de R$ 100.00\n0 de R$ 50.00\n2 de R$ 20.00\n0 de R$ 10.00\n0 de R$ 5.00\n0 de R$ 2.00\n1 de R$ 1.00\n1 de R$ 0.50\n0 de R$ 0.25\n1 de R$ 0.10\n0 de R$ 0.05\n2 de R$ 0.01\n'
+b''
+Teste 6: correto!
+Troco: R$ 146.80
+1 de R$ 100.00
+0 de R$ 50.00
+2 de R$ 20.00
+0 de R$ 10.00
+1 de R$ 5.00
+0 de R$ 2.00
+1 de R$ 1.00
+1 de R$ 0.50
+1 de R$ 0.25
+0 de R$ 0.10
+1 de R$ 0.05
+0 de R$ 0.01
+b'Troco: R$ 146.8\n1 de R$ 100.00\n0 de R$ 50.00\n2 de R$ 20.00\n0 de R$ 10.00\n1 de R$ 5.00\n0 de R$ 2.00\n1 de R$ 1.00\n1 de R$ 0.50\n1 de R$ 0.25\n0 de R$ 0.10\n1 de R$ 0.05\n0 de R$ 0.01\n'
+b''
+Teste 7: correto!
+Troco: R$ 304.93
+3 de R$ 100.00
+0 de R$ 50.00
+0 de R$ 20.00
+0 de R$ 10.00
+0 de R$ 5.00
+2 de R$ 2.00
+0 de R$ 1.00
+1 de R$ 0.50
+1 de R$ 0.25
+1 de R$ 0.10
+1 de R$ 0.05
+3 de R$ 0.01
+b'Troco: R$ 304.92999999999995\n3 de R$ 100.00\n0 de R$ 50.00\n0 de R$ 20.00\n0 de R$ 10.00\n0 de R$ 5.00\n2 de R$ 2.00\n0 de R$ 1.00\n1 de R$ 0.50\n1 de R$ 0.25\n1 de R$ 0.10\n1 de R$ 0.05\n2 de R$ 0.01\n'
+b''
+Teste 8: correto!
+Troco: R$ 17.97
+0 de R$ 100.00
+0 de R$ 50.00
+0 de R$ 20.00
+1 de R$ 10.00
+1 de R$ 5.00
+1 de R$ 2.00
+0 de R$ 1.00
+1 de R$ 0.50
+1 de R$ 0.25
+2 de R$ 0.10
+0 de R$ 0.05
+2 de R$ 0.01
+b'Troco: R$ 17.969999999999914\n0 de R$ 100.00\n0 de R$ 50.00\n0 de R$ 20.00\n1 de R$ 10.00\n1 de R$ 5.00\n1 de R$ 2.00\n0 de R$ 1.00\n1 de R$ 0.50\n1 de R$ 0.25\n2 de R$ 0.10\n0 de R$ 0.05\n1 de R$ 0.01\n'
+b''
+Teste 9: correto!
+Troco: R$ 709.68
+7 de R$ 100.00
+0 de R$ 50.00
+0 de R$ 20.00
+0 de R$ 10.00
+1 de R$ 5.00
+2 de R$ 2.00
+0 de R$ 1.00
+1 de R$ 0.50
+0 de R$ 0.25
+1 de R$ 0.10
+1 de R$ 0.05
+3 de R$ 0.01
+b'Troco: R$ 709.6800000000001\n7 de R$ 100.00\n0 de R$ 50.00\n0 de R$ 20.00\n0 de R$ 10.00\n1 de R$ 5.00\n2 de R$ 2.00\n0 de R$ 1.00\n1 de R$ 0.50\n0 de R$ 0.25\n1 de R$ 0.10\n1 de R$ 0.05\n3 de R$ 0.01\n'
+b''
+Teste 10: correto!
+Nota exercicio 7: 2.0
+Procurando exercício 8...
+Procurando exercício 9...
+Procurando exercício 10...
+{"scores": {"ex1": 1.0, "ex2": 0, "ex3": 0, "ex4": 1.0, "ex5": 1.0, "ex6": 0, "ex7": 2.0, "ex8": 0, "ex9": 0, "ex10": 0}}
