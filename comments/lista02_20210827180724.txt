@@ -1,0 +1,94 @@
+Varificando data de envio...
+Testando sua solução...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Procurando exercício 3...
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Nota exercicio 4: 1.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Nota exercicio 5: 1.0
+Procurando exercício 6...
+Procurando exercício 7...
+Exercício 7...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+O resultado para
+231.8
+495.75
+
+deveria ser
+Troco: R$ 263.95
+2 de R$ 100.00
+1 de R$ 50.00
+0 de R$ 20.00
+1 de R$ 10.00
+0 de R$ 5.00
+1 de R$ 2.00
+1 de R$ 1.00
+1 de R$ 0.50
+1 de R$ 0.25
+2 de R$ 0.10
+0 de R$ 0.05
+0 de R$ 0.01
+mas deu
+Troco: R$ 263.95
+2 de R$ 100.00
+1 de R$ 50.00
+0 de R$ 20.00
+1 de R$ 10.00
+0 de R$ 5.00
+1 de R$ 2.00
+1 de R$ 1.00
+1 de R$ 0.50
+1 de R$ 0.25
+1 de R$ 0.10
+1 de R$ 0.05
+4 de R$ 0.01
+
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Nota exercicio 7: 2.0
+Procurando exercício 8...
+Procurando exercício 9...
+Procurando exercício 10...
+{"scores": {"ex1": 1.0, "ex2": 0, "ex3": 0, "ex4": 1.0, "ex5": 1.0, "ex6": 0, "ex7": 2.0, "ex8": 0, "ex9": 0, "ex10": 0}}
