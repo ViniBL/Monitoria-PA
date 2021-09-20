@@ -14,6 +14,7 @@ for i in l:
         
 st = set(l2)
 
-for i in st:
+
+for i in sorted(st):
     print(i)
 
