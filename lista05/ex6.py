@@ -9,10 +9,11 @@ while True:
 m = int(input())
 l2 = list()
 for i in l:
-    if i<m:
+    if i != m:
         l2.append(i)
         
 st = set(l2)
 
 for i in st:
     print(i)
+
