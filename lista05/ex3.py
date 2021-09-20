@@ -8,7 +8,7 @@ while True:
 n_l = int(input())
 n_c = int(input())
 if n_l*n_c != len(l):
-    print('IMPOSSÍVEL')
+    print('IMPOSSIVEL')
 else:
     
     m = [[0 for c in range(n_c)] for r in range(n_l)]
