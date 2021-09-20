@@ -1,0 +1,743 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-09-27T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Exercício 2...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 2: 2.0
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 2.0
+Procurando exercício 4...
+Procurando exercício 5...
+Exercício 5...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 5: 1.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1: correto!
+Se nao entender esse erro, peça ajuda ao professor:
+tester.py, 132: IndexError - list index out of range
+Teste 2 deu errado!
+O resultado para
+9
+s
+8
+
+deveria ser
+9
+mas deu
+
+Teste 3 deu errado!
+O resultado para
+79
+97
+62
+52
+54
+52
+83
+62
+9
+19
+62
+38
+60
+10
+37
+2
+18
+23
+64
+71
+69
+10
+87
+70
+82
+94
+60
+37
+14
+39
+28
+33
+63
+15
+s
+22
+
+deveria ser
+2
+9
+10
+14
+15
+18
+19
+23
+28
+33
+37
+38
+39
+52
+54
+60
+62
+63
+64
+69
+70
+71
+79
+82
+83
+87
+94
+97
+mas deu
+2
+9
+10
+14
+15
+18
+19
+
+Teste 4 deu errado!
+O resultado para
+73
+83
+86
+97
+42
+87
+46
+80
+68
+0
+51
+53
+0
+78
+5
+20
+97
+86
+48
+31
+50
+56
+24
+75
+51
+39
+31
+50
+95
+81
+76
+97
+49
+15
+99
+61
+64
+35
+s
+41
+
+deveria ser
+0
+5
+15
+20
+24
+31
+35
+39
+42
+46
+48
+49
+50
+51
+53
+56
+61
+64
+68
+73
+75
+76
+78
+80
+81
+83
+86
+87
+95
+97
+99
+mas deu
+0
+35
+5
+39
+15
+20
+24
+31
+
+Teste 5 deu errado!
+O resultado para
+5
+69
+27
+14
+6
+85
+29
+12
+39
+23
+45
+20
+1
+93
+78
+58
+95
+26
+92
+15
+85
+25
+97
+43
+94
+74
+5
+28
+45
+13
+2
+82
+s
+4
+
+deveria ser
+1
+2
+5
+6
+12
+13
+14
+15
+20
+23
+25
+26
+27
+28
+29
+39
+43
+45
+58
+69
+74
+78
+82
+85
+92
+93
+94
+95
+97
+mas deu
+1
+2
+
+Teste 6 deu errado!
+O resultado para
+53
+96
+16
+31
+52
+5
+45
+80
+56
+97
+20
+55
+11
+1
+72
+38
+32
+70
+4
+70
+4
+16
+94
+92
+23
+21
+9
+30
+78
+16
+73
+87
+60
+62
+50
+93
+30
+35
+41
+21
+15
+59
+0
+47
+s
+15
+
+deveria ser
+0
+1
+4
+5
+9
+11
+16
+20
+21
+23
+30
+31
+32
+35
+38
+41
+45
+47
+50
+52
+53
+55
+56
+59
+60
+62
+70
+72
+73
+78
+80
+87
+92
+93
+94
+96
+97
+mas deu
+0
+1
+4
+5
+9
+11
+
+Teste 7 deu errado!
+O resultado para
+29
+43
+26
+78
+12
+5
+35
+1
+23
+58
+49
+14
+81
+21
+13
+85
+56
+27
+75
+80
+92
+96
+23
+41
+30
+29
+53
+87
+23
+73
+0
+43
+36
+26
+12
+56
+6
+63
+88
+55
+58
+35
+55
+96
+80
+53
+86
+31
+6
+s
+55
+
+deveria ser
+0
+1
+5
+6
+12
+13
+14
+21
+23
+26
+27
+29
+30
+31
+35
+36
+41
+43
+49
+53
+56
+58
+63
+73
+75
+78
+80
+81
+85
+86
+87
+88
+92
+96
+mas deu
+0
+1
+5
+6
+12
+13
+14
+21
+23
+26
+27
+29
+30
+31
+35
+36
+41
+43
+49
+53
+
+Teste 8 deu errado!
+O resultado para
+35
+49
+89
+82
+16
+43
+79
+10
+42
+41
+43
+71
+98
+57
+27
+89
+19
+72
+59
+21
+34
+91
+s
+59
+
+deveria ser
+10
+16
+19
+21
+27
+34
+35
+41
+42
+43
+49
+57
+71
+72
+79
+82
+89
+91
+98
+mas deu
+34
+35
+41
+10
+43
+42
+16
+49
+19
+21
+57
+27
+
+Teste 9 deu errado!
+O resultado para
+91
+82
+25
+40
+62
+46
+85
+23
+35
+94
+36
+51
+81
+57
+75
+60
+19
+39
+82
+63
+18
+70
+37
+14
+26
+88
+32
+52
+40
+59
+s
+21
+
+deveria ser
+14
+18
+19
+23
+25
+26
+32
+35
+36
+37
+39
+40
+46
+51
+52
+57
+59
+60
+62
+63
+70
+75
+81
+82
+85
+88
+91
+94
+mas deu
+18
+19
+14
+
+Teste 10 deu errado!
+O resultado para
+15
+22
+21
+16
+15
+2
+5
+43
+82
+53
+64
+72
+53
+37
+32
+s
+38
+
+deveria ser
+2
+5
+15
+16
+21
+22
+32
+37
+43
+53
+64
+72
+82
+mas deu
+32
+2
+5
+37
+15
+16
+21
+22
+
+Teste 11 deu errado!
+Se nao entender esse erro, peça ajuda ao professor:
+tester.py, 132: IndexError - list index out of range
+Teste 12 deu errado!
+Se nao entender esse erro, peça ajuda ao professor:
+tester.py, 132: IndexError - list index out of range
+Teste 13 deu errado!
+Teste 14 deu errado!
+Teste 15 deu errado!
+Teste 16 deu errado!
+Teste 17 deu errado!
+Teste 18 deu errado!
+Teste 19 deu errado!
+Teste 20 deu errado!
+Nota exercicio 6: 0.1
+Procurando exercício 7...
+Procurando exercício 8...
+Nota total: 6.1
+{"scores": {"ex1": 1.0, "ex2": 2.0, "ex3": 2.0, "ex4": 0, "ex5": 1.0, "ex6": 0.1, "ex7": 0, "ex8": 0, "ex9": 0, "ex10": 0}}
