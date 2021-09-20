@@ -26,5 +26,7 @@ for i in range(l):
 
         
     
-print(r)
+for i in range (l):
+    print(r[i])
+
 
