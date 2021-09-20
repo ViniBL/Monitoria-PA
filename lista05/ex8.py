@@ -1,21 +1,19 @@
 conj = set()
 conj2 = set()
 
-# while True:
-#     n = input()
-#     if n == 's':
-#         break
-#     conj.add(int(n))
-#     
-# while True:
-#     n = input()
-#     if n == 's':
-#         break
-#     conj2.add(int(n))
+while True:
+    n = input()
+    if n == 's':
+        break
+    conj.add(int(n))
+    
+while True:
+    n = input()
+    if n == 's':
+        break
+    conj2.add(int(n))
 l = list()
 
-conj = {5,4}
-conj2 = {4,9,7}
 
 
 for i in conj:
