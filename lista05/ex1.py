@@ -26,7 +26,10 @@ for i in range(l):
 
         
     
-for i in range (l):
-    print(r[i])
+for i in range(l):
+    for j in range(c):
+        print(r[i][j],end=' ')
+    print('')
+
 
 
