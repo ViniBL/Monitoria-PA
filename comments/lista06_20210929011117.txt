@@ -1,0 +1,614 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-10-04T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Exercício 2...
+Teste 1: correto!
+Teste 2 deu errado!
+O resultado para
+Andre,1.0,Smaira,5.0
+
+deveria ser
+[1.0, 5.0]
+mas deu
+[1.0, 0.0, 5.0, 0.0]
+
+Teste 3 deu errado!
+O resultado para
+Andre,0.0
+
+deveria ser
+[0.0]
+mas deu
+[0.0, 0.0]
+
+Teste 4 deu errado!
+O resultado para
+sMnZFMRjotkAmhIUizLspyawVRkMqwQMbYAeSQkozpCUyNXn,8.8,HfznncvKgUfUvwYpcKEklGSunuIzQwlVXqonfMMCvVDfeZsc,7.7,LpuaTlziDOcekJOoPtubADAatMaIOiBpmPsw,0.4,cYzMmmlgjmQMKIpbMCcPURBYzSu,5.8,IqtOZcGNhJKypTmHTEwpcPHjsfsflmjyWsFnmIBXCtWQMeDpIUNfpxUktzQIjoNGucUKDXrohcAihqlqzBVRnXghUVKCXFVmluAy,6.0,cKLrptSgMfJukbvtWfhGAiwtUxwIETUDlvSVDyMDbU,7.3,uXLugejsqotwaxgskDMrIzJkodYHEwqDKiNEdWMNUaQIAsjHovCyMbTyOgTLkidCgKafpBLR,3.0,sJLYdHbMJAqTndbJcBTAQrSYERAKklJRelTmxGXXpCNtbIPBpZMpURFDGFlDyNBLKCSIFwIadYbYswlPifCUvtzkRTqcehBsEka,7.8,skvTGslQbSPQRRawHfTsUrFyUZkLxDkhhoFdqHBLPIELc,9.3,KTywmXtlLWdzqTekFmnEzlohVSJUkPLuNNOyBsVkmjsURMYquFVMzJ,0.8,EWhlBjZsIlESJcslWAXucaBDvUhBbjpkurigdvSwhetVQuwwcytkpCeQZCJoYmEduxoWwpHGUfBWoGlKMIDtZdpOhiLueXcyog,1.5,MmiptqooDmnecnxuMBYrBwd,1.2,wFWdwGSxbFURWdxXAVXUPYhWHoIbku,2.1,LqkrtMohxNNcjpDvwoxCGqGNTMlFMXORiPNUWKqWDxBvDOPNbrSfbHqEvorrXAyQSyacrrozKIytDctRG,0.2,SXifYZzkRKyArmoeZYSbHFwtGfGjpVoFSSNDTcGsOHblFxetaXoYjBcTHUUNCsevoe,7.2,bvyjdOMcvdZNSkUkklcSWLQxjJxqEBNnlGiXtoMKsXe,4.9,gqoFfdKDRDAiEfjaytodPsatuSgIcXeAAEeadFmSbHkveFPBownGeetspEFqToBIpzO,1.0,gOqXLIAfdYFmTvxODtgKYRFCGwLsFxPBNOatSmJyXldC,1.6,LVXuHEyeKUeZcnrCnsrQT,1.0,KnLonLTWNHlWMAuoywBtuGOjnQHxuMzgqLZXtfdIYNubufNFVSBNCOiiP,2.1,PbfsmrnMPGoYCaCkdUqMZnXaPWMxzovRCWzOtzqzimgO,3.2,kNwtWeeezIpqwiTAIEEmmTChvDgCfETdubqYNMhXOoFlkIgjfgXUmgeMGTbRKXGFeseHTFrgUwzaQOPxDLJU,4.0,ziCVDpirLMGUEwsxaEnyjetReHWUbudeAHjpGfRbRpCTPYYrBABwpPSZywzXsJAYdIwYWmIoLkkYBDPWhTDVBWOgS,4.7,EfyjkmBcRupUumnghdidbYsEIcdkCNgxfBebZNQWcxBLnoNYIGcesLnIxNBQt,9.2,oonlQlmZfPAdQYtHxshtjweuxNXyesetkKoSBcLUdPOOHgBef,3.8,agCgTXynxqSQAvzhicXYBdGaWydYQu,4.7,sTvDUbPGbLQXrAiSUpFUtskJsSZVgihqVTatwCWBQDxJEMSptRFZDEVjAaGfQ,0.6,utUsTgALctridEHWoEhtsLSjJUUKKmSbeXxHeOUmtShCbgfYVJIUOQFgLJTisVCEadrpriKrwJqw,1.4,VvAXhrrslwkLokePOJmdAIeuKeBNbKHgztMyXyyEqZFYJlDfwbdViyyTgCrxkPDspFLHnQZdaLRorRyPdWcPLoRHkUtg,4.3,ShLtCMBXzsfJDOvpReuNrJHMrwnjQQAOyjSPRSnbFMnqKgswY,9.1,KrvyJFAMIOtPIMayMWIAQkrTMojsLcUdcEhvLpvpzRtRiHEmmLPeriFABUSxzZfnRP,1.8,kohjZuQosqkCuNQbvFQiVFrebCOoffTyTdiakNyDBDQXtEXuHcYqDwegsOxIQrsBjEWfdaX,6.2,qCCVfWDfroBrgoQHPOGGolxkriGYymAPkBjcFFVSTuIACFnquNrDZj,8.6,yVvZjvJzbUKLfsKXZSHGvADvjTcHTjzqdlAdMBrjgBRZsLhpxYmPBTgcemxqDQbJbsqdrSitezgOvzfxAkhARv,2.1,tauYEKkJzEtUftCGQbJCclQ,9.5,ZYcraDOVVJPVrfTwcmiCMsrLuqYHEtr,3.7,DpyLJKAhsRbbGUkRNPPMsFctwV,5.1,PZypPptdWUOUqcuxCTdWcWYvXiYybEDstPRM,8.7,XgCzbapaMKOiEvEYdRylaHWrsqvaWVkHeGOspVSukPNCljffWR,2.7,UbmfZdEiIRkjYREfAVwXFWlAXMLgMxNTzCW,5.3,BHxqymSIknQFMOpFYVzWbUKWOYNVJcTvQPDZYvmUiMgCrR,3.3,bfBEKDRjJDVZjvGtfdsevphRnKaGxzZLHAfOEhjeXFlxKJxTalULBjJlnBrwUhkmwEce,7.6
+deveria ser
+[8.8, 7.7, 0.4, 5.8, 6.0, 7.3, 3.0, 7.8, 9.3, 0.8, 1.5, 1.2, 2.1, 0.2, 7.2, 4.9, 1.0, 1.6, 1.0, 2.1, 3.2, 4.0, 4.7, 9.2, 3.8, 4.7, 0.6, 1.4, 4.3, 9.1, 1.8, 6.2, 8.6, 2.1, 9.5, 3.7, 5.1, 8.7, 2.7, 5.3, 3.3, 7.6]
+mas deu
+[8.0, 8.0, 7.0, 7.0, 0.0, 4.0, 5.0, 8.0, 6.0, 0.0, 7.0, 3.0, 3.0, 0.0, 7.0, 8.0, 9.0, 3.0, 0.0, 8.0, 1.0, 5.0, 1.0, 2.0, 2.0, 1.0, 0.0, 2.0, 7.0, 2.0, 4.0, 9.0, 1.0, 0.0, 1.0, 6.0, 1.0, 0.0, 2.0, 1.0, 3.0, 2.0, 4.0, 0.0, 4.0, 7.0, 9.0, 2.0, 3.0, 8.0, 4.0, 7.0, 0.0, 6.0, 1.0, 4.0, 4.0, 3.0, 9.0, 1.0, 1.0, 8.0, 6.0, 2.0, 8.0, 6.0, 2.0, 1.0, 9.0, 5.0, 3.0, 7.0, 5.0, 1.0, 8.0, 7.0, 2.0, 7.0, 5.0, 3.0, 3.0, 3.0, 7.0, 6.0]
+
+Teste 5 deu errado!
+O resultado para
+zhQscJzDLoeyNiXpyXkXGwZbJjWsDMFCEfVZkTrALTDxSmwIqTyFVOdrrHcYpWIrupoIcssyGb,0.7,ajZMsHBCJuKJnTNkQdzz,5.3,vjCtCSDQfcUgTgnmzXrBBeLgZHEfhdy,4.6,iFLPLaqjGgsmXMSQGDHNJnzPzxVYKRgWVlEjWOcJOGlCcSupBdFmMdfXVlpbefDzafuJGlELFBRdGRSFHlyYv,3.9,ikRXKatUXMYXFDCBFdgdnmxcP,9.2,AgEONsZbEWpxINZDcnENVRVTSGRwqw,8.0,jqhTzeXzcqRXZLKUyzOSyCdNkofvpvFkNvjEYusuOLzABBdGBHIckFJFeBqufiFTNWkdjfIvLYnAoWowujtFBjRsU,4.7,TMEnGFlyswyMPThPYpAPx,2.6,KXVqrVIZrPtdsYECFdESnpUakLkTPxdqtgmFHCVgvOdLIIocnYEmfgOjKqHLfVmrUsMPxrjzjFASZEflLenpA,2.6,qKhFRIfEsMYmqCBPMAFhcWbkULunFRFGVBoHAmzuAvYkXECQBHbcwNPtQHXNjTCZRnXxzNNFLZBuRkJhWGyjGD,9.6,PXSjQMXJihCHIIjPIdKoxRrRounUKtxEnRXThQJeoIYQQFoiJtSsCiizFoJgxSNzbMHaCwtbycOE,1.6,LFFVOOmXKhpgujwhjPXXyQyLzLGnjekaLyvHSmkbeApNDZrELtOLPEiYnJqdkaWWdBae,9.9,aVlDyIZKEfCQqJGQgMCPssRkjyXlHSsQMSSWgABXJAtFOPvQPTzWwOVNooACRRVWKOePNYDDDOISddmJu,7.9,VNvQcnaMogBTFeaqEKTqkpPkBwQrFZEIHvBHuqOoROEYolXnYmQynpMVxLHXCrOrMudHtjluJjLyhkEAtAylpsxBs,2.6,zUrmEHXlgBesqKmgslbIZgUftBQOgbXpBKKDVLsTitkpTxNoOpaNHlNIHUdqfRkCMQtUcXnzxMbIyaFUdPhDVEQsgxrEXowMpsit,10.0,CSQszhLrZrECxbndqBObeOMXBrJesgtidQHRvcRWxjVcIoSbNbYHdpHOYrfSZgXFNalsGrbVIcqCIrYjqirwFjBWoORDxUeytbRn,5.6,hGGRdQjvqXzfQjxjaBYhlURbHzFLpnWhWPuXSFZbsgqwnfaUxOdTjJakxcMeBTBdCQYcmQXjFuPJiHFhucdKoCbrSPf,3.7,IiFRxjCuONjXtpnIHDvIGOenkZMDj,3.8,mRhgLyLxSKCZGRuaHUSnNkZMIuZ,5.4,GrfrEicBXBdTlDksLsNzxCAqXnHIkTwLaRbRbvZGUyTDSsBfoRhkqHkUEHukpxmk,5.2,fZwjFqvqwQMCWVadhdKbrRRFXDyqxLckwoFsyCDtiSKxdHHraFqGhKgBPZyBoMpuIVqEIarrCfYSg,5.3,TxzfPxVHQaXUvPzcTQhxlFEVatSeelLThderLIpUxdtyYpoEVcIuFYSquEzefBZdpGRrLJYNdAameAHgVdeDfMgt,2.4,dBIInEswwqxKiTEsdDTAgEvQmFYFcWWZoWEEqdIEJOsxCMBFdNxEHeSZEGShaQlfOnGMnexBqkTcKsqHFUgYkPHzfQINuWrIUOYW,7.6,oCdybbnpxgLkTsAXTsbwIvVkRzXncpFJQEvXcMsdGNAfFRSaqlARkqXARQKpNZqhqPBmhfahs,0.6,myDbXbevORzrARuiROoCduigbDVgpFkaMcKaeWqTarjFMKYIMetOzXG,4.5,FpNOavNGPAkjmBeWIwlKwCwYLdeBYBbfwLTAJbYhQUuugeOPRxxiD,0.4,iGxWcmfapfltTWeCFtCIHSWLyvIDgUquKlnWDEsDulewieGuJQByeJtfpftRnejmxaPhDRFfUOaTeLtaQN,0.9,dBCQtWWxGpZIwpwxgHxMxqeUOkeigGwYkfjtFm,7.8,yyilaaViYmiAiQukITZdRmvtsuSRyaJBniYESbfegNfkLfBLpxaZDBSdcAeiJsiWWWN,8.1,RTnJXGmcmIqXkalUnHZyicAwkNzBJTzrTkjBkZFMvnAhBGKkiiIMUIIKHtASxBZOdqakoebVBIgE,0.0,lllEIZigQEbUsmDdSeESVYSjDoceG,3.1,LSLCuhoBmfCnrxCeKnenhGmtokZxYHKcZwdTEObrosZMuuefJQjNcRtodpScoJWKvjHjjg,9.2,frLtKBECPDgsFOxVbbAKgjOzwcQGWcDSnUYdyuUaeEpgHnV,9.4,dpjQgPxoewClqLfRXeuSDNAhHMGkeJpudfLwQZMafOrWBnwrHEzhlSmJQKmbaEPRuWufXzHQJjRTxezjqHveVbnIKoGK,0.7,FBEIGJXvkzfmwPKVWeIEbszJuDSBIlXXZ,2.0,EpvdXQOzNVJwqIcfuQUzfNIPVvDTxMdYsyMrloGGDMYpvfMZrXrZJVYApLpScAEhSsmsvCmLHtsVVUoHl,3.5,cQzjHudmLvnyQujoMqrRyZQUkFUJFHrUopVNtKrSaiCAffzOzlqKCzgPrZEZCWehOklzBQTstg,0.7,efffhxMdlYRQzeTYaxEIXZxOywvQGYnMCrtTqZQoUIMSTNNlKoIYVtxnrLHSBPjMj,5.1,QGIYkCyQAMRytNYkYoIUiSeojriBPjAknUJqAVNjFyGdweUukvgZIkuOrWZNSVgxAKUYpXzOvJoFtdhMLgfDYQMKUNIwoebBFAL,2.8,unezjRdLPGgiAnHlpHumPmXalKoyRNUrTeIPAKghJq,9.2,gcjareOPczTYSuYlhklnTwmLGpSqtgsftTLijejWXDFYwmfRQYRUfLeWXMXXFRL,7.2,MLwDOspzEpdHUtYbsHQETfyoowvLDWozadKqJWYhzZdnKQSgvxdSMfB,6.4,HLFVwSPpDADgdgspcWrgmgohBZ,2.7,cTPGDqvCdJNVUfimSFGJavSWTugLAeiAytpHxFhJBkNEFGKcGElTgCcZYUfsMzSsHDUiMiJZZhBWuwIfXMnl,3.0,SUCRDQVtDDxTnGQPnUYclrsDNTjEaoXYZNaSWUxjzcoYuCAHElXMwxBWlJgLvJqLyDFKVUXWn,4.8,ZZMDdTxyZNxlklQTgqIJVUzoGDpylKgGwQwvhSiHMQTQrkAYgyTwObmRLaSeMaqBWuDjmyNSulxgyW,1.1,fSacBxdfSUTCjstCTRwoMTcvRjIGtvVTGRaHWjunQGXS,7.1,AgAwGFHRYFbVSYgrWrVFqrDXpRhMMmSaUUqsOmMiggozHmTcVibmgXQItqhEDLVyvPvnqzDyXwLZtDdLbxRFGZVasuOJaAIuk,4.3,lAEuWEvWXxbgGDMZREJDwhketXYJviQFjOclAdgUGizmgELbLlituSOoEXgzVvRwXsRHCnkYPMiZzAemcGomZ,6.3
+deveria ser
+[0.7, 5.3, 4.6, 3.9, 9.2, 8.0, 4.7, 2.6, 2.6, 9.6, 1.6, 9.9, 7.9, 2.6, 10.0, 5.6, 3.7, 3.8, 5.4, 5.2, 5.3, 2.4, 7.6, 0.6, 4.5, 0.4, 0.9, 7.8, 8.1, 0.0, 3.1, 9.2, 9.4, 0.7, 2.0, 3.5, 0.7, 5.1, 2.8, 9.2, 7.2, 6.4, 2.7, 3.0, 4.8, 1.1, 7.1, 4.3, 6.3]
+mas deu
+[0.0, 7.0, 5.0, 3.0, 4.0, 6.0, 3.0, 9.0, 9.0, 2.0, 8.0, 0.0, 4.0, 7.0, 2.0, 6.0, 2.0, 6.0, 9.0, 6.0, 1.0, 6.0, 9.0, 9.0, 7.0, 9.0, 2.0, 6.0, 10.0, 0.0, 5.0, 6.0, 3.0, 7.0, 3.0, 8.0, 5.0, 4.0, 5.0, 2.0, 5.0, 3.0, 2.0, 4.0, 7.0, 6.0, 0.0, 6.0, 4.0, 5.0, 0.0, 4.0, 0.0, 9.0, 7.0, 8.0, 8.0, 1.0, 0.0, 0.0, 3.0, 1.0, 9.0, 2.0, 9.0, 4.0, 0.0, 7.0, 2.0, 0.0, 3.0, 5.0, 0.0, 7.0, 5.0, 1.0, 2.0, 8.0, 9.0, 2.0, 7.0, 2.0, 6.0, 4.0, 2.0, 7.0, 3.0, 0.0, 4.0, 8.0, 1.0, 1.0, 7.0, 1.0, 4.0, 3.0, 6.0, 3.0]
+
+Teste 6 deu errado!
+O resultado para
+HhUXCGbmjaeDRtXtSqfkpeuwgAUwNjJVrjuFzEnGwmo,6.4,yVZjgbfzYssoxmEEFMUsOQJUsEiiCMHNwcdwwgNRnaR,9.1,UDkgNwbJYzPAlKztARYBcwzeOgwfx,4.1,IaMNGfEfYPHnQJmRIaqmXByANfVtzPXNfFgGUVYdWgicLeiJZTvKtqyNjnHDEFXpMUEOYHARIT,6.7,ebkOwEcxGEEqkIuGvAZFYgBxARXwarZZG,6.8,mLnlOLQAaskRBKojxUeRmRxINdZejfOGGcg,9.3,aibiRxpuByVbwAjGUzfclvydqGIIPMAwWSQovuTYAIUOlMLRyIZWhpBMdoNjCNWqkYDfSPlsURHPXCrAXdU,3.0,GnUMmLsiPzEaNPdsFTVeiSNoIrsPBrhHCjQ,9.0,aEoYmbPIDUepqxBjflTxwJqOHcRFcDvDfdqLlFhEWNUQoRvqgxtOY,0.9,vYBXfRXyGLKWWKWABHEXpCqxSAmaYh,6.3,uMOOygEHfhDdjxCMEZUOFQVkdGKwsaSstoupMYDwhTRRGYrvkIEDCnuCwHVlsrWscwuQjVpGWijXOX,6.2,dNhFUkwhNLrhbNmrfnieBBaxoNqQWCOo,5.1,yIdcRsAgjWOtepuzHxGGhqMdIf,9.9,PyArQIiAnAsTtTQldWqWzjycnRbhQrEyyDWTIOfWRuCKBBAcZAoe,4.6,JpxbwktfEoZqlqHCeDzhgXKHoLCaQwHi,3.3,ZYttiYMAfjtiAAjDlhzM,2.0,xDdJPjtZLPGaRDoiPmalxJDJfqopcplZaFdwUScnrnWIydrKdbJRxDxqTHrfJgyEYMWOedSyhmFnMyLbXJtYmGNmkUdnng,6.7,KQGKoXsUAuLHHssZLOvmrGWiRbIjQKWE,5.5,iNZgiLcaHlPnfIqtTDElkFmobohOSXGKDImcYIzvwXXquYeYhUMvIXShhCWJFDaeGJJYiVQOYOjIIrmsqaQCOlVFIaqt,1.0,EfLvjYXjwLOXAEFQwpPGcVkOGWlqjwOvswCntNekqZVcrbnDBulrFABkprEdGmEURRIHR,9.3,okdMUaEpnBaxorEjhAjBjLyfGJdIXpDthBMQkbLni,7.2,faqBnwPSufqmbPDgLYCUAqGHOBwdiAOaWQmdRxuM,1.6,cpqtKgBcxcSrrnjMbXzUrAhCxKfosi,4.1,trTIYiYzEVLFqcICQTQJddOMgmRoQzOkpXXCIdEiGpvNGfOvpzqYFVqdxnvHaucRORsHezWQfSfNTiSZLpeDKRobUKCSZw,3.1,SoVvpDGYXyszSDnARUmdCF,0.5,KhLyXNNpTTeGrmHcCZMZnZrXKVSnscOMqQfSvImcuXIzAaxeofAgWjdCgqwIQrJsZqpyJUFvcFlmGiB,8.4
+deveria ser
+[6.4, 9.1, 4.1, 6.7, 6.8, 9.3, 3.0, 9.0, 0.9, 6.3, 6.2, 5.1, 9.9, 4.6, 3.3, 2.0, 6.7, 5.5, 1.0, 9.3, 7.2, 1.6, 4.1, 3.1, 0.5, 8.4]
+mas deu
+[6.0, 4.0, 9.0, 1.0, 4.0, 1.0, 6.0, 7.0, 6.0, 8.0, 9.0, 3.0, 3.0, 0.0, 9.0, 0.0, 0.0, 9.0, 6.0, 3.0, 6.0, 2.0, 5.0, 1.0, 9.0, 9.0, 4.0, 6.0, 3.0, 3.0, 2.0, 0.0, 6.0, 7.0, 5.0, 5.0, 1.0, 0.0, 9.0, 3.0, 7.0, 2.0, 1.0, 6.0, 4.0, 1.0, 3.0, 1.0, 0.0, 5.0, 8.0, 4.0]
+
+Teste 7 deu errado!
+O resultado para
+IAydOVEuZeKseDdhGfaWAjWveXjEq,6.4,hGHyTzjfxJnMIlFIttkgsaqrnKrKaxwELOrzYHXDgcRsrvDZLxeQrtHKzbbIKDsDQFUqWsqFYx,7.8,NLZQrksVvIhIlqDfduzhfkLpnMAHvUBtVTlCEbioqSmOmWiOAMqlPYB,5.8,EXOicOLaKUQohWbiqCIHZSgSHBDrptAECDCwTcVzzocHVwdspTzvDIvVmgjPauPsvDZqJvFtYxEjNSPbwdrVmwzPXuMHFIwX,6.9,uatleNnUPtUFigMbviisScWMrkggbhXHuuJDEaY,4.1,grzBWudPpvvgszzsIrtkn,7.8,edJjFdBktYITGFeKMqJnaDfeWCvcSqWcWOdyTHIllqSTNhngwrFad,2.1,zoaFcoLOqJhEHIgcxUdFYSOMCIiPsgIHhPQppFsGqoJxXLyWzvuqHDYtqWRVNMkLtGeVLPLbYtmTCUuJhaLDK,2.3
+deveria ser
+[6.4, 7.8, 5.8, 6.9, 4.1, 7.8, 2.1, 2.3]
+mas deu
+[6.0, 4.0, 7.0, 8.0, 5.0, 8.0, 6.0, 9.0, 4.0, 1.0, 7.0, 8.0, 2.0, 1.0, 2.0, 3.0]
+
+Teste 8 deu errado!
+O resultado para
+QEOPpsXasZtcnmYgxPpxPbumbdRXyQFDtLSKjMNtfWkdzocDqluCvlnscJNV,2.1,KUQBZqYlLUwEOGEaBzMDmvJSLKfPYnw,4.9,MCHWTYNBkCYriSdkCYTBkltyNpLPIFEmI,4.6,piWOXDaAkcWbWhyognMLWxwxpGVAgADNGbDnSBjheswOHWvyeLpyhJtiYicOheBKgoaxtrJTkyhSQejPVtuKrNlhvhOxTWoQbdE,3.1,wqnzuqpvEQyBPDmlORBrQqsrauzavhKTFgMEAuGeNquDuyGwtElL,9.0,IashXhbfeyPtrStRGkHJoWdZbQvhWUZIKDRkoNqyJoJVLNfNbOvIxTEcEGqpcVzQwAt,7.4,zrcgNAcTWcuZRMGxnuUliQNoDqcIqsLaPuxbDMVczzBHNfQjiFcOaqjuyl,10.0,KUuEPbcENCktSphHdkbWUhJngPRbdCFJkmLACsIhFDxMpWizNFpgTALRooXYoRyp,3.5,rAdXbQgISRKDfMWNXtXDbWnRtOjuFKyxewayPsxlXCzFakJeUUrksGnKZsrA,6.1,TlTfcCeuteJuiVMGBfKFrZADbeeqyzYeLGJMLzpJfbcCngyaYtbzNlhTG,0.5,gtvEdkwfdfnBVAvBlZadoKbwZJogZi,0.9,dmvfWAiAVfrcTIplLdBbafcjtIInZUcnWkpgFXsCimgDiVxtFUvwfmLMhiGZrHbykDxlXkqvwyhXADy,5.0,BsoTqKDfkAweeOwFFfEQlaynHxodMfTCnDTiKBiujWawcxbNeGmXzKrtELcRiUWxOFISgIFbYukQX,0.7,lxVCOtqqYfnOAonMoCKFltpgpZhjJUXYH,1.4
+deveria ser
+[2.1, 4.9, 4.6, 3.1, 9.0, 7.4, 10.0, 3.5, 6.1, 0.5, 0.9, 5.0, 0.7, 1.4]
+mas deu
+[2.0, 1.0, 4.0, 9.0, 4.0, 6.0, 3.0, 1.0, 9.0, 0.0, 7.0, 4.0, 10.0, 0.0, 3.0, 5.0, 6.0, 1.0, 0.0, 5.0, 0.0, 9.0, 5.0, 0.0, 0.0, 7.0, 1.0, 4.0]
+
+Teste 9 deu errado!
+O resultado para
+tQqLMhgrXIKpZnUycsgGhdIcrpmxG,5.4,jYMhQYykyfskUGfyvqPGPykONnrKEnDWAZWKJWzvhTSpigDMdcQYDNoYYbgBmIZO,3.0,IKvcKJKIbQwNRyVrMOpIfYsUFnDcinBsvoDNrCbuKmIYdBbLtyAMTlMy,6.0,fmntywYXXEldADBtVTBmdlxKuoeEkwyEuTQjtPWygEEDUHAwVDnzwAvuUNGLYoTJRTbXYDQoSzvNtQuwhMMSDgQBb,5.9,hSxZkVQpBmBQXvOteRYpnkJqeSNMFk,5.7,yTBEKhbMXJXVzRSuWLZYNlCsgVZljYmmJOwUIVzxRRbItkUoaKdKifIHxLfvJNliEVGTfRCMBcwBHOBTVSfLrLSaFTxtfaEMkPnC,0.3,miTLcpOHEfsgCvAjiuGtYDioWbZrYKwkhdZjMKIKaeHJXejvyPIfkOlbcUjVYFDIPvQlRHvvGhXSbFIckuOGsRRp,8.2,AbmouAwGEKLFwWoFsqNvArhUlFnUnOaLxAIcwNcewcWcrKJeLdvUuNkxcDgzgWxdIEJKtwzDGTVFHITTfwNkrQvDGpkVDbU,4.9,aeoXrapomXVukXBaJqkZDcGEydFXmypDJWfDuSZgBetPMBWNIMiCPzaJOhrhZStOWlnUogBeRTOaJlCCdJvY,7.5,HDXnBbPSlYEBnEMbaROzyOZTxKhMxlFLqqmlivZvNlLbezhprgvGwiqFcXPArOlrDqbPDB,2.8,DecHkEPcRUoAjBiwgGxwxeBPdPhuhkwBdhtUvzngQFdWFqFgzVKpjLHyn,8.9,rQzlqlrDcwzSJJGMRiiAzJobYVfLpkAzXGVzILTEDaNcJaVXOOQrvfCjVJcGhoKYnIqRaiUseKMFLUgcbvpte,6.8,zHuYUEanIUhXrtPMDjwsSmPaaA,9.4,iUHBTgpKIrHUDeezlpQlpTbLIpvRbhuWLPcPAvTZbbkVdmdlcmIhzQ,3.4,JZLFesSsKIxgVjbVWhVRCnUZQNtGiwZJmegJvGNWyQDEy,1.2,lZudVzWpBrGUkWdexvpIptSvcKzgEgXKknKqkXVIOGfbpHNPwBchfHOfKCfziaqVUkzYZMIYPxRtRaJqdjboZRExhd,3.1,nAgOdKJpZoRUlXegpXRaiZoGUphjNlEIjWmcRfhCUigRiuYvbdyDFoJJAXOSlyDsgQEbpmdzYDoB,8.5
+deveria ser
+[5.4, 3.0, 6.0, 5.9, 5.7, 0.3, 8.2, 4.9, 7.5, 2.8, 8.9, 6.8, 9.4, 3.4, 1.2, 3.1, 8.5]
+mas deu
+[5.0, 4.0, 3.0, 0.0, 6.0, 0.0, 5.0, 9.0, 5.0, 7.0, 0.0, 3.0, 8.0, 2.0, 4.0, 9.0, 7.0, 5.0, 2.0, 8.0, 8.0, 9.0, 6.0, 8.0, 9.0, 4.0, 3.0, 4.0, 1.0, 2.0, 3.0, 1.0, 8.0, 5.0]
+
+Teste 10 deu errado!
+O resultado para
+IcKMUrNsLKSPBIgrVzkwVByFoOmPnfqcrxafQdozZHOiLGkZGkxlani,9.3,gpjNrKDhWENJlXImqUHqGNt,2.3,AvkcjEJoIETfReMZZMQzgnKIaJoqKCrTfCxuTgTCEZvlhZyZFiIsCgaDqpjJTUuyBeppjGVCFuckJMwJeOeemlafBaFjxADkd,1.4,mJOgglnBUlrLpOHYNcjjTVmARtDveEAgXQDTsKxFxIueiaWgUdjjpPFHPUqTDTGCqKGwxDqXFnk,9.2,YSObdRqdxFCdrOFYNPcujGFdlyBbYqwaTBoqlMMNVoTXzRGXeOajnbektEBixrOEfQThePQtZzAjUjdTtTRqSdcfZRx,2.0,dWyJtVGItuEjwjEFbzKcAGV,0.7,KrolvJjbtrzcWElSUVSxGbFFn,3.0,InXUvugmFhnKdVPkvXQJoSUWnFJaBXYfbGjtQeWfDjjxSrcOUKmbZfSyRpmoeGNuNpWKPLcHuYjvqVpHqVOCNiuUjHOYQqQt,1.2,JrAnRwXuJlsieZuOynuorMq,1.6,tSLtjzQnrEOzhyUUZZwapSnTlUGEzCOskoVKMYiygDYuprPIiqtPutTou,1.5,mpkqwvDcGwkRCPKNSJbzZnRbCYrBtpYQeZtlvXgBbYGtzhYRzdcOQthPtbliBN,4.1,PkUZHwWmdUnQBrObFBvHUCMuWKBBHbtJNPyHLGwuTYZWbMCXqfzGujgNjTlCaREWmTNnWOPfgUA,6.0,HnmsUHpOPnwaermtUraNLZkbGFOQMWCodkYYNPbnzGphVsAeAnRZtkyhfnZXCkrSFZedhKLvRHujPVwMlHJnlZz,7.5,roCTMkPnGVFxxejXJWVqVlLeIOYYgebTVQSWeXmdLAQBwHGIeYVNW,10.0,jUeNMUBSsjBcDKtIzoyyqkFORaYDQFs,5.8,KKkiTqSyBEFDuKFkQhPvpbX,1.7,nFjrMgACXpZoXeYxfqzAtSKefXaTCwdTcfHmtrjQYlHuEfSVrrr,0.8,LTyuvDFcqFiluLuRJAKwGHmtZkmOTSXHTRyyAlQDeEAVovOjVovtirTiLNrwifkVSzefWPGxMaRJSvuuFGjTffb,0.1,ZXgsXScZmYVUURwPllCgkKYNDhavBibzMagvXSdbwDiFaZcAPqBWYXlBDASdCcVVMhcoyhHrlqYfqm,5.7,kogpCqYUPRGfYpGouoUaeTIYlYtSzYBkRcMmCbPckclmoqqv,1.7,kqYEyQdMXcFQmSsyIAyiQmObN,5.6,vjIuDkVMXpmqwzYaOpkhXFCGIquPPAzRPHcETlIIQbOQXokmDDoIqve,3.0,ezvFNDjqClNZUhrGFvtjwPGdcgt,0.7,IJLdRgDOHRcuzyLyDvnbdyqIOtRljoaCpIPDCHNmhmWfGpjZvRYXaUbxmNAfidppnEFBrhuaiTRlmmDSpF,6.1,AzCqRzNPbINorEOKcChdlSqhslwh,2.0,SvGWlzPZmJYGvbAimqpjsSPFYuiDotBWnYjkvqwETMOfkXsyJLPbszBRFYHHsGwpdfCPFTynGDaqcwtTTnvOgtVZeIWlasafSjxT,9.7,KwkItJVrbkvWIiuomrBbiQc,1.2,VOQdWLTafWYWLgmvazSEPVNAOlEzVgkbKRdlKEbPiOPyswWwsqiEiaQMmYNfgVKuPnCnWNwwgmmHtDgEJ,6.0,xSqrWgocxTVAVhNPNIUowiSfcJerzsJtahPsJbXQMqpzZAzdIEVtQONtAvtdxaaJhhIFutanKzosd,8.4,lNGKnqGkVLkfQCeXrqHnsqaMfhTtgwZZayzaxmcWgaAVNoHWKrR,1.1,wZiWWuVHLebidOZstnAJrPOl,2.3,InCXwbVvffLkKOGWvycMOSbiTWlrcGiSBRoaybqruNBwhLhFKlIBZbFzLARfwRHYgPRhcaYNGCNcjTlf,3.0,CZBXtQptGxrKimjyhNSFIcLdUPJcFfQVPtlDasWLujTdIjXhgxiZsELsBYmXPfrxXWKgYtzepkAWOlgINlhsQIXI,9.7,NDkWLAoXYHRNFLgPQCSWJdhvAPuOcdyUHmAtHZGJOTJfsYUobGpwVNUcSxQ,8.2
+deveria ser
+[9.3, 2.3, 1.4, 9.2, 2.0, 0.7, 3.0, 1.2, 1.6, 1.5, 4.1, 6.0, 7.5, 10.0, 5.8, 1.7, 0.8, 0.1, 5.7, 1.7, 5.6, 3.0, 0.7, 6.1, 2.0, 9.7, 1.2, 6.0, 8.4, 1.1, 2.3, 3.0, 9.7, 8.2]
+mas deu
+[9.0, 3.0, 2.0, 3.0, 1.0, 4.0, 9.0, 2.0, 2.0, 0.0, 0.0, 7.0, 3.0, 0.0, 1.0, 2.0, 1.0, 6.0, 1.0, 5.0, 4.0, 1.0, 6.0, 0.0, 7.0, 5.0, 10.0, 0.0, 5.0, 8.0, 1.0, 7.0, 0.0, 8.0, 0.0, 1.0, 5.0, 7.0, 1.0, 7.0, 5.0, 6.0, 3.0, 0.0, 0.0, 7.0, 6.0, 1.0, 2.0, 0.0, 9.0, 7.0, 1.0, 2.0, 6.0, 0.0, 8.0, 4.0, 1.0, 1.0, 2.0, 3.0, 3.0, 0.0, 9.0, 7.0, 8.0, 2.0]
+
+Teste 11 deu errado!
+Teste 12 deu errado!
+Teste 13 deu errado!
+Teste 14 deu errado!
+Teste 15 deu errado!
+Teste 16 deu errado!
+Teste 17 deu errado!
+Teste 18 deu errado!
+Teste 19 deu errado!
+Teste 20 deu errado!
+Nota exercicio 2: 0.0
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 1.0
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 4: 1.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 2 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 3 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 4 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 5 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 6 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 7 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 8 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 9 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 10 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 11 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 12 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 13 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 14 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 15 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 16 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 17 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 18 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 19 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 20 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 21 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 22 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 23 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 24 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 25 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 26 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 27 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 28 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 29 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 30 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 31 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 32 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 33 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 34 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 35 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 36 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 37 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 38 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 39 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 40 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Nota exercicio 5: 0.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21: correto!
+Teste 22: correto!
+Teste 23: correto!
+Teste 24: correto!
+Teste 25: correto!
+Teste 26: correto!
+Teste 27: correto!
+Teste 28: correto!
+Teste 29: correto!
+Teste 30: correto!
+Teste 31: correto!
+Teste 32: correto!
+Teste 33: correto!
+Teste 34: correto!
+Teste 35: correto!
+Teste 36: correto!
+Teste 37: correto!
+Teste 38: correto!
+Teste 39: correto!
+Teste 40: correto!
+Nota exercicio 6: 1.0
+Procurando exercício 7...
+Exercício 7...
+Teste 1 deu errado!
+arquivo.txt
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 2 deu errado!
+/tmp/tmpd7u2uw5q
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 3 deu errado!
+/tmp/tmp_gdtsoyu
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 4 deu errado!
+/tmp/tmp8dcqw0d2
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 5 deu errado!
+/tmp/tmpq4he96zd
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 6 deu errado!
+/tmp/tmp1ik4nwlr
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 7 deu errado!
+/tmp/tmp1jnuiywm
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 8 deu errado!
+/tmp/tmp29sw7ym0
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 9 deu errado!
+/tmp/tmpy8xj8zmu
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 10 deu errado!
+/tmp/tmpog_uigv0
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 11 deu errado!
+/tmp/tmpgg73p89e
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 12 deu errado!
+/tmp/tmpx4nr6gjx
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 13 deu errado!
+/tmp/tmp0_iffaqa
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 14 deu errado!
+/tmp/tmp2r3lln44
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 15 deu errado!
+/tmp/tmp139l2pu9
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 16 deu errado!
+/tmp/tmpij00ujs1
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 17 deu errado!
+/tmp/tmp0fnsf969
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 18 deu errado!
+/tmp/tmpnrll8dtq
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 19 deu errado!
+/tmp/tmpf6i5i1hj
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 20 deu errado!
+/tmp/tmpt28vnow4
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 21 deu errado!
+/tmp/tmpo3p8nj2c
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 22 deu errado!
+/tmp/tmpjkb7d6qm
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 23 deu errado!
+/tmp/tmpa6u6mpuz
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 24 deu errado!
+/tmp/tmpro5ukvxx
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 25 deu errado!
+/tmp/tmptcare18m
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 26 deu errado!
+/tmp/tmphwgmj0iv
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 27 deu errado!
+/tmp/tmp8oh2bdb7
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 28 deu errado!
+/tmp/tmpyf30omfd
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 29 deu errado!
+/tmp/tmprrtwzn3z
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 30 deu errado!
+/tmp/tmpl44br6pu
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 31 deu errado!
+/tmp/tmpbvbe53to
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 32 deu errado!
+/tmp/tmpa8eas532
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 33 deu errado!
+/tmp/tmpcvd_prwz
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 34 deu errado!
+/tmp/tmp912uzpp5
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 35 deu errado!
+/tmp/tmp24g7f9m_
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 36 deu errado!
+/tmp/tmp0_jpv8el
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 37 deu errado!
+/tmp/tmpuln301gu
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 38 deu errado!
+/tmp/tmpb2b8gy7e
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 39 deu errado!
+/tmp/tmp0bddfq2r
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 40 deu errado!
+/tmp/tmpzxx878dj
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Nota exercicio 7: 0.0
+Procurando exercício 8...
+Exercício 8...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21: correto!
+Teste 22: correto!
+Teste 23: correto!
+Teste 24: correto!
+Teste 25: correto!
+Teste 26: correto!
+Teste 27: correto!
+Teste 28: correto!
+Teste 29: correto!
+Teste 30: correto!
+Teste 31: correto!
+Teste 32: correto!
+Teste 33: correto!
+Teste 34: correto!
+Teste 35: correto!
+Teste 36: correto!
+Teste 37: correto!
+Teste 38: correto!
+Teste 39: correto!
+Teste 40: correto!
+Nota exercicio 8: 2.0
+Nota total: 6.0
+{"scores": {"ex1": 1.0, "ex2": 0.0, "ex3": 1.0, "ex4": 1.0, "ex5": 0.0, "ex6": 1.0, "ex7": 0.0, "ex8": 2.0}}
