@@ -1,4 +1,7 @@
 import re
 s = input()
 
-print(re.findall('\d+',s))
+lista = re.findall('\d+',s)
+
+lista = [float(i) for i in lista]
+print(lista)
