@@ -1,0 +1,814 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-10-04T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Exercício 2...
+Teste 1: correto!
+Teste 2 deu errado!
+O resultado para
+Andre,1.0,Smaira,5.0
+
+deveria ser
+[1.0, 5.0]
+mas deu
+[1.0, 0.0, 5.0, 0.0]
+
+Teste 3 deu errado!
+O resultado para
+Andre,0.0
+
+deveria ser
+[0.0]
+mas deu
+[0.0, 0.0]
+
+Teste 4 deu errado!
+O resultado para
+prfYgSNUrqNGBqHUdWTbsOVRprwUlpikDUKUPIGbMvUHhpFyNkzkgpElnENhCOfFxtMbzdZXUBizRGwHLHBjhRlAkJCB,8.8,pABEggGqGeJpdXFnfHcFzacKyDRcIwPNtGyMdSyitIgKgOYItBwOOxYVuVvYA,8.6,bEJmsNoiCZMcMfcCheupkGbQwEdWmdBHxhxAtZKWHprOgGoN,1.6,OCAXwaQettWFyKEibTKFWcgWrYkjZSOClZIbMGUJGbkgVUlHTtVAZXqicXJjTt,0.0,RLPceZpOrNIUnBQhytmPUTQHABzjIvwKwJWWJcLrCOlNhWEhDWKTcIUPMJL,6.8,cjcbbEcfMzFuLuSoBtkxKXsUscwhAYYadmJesGqvqlvFwbtnEViOnXMoA,2.3,ppLanLPqPrfQuDJdhLEiyxaBZONAJTkqKBaBjFdjvGolBCSYhJsIjWDRuDjtZasueRKSyGphBUqcOwgvzndOf,0.7,ijLUyYPSljEJpBPJFQHSHjpczUZiWggXliAQxkTWgZPMTaBMCfgCjGNBnuoI,3.6,ZxVElNSwGJUXJDdygIWLQebjfeMjDU,7.4,ufSvJxWDxHaUawXnkrxdQZghXVeawaZCMnpQYwtnwjFFrAcEksHwIuRNQNCHnHZGEAVvwsbwhQBqPxmxgnlgxc,7.3,FvmRBtBaIoULwBekDWKiCkLzbEZibUBHbEUqNi,1.1,DncrxroHbpFkPzaRbqkrXygUofISbvPEJYIRQXqXkAeZqOckEkZeYBIPCnonl,1.6,mspBfjOXOxeydWaPHoEQrjLFrGYcUGOvlICNakdQsxxjqJLJOMcyJBuLAbAGLIGoqKIafk,5.2,MhqMceMmRdwgXaObEtmrSOnntBpMHpuspIUkWGrpffGlMjOCBrvlhP,7.7,RezMlXdWHPEkZHSRSAwiifvFwUTKwFMbZGdrZl,2.1,NaLTorEiwAyhxkZBJVXEnYPRKwYmSvKqWRTOvrsxYdMiNeFNQUgdPPLGjLBSXOkRFAaCXYDWrSRdFpmoXwsLtCs,9.8,gUYuKVQsDBcdxdLZlVFdyzMkrKYehDeopwtOXtVtfxo,3.9,tvaBQuAOrkTIGToBiHQOQbTzoVshvuaPxsOUEBbyUPNZVkSsDhdDJBTvap,4.0,vFhlkQmpnqUtMjEIIXiYtOEEVUWktoceylNriXtjmiPBRCJNfYARZzWqdOorpjISCcEp,7.7,oQpzoUJNSxasGkllivbaODmXwzdZXDpVsYRCGpUeDrRExpfiZYGROiIYeqqfGerZJJ,3.9,WwwyconKiCAtKeqiCdMzgTWtGaoQiUVGOPT,0.4,NvOJjVcBViFqoBrGagxhWkppDnuPfrMFuKjreoiucHCOuEICUsylsKfEzVuFAQLVZwNikCdkukeuGazLJFbyq,3.1,jFscRqdcZYRqSFXZHNACozcUFoLVsydVyQJHdrykMcJBdiZvoWonfhrorUswrYYoYEEQuBOA,2.1
+deveria ser
+[8.8, 8.6, 1.6, 0.0, 6.8, 2.3, 0.7, 3.6, 7.4, 7.3, 1.1, 1.6, 5.2, 7.7, 2.1, 9.8, 3.9, 4.0, 7.7, 3.9, 0.4, 3.1, 2.1]
+mas deu
+[8.0, 8.0, 8.0, 6.0, 1.0, 6.0, 0.0, 0.0, 6.0, 8.0, 2.0, 3.0, 0.0, 7.0, 3.0, 6.0, 7.0, 4.0, 7.0, 3.0, 1.0, 1.0, 1.0, 6.0, 5.0, 2.0, 7.0, 7.0, 2.0, 1.0, 9.0, 8.0, 3.0, 9.0, 4.0, 0.0, 7.0, 7.0, 3.0, 9.0, 0.0, 4.0, 3.0, 1.0, 2.0, 1.0]
+
+Teste 5 deu errado!
+O resultado para
+bUvlcsTYWnxvlKXiocvlaEfrcxhgoZslCFThYJ,6.7,kkJmbRktNhFiwPhtbfTSNngboe,8.9,KBRBsBrNSthsrbBVXOEyjYauhBlKv,5.8,IUmYgRQSqXbIHJsnAhMgaPlorFVdvqfWfpIieHxcTYkQpxjtLaEDSHOCLRkfXasEfpCQWESsnwXaZTOlNzfJedRZKcaMr,5.5,ouLhPBHliWiyOqzCUGiYYJSVEMNZENtOZkXQWtcQzjTjsDzXcNfaOErwzadhIYLBujeBuclKIhiBckczdllKcQcXBmLdVj,2.2,tfMKKcFNeScKJoWTqZACaXgWirlYTIiTBeWqBtWeJkZsuSztVpKwBtxlLPjCXqGqWQVMTXYJssmuzUvigwLDADenwZIi,7.5
+deveria ser
+[6.7, 8.9, 5.8, 5.5, 2.2, 7.5]
+mas deu
+[6.0, 7.0, 8.0, 9.0, 5.0, 8.0, 5.0, 5.0, 2.0, 2.0, 7.0, 5.0]
+
+Teste 6 deu errado!
+O resultado para
+mUihqFraVgOvLURgtlRDaBJWXMyQDtQBcqd,5.9,SzrhGnhbOWZDsxaJDbIplCZsondDAKKeffAZjvTAKRxVxEHBtAhCsGiouXgghvZBJAWZybZFGYLIjNPJfa,5.8,MbhwjAsVfbqxHxYrepgFLuToCnOQyWlsLDkYAfbZzXAWTDKoiXaHnpVI,4.2,OtmhtbnYJbWNPbsEEFyNrBCDTOtSmbNQryvBrvYrzhSTjuLfOImnRvBlhzGW,0.6,WEZuSePUpCjqXsfzYUnfPDTWSksxYZOI,7.4,DeuiRSdbRiyVOShlWIqEEyqwYyaAdEEwhBxTBeJEDijkTpLbLL,2.3,SUwSmVaJfyexVuyzKxWKtnETIvQVoFtHtawvRVbGtYTYBi,7.2,XlXgSYLExgIxvgXjKsUxXWBcelfgkofNgiICEWmDFrOWeIenOWaznTkYKddsHhYvFrtQWLtGUataEXHcAzPjsWCqOBa,1.8,EnQaHGXNYOoHPNTWkMJGZBJncVaPaixUmFrQUeVRTbTyennjFdkLFgKLbcvJsAeIpqxTHYUWWw,6.9,LOzgjKowexWdShccBpPxjRVtumPhxuGYiuhqWZTwtizNZykGvQHfxuem,0.2,bpKtAzbhAPUHNWipVKOUHGZZRBIkgJlA,0.0,ZunouaIDiaPQcvwdcxMugCzAznDEyyxDbKRnVYOyzipUlXiw,5.3,yUQfeagYeniinbuZCxIlKTuivBsIBFSoeszxVHYGUbSrxSkQltAWWShyAurhMLeRbOOUEMvqIIRJJdPPZqAcbdcqdhtolUkmM,9.1,jYBjWWTopwaWSoEBRtZQWGsXDuYidKCqPIBxSilOyRgQTDWEgjGWcO,7.3,UdJvtzJEZYfwvgmkMUARXFpxjLbgxHvyFCetLBRmtqAmxJyUASK,3.8,EHwzhjtadyNZWSdKODGjcThVeVdCwrmWfgQMPTojfoWKmhIpuEU,4.2,fUnadwCbdIEzFBmeNxleiXcAtkvNhZAZulaDHdCoRwPVoTfmhsauFENNZIkCmXmocLuCSTKItclYmnDpSCjhgtxzVdPPBnzGuYJ,0.3,TFzeTHORrqwSsQVxLBRAikFKOcbgHdtsv,8.4,pdIxKGRyAWZKYVKlEXkNgzIhbfWWqDSXspblEJVuJhlERQJNEFkrlBQsCszsLXLSghZTHboYmhBaIpTwASfRJwwXHVOQTANWpsD,5.0,xEDcAjnhoGYephrbdZkrWzxISX,0.1,AmESoJKaKBAnqhPGZrPkIJuOVwmozVtKPFlAJYoYhfsqqkuHtoNTfWdCVBN,3.9,ErAUPrjUgCLYRTebnyqcEVwpVitccLHUvvCblybYOpALphXWgjVmqMzzaCMAYkixnRRIFVLUMf,2.3,uVYNmkRiXZurCgmHRnlSyGAkxGtnySeBncBgPlTthnwKsQjGufBbixjtJUKEfpCtSuXufttjwsoTzaW,1.9,UXzvLdJoonXAZlZhykiTEWVhExekpMFyxlFR,0.9,PWsrLCFjbnGGyRxFeRlhyGwDeUYvWBeqLLHLxlDgTkKQuwIyBAJoSOnIfYRyuEYqCPT,5.1,NyaBICgGAROKNCsRwtAYrbYIlU,0.0,HYVshKrYBShpbXASzMIjqkuwzuiYsgasVEfcBNhskDzRdnXRcrNaJAcOrrcTTxhDGsNpJmgdyxzCbRLtIyTXGSwrJupCrbFP,0.6,iLITNNmIpPwfegQesXwyKORejNQDWYGHECkOQsdXHoFVfbEeiuxmCVQdicsZWHGeYvRmyovaPreCy,9.5,KIPrXkHjvsKSHnDmQaunUfAWXzlpRIDlboDriIWNvePAINHjvdzXvZwLfnpCoFMnygUpGYuLGUCUvqCbPn,9.9,jsCqfFaxaMyYogwGWcmTLaGNdRxUudAMPzEteFmjnBNvEwqQtmTNEUxnFIvHTUTwdsYxEnbYKeiBavrnCp,5.3,AVSBNEPlFCKDRyAKPQTEPucmSkvdFxCrXvlRjTeHpdYNRPaaVyZBkznnPmLRangCkZETqKZaSYTfIYujuDrtzTuMezbApYqRToln,4.3,jvdpcISFVLgOZrnkLtUdfaGJUWXWPMNEeUUPZGEJoLHXi,7.3
+deveria ser
+[5.9, 5.8, 4.2, 0.6, 7.4, 2.3, 7.2, 1.8, 6.9, 0.2, 0.0, 5.3, 9.1, 7.3, 3.8, 4.2, 0.3, 8.4, 5.0, 0.1, 3.9, 2.3, 1.9, 0.9, 5.1, 0.0, 0.6, 9.5, 9.9, 5.3, 4.3, 7.3]
+mas deu
+[5.0, 9.0, 5.0, 8.0, 4.0, 2.0, 0.0, 6.0, 7.0, 4.0, 2.0, 3.0, 7.0, 2.0, 1.0, 8.0, 6.0, 9.0, 0.0, 2.0, 0.0, 0.0, 5.0, 3.0, 9.0, 1.0, 7.0, 3.0, 3.0, 8.0, 4.0, 2.0, 0.0, 3.0, 8.0, 4.0, 5.0, 0.0, 0.0, 1.0, 3.0, 9.0, 2.0, 3.0, 1.0, 9.0, 0.0, 9.0, 5.0, 1.0, 0.0, 0.0, 0.0, 6.0, 9.0, 5.0, 9.0, 9.0, 5.0, 3.0, 4.0, 3.0, 7.0, 3.0]
+
+Teste 7 deu errado!
+O resultado para
+lHRAggEUesVmyGPDuElqgGUkNPToHlEUEdZFbGPqAhkpHTTQVXyKoXTxtVhQ,6.0,sFaDQueEweSJSIBNTjfzOAqleYInpVfAnwHcIPhcOQJJOCBGTzMJmtXGykZjQXVFEiQzV,6.5,QGFzSjphcStKGrloUrybbdBYsDYRdTWvAhIdyZNjEfDEnFFUfrkNqVfluZaL,2.7,AWNmudKHAFhbNuCUBLXAHChSanUUdjNPNVclKLJJxdsWXRaTQhkvvlhxyhoYsYdJfPliursxCRgjEuREQcNXtmGCQilAtHhnnV,0.8,ERqUTtIajxsvfEXaBEZbjDujDHmXXTWUyeMPOhGuHCiFYSFMXrZFvgeNPIYJPnVZbpROojy,1.9,ukuGXHjscAHfjIuYUGTwNySNohWeVjzOtKaqloCHRKinUclJwursRTLIfIkEozpKMuCcSiSwu,4.4,isQeSeJegjESGdtxsNjeOdmEMlpIyaWGxaFJPMBVZYSbFKHGiJAPeXIfbOOOQbHddXJuZCLQCCpnupQcRdoBspKEyn,7.1,oHCcfiXdGhzVNmmxXZtBPcrWTfavWMtSmtVAfhyyZjFLkRGeIIesQpuCdIZiDYt,1.3,fMfmNfOhZLQvttPwMTuNGOwMrDaBHnBmQKPuDnkoZebSYjnTFxEdlwpzrZjVGPojqDlyTXKzWwdPyYxBSQZ,5.8,KRVVgXEfsMetMCKpmKYQbKxLZALzTfMjwrykDUle,8.9,SPthebUsoKbSigBOPwtxvkqtjTSeWZR,6.8,vRWsVlSifIEezfWFUGtDMXvVxyZspiMqhefQJrMdHXxDLdjthfQwHpiQooBNwIVxYOSZdJSdOiORLhkbpjmtQBY,3.0,vporkrvhPXNypVNKIzngLKOTVGx,3.2,SsZHuKznmzedqJgIhywCluSOxeOWRImctNBiFKnYUtYTdeCvLTnmeyODGHVaTbbD,5.0,ipKliuzeTuWQuTDwvfXVJzZIFFHaOmFRTPoYBqBVsfbLteyYpdChGpejjNHVqvn,9.0,NebXYFhltOPkSlUKDWlenCfZuKQLDdghuXXEqPkQUNfsHZkINmxvhThnWkhXXVxeBlIROLX,7.3,iytDnhvQddoTnFGQbGFKdmyRMzNIXeaCgWYIgugCBDjKeCtUHKfJcEKrjjg,6.2,OWBzLUXNSrcPqLGixxCYijUqUBqdDWyTbXxHBinRTCCZMKpnYGrHjgrnWeQhdNnXHgKWXzluzdid,8.5,BuLNyGmERiNAKsOtahMopjDZNqFbTgAjOXIwUfDtjCwJTBaIyjvbBJchmjNXYE,0.2,vfSKPGqrbCpxhjHnsGKemUTYeAdpYKmMrRYeHohQCY,0.5
+deveria ser
+[6.0, 6.5, 2.7, 0.8, 1.9, 4.4, 7.1, 1.3, 5.8, 8.9, 6.8, 3.0, 3.2, 5.0, 9.0, 7.3, 6.2, 8.5, 0.2, 0.5]
+mas deu
+[6.0, 0.0, 6.0, 5.0, 2.0, 7.0, 0.0, 8.0, 1.0, 9.0, 4.0, 4.0, 7.0, 1.0, 1.0, 3.0, 5.0, 8.0, 8.0, 9.0, 6.0, 8.0, 3.0, 0.0, 3.0, 2.0, 5.0, 0.0, 9.0, 0.0, 7.0, 3.0, 6.0, 2.0, 8.0, 5.0, 0.0, 2.0, 0.0, 5.0]
+
+Teste 8 deu errado!
+O resultado para
+FkzMNptMiduciLpMNmyPAKUcIIMumgCzPRhzAouDvuOeQvnWGWmLqhBDhXWRROzIbuzRgQGBbcXNM,2.5,qSMoZYpTMIXzzeYdbAhlvzSPPnBm,4.5,uRONIckBdUbGYSqcfcMkEimdIvfgzjyYYObyIIWtKOxHqrwTZoAVvDxEDPKIxgSOBDBnrZpaCRiJbLbc,0.5,NVmDZzSVDMzxJISBQVodKOMBVORlEsnIrAWMhogGHYXfYnnFiaeLqwnfcreKovMOTEfGxJZSH,4.8,LLzlzOtLKDcAgmemSIgDZjNlFTBRcfsuhAlzKkevIpRvqtUUFVmhuSpgfe,0.4,zuPHjUnEKbQOtOiHMkOmXiWiLMnZziTuJKdQLLk,9.0,QXqypYClhTtLKpLQgtfZfItLnnQcbBcqKBaD,5.1,NQTAcUPgRuLCZjnoQwtvuvghgogMiyUphtEWkhKzOTtmLbhbL,0.9,VhnqoUIfwJbRTFDWHeAPbtrgVCohehpNWICIclqOFIVxuFgtwcahWADhoXZrKfEcbul,1.9,LijKifwfPzmunbZIZnOzBsniDPPjdfKvlFPVyxsLPCkGzkjQaaqXNGCeatLrrTZTIybEZvANSvYfYFdhdxTZrHkOBK,7.5,AzlorOXdXSgarClkITorMxgkAlcsflyywregVwxYVuJwxzHRUxEvPWgjxGcPiCNLETxrKEPZlgnKMUEvaELnyUgQJaKrKRWZt,2.4,imfPjjsQyQjJgltkRhsIUMlZOfxVbUCitOqQkiymkXwlRllcEhMswcElTSTQoMIMteCpysICdqjosd,5.4,xPPwlBWnyuOdJxsjzAEnJmFxFenKboa,8.2,LrVibfpTcEbwtArqYdMJCzYRZogT,9.1,AfcERfBAPImmEKJlQpxDYLY,8.6,YccIOEWgSvrfzrEmTzHRXPXZGogMqGNvYnuJHFGySbadmukjFkRqxbDhHZrcOcpAJZddqpdpmfDFgGXbY,3.7,ygyrHoWKOLLQuaTrnwPYSL,3.8,OMqQjnnjlcmxuFyZgtKTewnXLFJYiVQVlkZmKWIIySkDjzZXrdPPQMzmALbJKGpgioJcJynkVFX,10.0,QrvGGUIwGUSSlslJWdqfEeQCRnUtKcdYiqsLBTSJIDSqxJsPnqEiukJFjpEEBMobzVEnCGEXSLTIuuUpbaFIUOxrNkAKoo,7.8,uMOvkCfCHubRxMxZLEqHJzwSBmCNvQG,0.9,LGBcFLyHSeXfgaYboRgOxekKIVvXZEbELYuUTmgzazPtnZUInYgYmTSODrPJFvis,2.2,igtwHagBmugmNZwSJRLLIBpUkBKHiIjLjitViCvOZLmamjBpjOxZWTrzsSEvPuimRCiezPnuJPHWcDYERTNl,0.2,bbNhHnyMaSXDVOZgOdptXyhpHhOitdrmnRYkgelWaiVuOQRiaDDHTTvKt,7.5,IfEfzfwZJVhlkvXYFPargFvDOyACibQsGerNpVKBDqqzVCsuTHnltZSRTl,7.9,jDBMSBYfMJApvbJsiezDwxFdacLdwYeNrCVnoeGLM,2.7,kDTttUgvTFuQOyDQvzXIgRVNjNtoVeiMxoJdrFSgbiNEGgzqRJABybNAS,5.9,eHuwjKkUkYJSdvZudNGibJOHYjnHIdPvDrsbPBeqVGjt,6.3,fwxszMjfJpzvfVntGRBqJZMvCRLmZRSekeTacyDDagAlsJpzDBtqlpKvbbXbQ,6.4,NRwVsqbayTNbnMtOEdThllTsMrlhtHAUHGvYnhEysXhMIAUPDOQDnhDRcndu,7.7,eNzNisnAfEVurjpjTgskurIsrcutVAPMdpUUIItg,2.9
+deveria ser
+[2.5, 4.5, 0.5, 4.8, 0.4, 9.0, 5.1, 0.9, 1.9, 7.5, 2.4, 5.4, 8.2, 9.1, 8.6, 3.7, 3.8, 10.0, 7.8, 0.9, 2.2, 0.2, 7.5, 7.9, 2.7, 5.9, 6.3, 6.4, 7.7, 2.9]
+mas deu
+[2.0, 5.0, 4.0, 5.0, 0.0, 5.0, 4.0, 8.0, 0.0, 4.0, 9.0, 0.0, 5.0, 1.0, 0.0, 9.0, 1.0, 9.0, 7.0, 5.0, 2.0, 4.0, 5.0, 4.0, 8.0, 2.0, 9.0, 1.0, 8.0, 6.0, 3.0, 7.0, 3.0, 8.0, 10.0, 0.0, 7.0, 8.0, 0.0, 9.0, 2.0, 2.0, 0.0, 2.0, 7.0, 5.0, 7.0, 9.0, 2.0, 7.0, 5.0, 9.0, 6.0, 3.0, 6.0, 4.0, 7.0, 7.0, 2.0, 9.0]
+
+Teste 9 deu errado!
+O resultado para
+rPljNIoIukxJCJlwNIfVtmIPezsvCtcRWbGprTDJBZmUbBFkzRtcDqRiDVLfuSLiGUicHhKuATv,4.6,XPLMhESztGDgInDWKspOQZLiKmnvvSPbJ,1.6,zySAEKKLrjwaIgYRGHbkTHFAjkqFNpgikbxvbORsksjcnJQ,2.1,OYiouRiqVRWcYObDAxHwRBKpFYxKzkpBWqSACnTxvaXCgkrxfucVXYqdrmjyaawQBdhApTtjgHzgNIJeN,6.4,TPWfgqPjJnUDHnWyFnUICXuOCIALptuVhlaiTuYdpCOGsSytjvVnaKlQN,4.1,zSSemxwijHYjQFPaiUBSaRTIxmpvuVVUAHaOHTfpBwVZccRnGGpwSzStNdGODc,3.0,iTNdFlXvsekLVIUEIKaFqmQCfVFaZsdHzpQzRSpplUmjHfjWuaoEaPvFYrAFGknicbewKPnSJEwqryzsxVhqvFSYSkXVZxEzgf,9.3,apblHPfbDrcgRtCFgFVzyJovXxifiZINDJIxqZpOohSCE,5.3,eAYwtpcgGHKMPYMJJohqeoYkoujOsgFGjRkArBrQSgWaXQhBscoEBAyexKkqfRvXtdzqRmrAOFPHwYYj,5.2,wixUfRXEAUZleYTnZZaiRzyQSXrOjRsjQAdSdaEZSzzSBDXKRqAneVUMbSIPmBbEyJkkzejuceJpmWQWN,4.1,JVqjcYeDttwnndANwdowRnSZYfYnCSxubeKAHWiPLXQz,2.1,cyEpFCTNWpNghEiCaMHSgkkdDsYBlXDEwOjIlICLlDOZaUgCDejKIplZprcjCUduLqFsoppPZIHudNPmDUYLkp,5.4,phqpNaercYuORHziTRBxwvct,3.8,MFDZcsoQuQMQkCXBrnjyYfXxoAAlaBdnYClMGWhYsSVmpqADJigcAzi,2.7,cJbueFxPrhWlQzGommJmhBPkiGDvXHCngQfiJfktkhDEbzNjAVnMuAgEScspZtOeeAaIbRyucXwBteoTYkgYRslFCKBkhLBWBrE,8.9,WUjQSKVSZhJEsjpBEbwOnKFExzWOoEhpnUFSXgnoQXDLaPoJHhuRxzLJLGFnwhhXmMrDFfyar,7.1,WwvDZswEJZgOlFBpyvNLmqFfziCYKdKohdIdtBPNhCItLseNsfdkzInzLGZGQdkHMEdmawKbNKEiwQjosHUt,8.2,dPrbXGLQTyptwFtVGMwQQDisRekODvVnwmxgRDmMWVNljAfO,3.8,VxcdjrtOkhuGRuWrZjXubmIiUQvezOakDbhGzIFpClGGjfLCaLJYtSxTsjPawZInzsYmwWaDEudsLWftopmyHy,6.6,hoktOjjEABXwfladCcluvSdLkeGCGsdBDzAAOaWsGXqXkOFfYbWnnOTUpybcsIcqQbFZkEuLzUQEmPgH,3.8,gBfdlohVeMvQcNSomCQBmn,0.2,QhIglIKpPbxzlouAgfEJJnCHIMScNHCdciJQSSwsAtMNBpujPSBEcgZxDVLcwOPLlnCfQgDbZtXpnWylilGJDHLXTBkwaZfk,9.0,qURXkABECnqoUwuAnpxCqHfTwbYIFJYkxGUitWTpFUJUwLfiVAbEKxoyAQTvZebX,5.6,rReHevcQqbSIqCUfnvSremwqmTHPAaRHZVFjlsSzLvllokEEwMOwqUwvyrpXLVIaiUJTAJJYixotC,1.0,rLKzIevxOYhPNKGiLKBSGWvNefkrJCMBGlAkvzidGLvCFlQaZlsPwlFcClzRKWRNjeRCdDbbUhkgfvTyFFDKoEV,6.4,eCcRRWRsEvPyKMVBjdYQCCZreFmZUqcVVJaePoDHiARgxWmEtlDNl,9.4,pyqGLcZzbHOkWbtQQMuNWCpBeGPBbzIs,7.4,kBpWAFsFtPNXvZQfeSqYQMivbybKMsoYk,5.3,FZFykqCfMxXRaoKKAFwLPacZAWfaq,4.2,qWlxMEtXRCGPNViCmspPscSwgshsHaTXgUhyDIqAorySxBuiDTrvuXTlmJZiSTyiy,6.8,MELHjLAnmGmdadVKGdipcBijEPjRGMGLAewGRctrgqgAcPzjhefSCcnpnVWwIXKno,2.1,dutWxvaWJgEfRlrhfqWHvYSKdjCDtVN,4.5,tlWmZavtyrxJHIxQPsGHslnSLNoWYQwdvy,7.4,QwIElxhliEFbhuFRjcUVNXpyxoKdaIXhfhcoeQmxGmrJkJjVjVQbDezDvaeafKEJtkOZQjHqEdLeIboJ,1.0,xGmfPlvzOiQPmdVBwjYufPLwfhXTjJngxmrkhCehsOBrGkzwPdA,7.5,sMuPFBARbHPFwAKfyyQKQLglyCzmbalhvRdirKiKcZHZkCwWBqtEiVQMJCBjfRFONSdbSnAYWdRZcUlMBieSw,0.6,PYHWlbLIgtRgpggVaZsYExiWWhcTQHyQfnvvwyyhWfpftFqKcMCFIq,7.8,RcCVpTcWJvktcTofArTFhWfdgnZImBNtirBxZmtcQQeuOV,9.8,kbahxZmarQfLdnTUIhlKoBZGhkHDpAQCPMmuswUKz,6.0,SeIBLMUcCTGRfQpkhlmgmgbztpvFWQdCQZqJZllblosUFNStVVfpy,0.9,xlExNVgVteRvaSDbkjnXXsSjwUcPZFbbrevrmQIbCsXcQqIoCinGWQoq,0.2,gSazrqcGSDeQJhHQhBpUMLuHItMiLXWOHgoaXluJEynHAiVjzVRUAzaGPSfAkGJNuxpIWfDlGtIWRjpGHqnOMkqsPsJiBU,0.4,ljhVhYxoRYfOXXveFkeaPAwKJExxaJgpRFdMvPjJzfchmHjMKGicwElmhsIQASECG,9.1,CoMlMNKWQfqsmNlLpnaHtdhtJzfNHMvAFjvBRDSExEDnnuLdtmWVdIKrxhMyuVyZgQWvOeKuShLcJTicZfmLQbO,0.4,fBSeuGezshFRRJbkbcIVMtajbAWZSLsMBhiZUOpdcsYsSlPOcXaJVCwFOURqyLfXBBEpyuZXihznuWnoPfuLnoKGrJsFrTb,2.1,RqdztQgoPamGCQlFfolRa,2.7,PSEoxyRXpfnqZpiefLetgflslVDpPGonHIDRyedzSGyZyFXhDkEb,5.4,XmVFIsZcDFwonduhUtEbxMdAYchDrWoflQ,0.0,mySANQmERqUbOVzSYapYOOrMhEdZbDHcKLAjFguFeZGdeyIihKUXhQcyYHgRgTglUlihPGVNDyFmLlOEbEKFe,4.3,WWQmFnzOooWWyiwNIInnzkjqCQBOLJOdeycUgBvJAsvNaeKthIGXmxdlvWGffvml,4.4
+deveria ser
+[4.6, 1.6, 2.1, 6.4, 4.1, 3.0, 9.3, 5.3, 5.2, 4.1, 2.1, 5.4, 3.8, 2.7, 8.9, 7.1, 8.2, 3.8, 6.6, 3.8, 0.2, 9.0, 5.6, 1.0, 6.4, 9.4, 7.4, 5.3, 4.2, 6.8, 2.1, 4.5, 7.4, 1.0, 7.5, 0.6, 7.8, 9.8, 6.0, 0.9, 0.2, 0.4, 9.1, 0.4, 2.1, 2.7, 5.4, 0.0, 4.3, 4.4]
+mas deu
+[4.0, 6.0, 1.0, 6.0, 2.0, 1.0, 6.0, 4.0, 4.0, 1.0, 3.0, 0.0, 9.0, 3.0, 5.0, 3.0, 5.0, 2.0, 4.0, 1.0, 2.0, 1.0, 5.0, 4.0, 3.0, 8.0, 2.0, 7.0, 8.0, 9.0, 7.0, 1.0, 8.0, 2.0, 3.0, 8.0, 6.0, 6.0, 3.0, 8.0, 0.0, 2.0, 9.0, 0.0, 5.0, 6.0, 1.0, 0.0, 6.0, 4.0, 9.0, 4.0, 7.0, 4.0, 5.0, 3.0, 4.0, 2.0, 6.0, 8.0, 2.0, 1.0, 4.0, 5.0, 7.0, 4.0, 1.0, 0.0, 7.0, 5.0, 0.0, 6.0, 7.0, 8.0, 9.0, 8.0, 6.0, 0.0, 0.0, 9.0, 0.0, 2.0, 0.0, 4.0, 9.0, 1.0, 0.0, 4.0, 2.0, 1.0, 2.0, 7.0, 5.0, 4.0, 0.0, 0.0, 4.0, 3.0, 4.0, 4.0]
+
+Teste 10 deu errado!
+O resultado para
+uizkQVDKgzWHGsseYtyERejKwjymGSOpLSkVgWsBnKMO,9.2,NFDXZCNBEYxTzdpSBuWUlQowDeXQxjnDaNEMdAsGrTcCnIgcqZGfu,0.8,BQkIvgGDWKNmDvlzkGAQfVByjEwOwBzwgJvmzVDwyoqwI,4.6,fBuvaFRTPRVoOUVzFAmwlLCRByMApcVesbPGmRGWuyHMQXHcXOSovKnsKmvHHpzLimm,8.1,kzaEtgoomrzkJEfDfKYKfnxHaxTg,5.7,FrvfTpQzatPYPiSXuSdCBitkBJdIQpeiEdqtfFdWHVMVNthIdgszwwrsjQvtkARNwZoCHR,0.7,iyCWVdGlCjAGSSzYUYImJjdlgEIHMPZCwSYZbabLfqDtERgmNyMmzmK,1.2,XdnFceoHfYmcZNJUvStNODpghSdHrCpMqfd,8.8,PEdEIysRaaKcvCxqXzZWEmeWZcMEygujmRgVdkjwaUdXEHSBZqDwOBmkXiKALpKAhSHhTP,5.2,IAZmtNYPJpmVmsCiTwBhlWOmuaxXENAGHwMvlxyPqhxClVNtqJhHRahvSHeJRRRBUwNEDGxlNbWBClRrwXbVg,0.4,ZkctMMLDWsvSDfrSJYRGKpKrII,1.9,bHeADIkMmnYQPRmIqjbRyiDBVnVdXbuThVRzGOmrDZScSfOVoGaAn,1.7,IHWlqPDsNVTELyOygtyOUreaqOcdsqCjrS,1.6,qLpjXwNeMzqzSuEnmFHKglnRkzAdNzaMUDWDJVMkdiASxOZMuzLoiNRnBAfKhAAIVuMEaYAkUYozsEZGIGCMiagHcwQ,6.4,bojHggKZpmJcKiIGkruPUWWJIIfTvWskBeuvjxXYRwIoIuVBfHZBQOyIXeMqBvwxVMFYoESgLAJSfaOGsAhPd,4.4,ujkRyUoGzWeLwuVApQvUwaEGmHUrTGmDhPNUKDYKJuBUtsOMOpmEH,5.4,aoxbzKvTbZYjKEJFuLpqDNNhUyjykidzPGAGHpYxEjUTjwGsLOufMHhAKiXviHRgFaGnNEfjHt,0.3,jNXOGTJlqsZgmOUtEukSRjhsAJOmYyWzPidgsHrJjwUaHPukfWvKMsRGJoWJAuWUBNrAAGseWHAhMguKhryurIOgGCPiv,6.1,sPmtbEikVARzCgkADYBpMOHTuuuhXzEfYlPxJSRqsvgECP,5.2,BWSFygacYAOZkvbDKWsYdzLVgzFCMftgtJtxCULedwMVzBFlBKgfOriIdMptTKYBuhtdGCRZwFZGSITwKNseRdDxAsSL,4.7,doOMUXljDuJgZDgpVVlVcTQwKoetJZTvkbicqKcynjKVUrDHZTMUWfZakmyVSf,7.7,vxjrmYSrMkfvzQjhdMwf,8.1,bsJBgdEXomJKwxOvxtWHEsygBnteAfDqPkogpYHaGsMqhDVjFlJrylhNCMFwSuTMmVvtOiWHBfRxwC,6.2,LWBQaDqTQHJbihuuWzVgMMOftVfNDYHaFaNNJVioMmkdNrNqbgjUcPeEsk,8.4,xuCuXiuFojFkRZsvRSFyLfrKvjBMbxwnOzrbMtIadZIMfcXRSGcBsOvXomatToubdGEmLGibhOFJXhHcnJg,5.1,KLhRTOKZcZKRYHDLzgAykIrpBAVqyViqFVlykpxRutzurBqqXomdiHDxqzNEOwZtUe,7.9,mioVZBMoCSLdyiJCpSKRsxIFyldPdkZbrxfVnmlvo,5.2,pogPVkSoMVxQHkvqbyvuSBudzCSQCSkAYfvSFTceyyKHHK,7.9,HWjOXPrzfIoxFlMXJYOrdtPOyqTIIlOiBGwFtNHBrRuKPVtGAXlQEjV,6.7
+deveria ser
+[9.2, 0.8, 4.6, 8.1, 5.7, 0.7, 1.2, 8.8, 5.2, 0.4, 1.9, 1.7, 1.6, 6.4, 4.4, 5.4, 0.3, 6.1, 5.2, 4.7, 7.7, 8.1, 6.2, 8.4, 5.1, 7.9, 5.2, 7.9, 6.7]
+mas deu
+[9.0, 2.0, 0.0, 8.0, 4.0, 6.0, 8.0, 1.0, 5.0, 7.0, 0.0, 7.0, 1.0, 2.0, 8.0, 8.0, 5.0, 2.0, 0.0, 4.0, 1.0, 9.0, 1.0, 7.0, 1.0, 6.0, 6.0, 4.0, 4.0, 4.0, 5.0, 4.0, 0.0, 3.0, 6.0, 1.0, 5.0, 2.0, 4.0, 7.0, 7.0, 7.0, 8.0, 1.0, 6.0, 2.0, 8.0, 4.0, 5.0, 1.0, 7.0, 9.0, 5.0, 2.0, 7.0, 9.0, 6.0, 7.0]
+
+Teste 11 deu errado!
+Teste 12 deu errado!
+Teste 13 deu errado!
+Teste 14 deu errado!
+Teste 15 deu errado!
+Teste 16 deu errado!
+Teste 17 deu errado!
+Teste 18 deu errado!
+Teste 19 deu errado!
+Teste 20 deu errado!
+Nota exercicio 2: 0.0
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 1.0
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 4: 1.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1 deu errado!
+Andre Smaira possui 31 anos e mora em São Carlos-SP
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 2 deu errado!
+Sophia Dias possui 33 anos e mora em da Cruz do Oeste-ES
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 3 deu errado!
+Gabriela possui 29 anos e mora em Pires-RR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 4 deu errado!
+Davi da Rocha possui 27 anos e mora em Gonçalves dos Dourados-PI
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 5 deu errado!
+Ana possui 63 anos e mora em Cunha da Praia-RO
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 6 deu errado!
+Maria Vitória Rezende possui 64 anos e mora em Teixeira do Sul-PE
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 7 deu errado!
+Vicente Monteiro possui 0 anos e mora em Fogaça-RR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 8 deu errado!
+Luiz Felipe Costa possui 27 anos e mora em Almeida-DF
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 9 deu errado!
+Luiz Gustavo Duarte possui 24 anos e mora em Barbosa de Barros-ES
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 10 deu errado!
+Ana Beatriz Sales possui 32 anos e mora em Souza da Mata-MT
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 11 deu errado!
+Lara possui 80 anos e mora em Souza do Norte-SE
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 12 deu errado!
+Kevin possui 70 anos e mora em Cunha do Sul-PA
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 13 deu errado!
+Sofia Santos possui 42 anos e mora em da Mata da Serra-PB
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 14 deu errado!
+Heloísa possui 54 anos e mora em da Cruz da Praia-RS
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 15 deu errado!
+Maria Julia Costela possui 90 anos e mora em Ferreira-RR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 16 deu errado!
+Lorena Gonçalves possui 48 anos e mora em Barbosa-BA
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 17 deu errado!
+Danilo Ribeiro possui 39 anos e mora em Costa do Galho-BA
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 18 deu errado!
+Manuela possui 6 anos e mora em da Mata-RN
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 19 deu errado!
+Enrico Martins possui 29 anos e mora em Carvalho-ES
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 20 deu errado!
+Pedro Henrique Moreira possui 44 anos e mora em Campos-RS
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 21 deu errado!
+Diogo Barbosa possui 6 anos e mora em Lopes-MT
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 22 deu errado!
+Manuela da Mata possui 74 anos e mora em Fogaça-PE
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 23 deu errado!
+Bianca Cunha possui 100 anos e mora em Castro-RJ
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 24 deu errado!
+Pietra Rezende possui 96 anos e mora em Duarte de Goiás-AL
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 25 deu errado!
+Paulo da Cunha possui 40 anos e mora em Dias das Flores-AP
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 26 deu errado!
+Renan possui 21 anos e mora em Novaes da Mata-RN
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 27 deu errado!
+Fernanda possui 40 anos e mora em Costa do Sul-SC
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 28 deu errado!
+Maria possui 43 anos e mora em Santos do Amparo-SE
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 29 deu errado!
+Helena Costa possui 16 anos e mora em Cardoso-AL
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 30 deu errado!
+Evelyn possui 8 anos e mora em Fogaça Alegre-MA
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 31 deu errado!
+Murilo possui 85 anos e mora em Rodrigues-PI
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 32 deu errado!
+Ian possui 85 anos e mora em da Mata-MS
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 33 deu errado!
+Caio Cavalcanti possui 79 anos e mora em Araújo-SE
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 34 deu errado!
+Samuel Teixeira possui 52 anos e mora em Souza-PR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 35 deu errado!
+Danilo Vieira possui 21 anos e mora em Fernandes de Porto-MS
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 36 deu errado!
+Lucas possui 45 anos e mora em Rodrigues-PR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 37 deu errado!
+Eduardo Aragão possui 14 anos e mora em Cavalcanti-MS
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 38 deu errado!
+Maria possui 13 anos e mora em Rodrigues de Monteiro-RN
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 39 deu errado!
+Milena Gonçalves possui 84 anos e mora em Freitas-MG
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 40 deu errado!
+Bianca Fernandes possui 62 anos e mora em Alves das Flores-RR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Nota exercicio 5: 0.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21: correto!
+Teste 22: correto!
+Teste 23: correto!
+Teste 24: correto!
+Teste 25: correto!
+Teste 26: correto!
+Teste 27: correto!
+Teste 28: correto!
+Teste 29: correto!
+Teste 30: correto!
+Teste 31: correto!
+Teste 32: correto!
+Teste 33: correto!
+Teste 34: correto!
+Teste 35: correto!
+Teste 36: correto!
+Teste 37: correto!
+Teste 38: correto!
+Teste 39: correto!
+Teste 40: correto!
+Nota exercicio 6: 1.0
+Procurando exercício 7...
+Exercício 7...
+Teste 1 deu errado!
+arquivo.txt
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 2 deu errado!
+/tmp/tmpr2jtr4u8
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 3 deu errado!
+/tmp/tmpi4qa2usu
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 4 deu errado!
+/tmp/tmpc9ozro9x
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 5 deu errado!
+/tmp/tmpqj_gej7c
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 6 deu errado!
+/tmp/tmp_na22v90
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 7 deu errado!
+/tmp/tmpy9kknj9s
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 8 deu errado!
+/tmp/tmp47n55l1w
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 9 deu errado!
+/tmp/tmpb303efav
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 10 deu errado!
+/tmp/tmpa474scmj
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 11 deu errado!
+/tmp/tmpkum4vgbl
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 12 deu errado!
+/tmp/tmpgxjxyhnu
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 13 deu errado!
+/tmp/tmpbsemu9q5
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 14 deu errado!
+/tmp/tmp9byx5mlf
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 15 deu errado!
+/tmp/tmp31c6f2su
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 16 deu errado!
+/tmp/tmpgenkci5n
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 17 deu errado!
+/tmp/tmp0545lbxm
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 18 deu errado!
+/tmp/tmpyo_c8fkd
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 19 deu errado!
+/tmp/tmp1wxjgl62
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 20 deu errado!
+/tmp/tmpmi0mroj1
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 21 deu errado!
+/tmp/tmp_737jtxf
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 22 deu errado!
+/tmp/tmp38d1w1w4
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 23 deu errado!
+/tmp/tmpce7nxt2f
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 24 deu errado!
+/tmp/tmpxjw_hpw7
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 25 deu errado!
+/tmp/tmpislt8zb6
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 26 deu errado!
+/tmp/tmpfy0bs3qz
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 27 deu errado!
+/tmp/tmpeg2d4wqg
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 28 deu errado!
+/tmp/tmp9hz2_6bd
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 29 deu errado!
+/tmp/tmp_9_wvkyd
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 30 deu errado!
+/tmp/tmpz3th9bri
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 31 deu errado!
+/tmp/tmpavo0zc7y
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 32 deu errado!
+/tmp/tmpkmnado0g
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 33 deu errado!
+/tmp/tmptbuzuos6
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 34 deu errado!
+/tmp/tmp14eik28i
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 35 deu errado!
+/tmp/tmpxk6byhhf
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 36 deu errado!
+/tmp/tmppx1t00ae
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 37 deu errado!
+/tmp/tmpp8oy88h2
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 38 deu errado!
+/tmp/tmp4fcibbyi
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 39 deu errado!
+/tmp/tmpyifna3rm
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 40 deu errado!
+/tmp/tmpupo6qcsd
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Nota exercicio 7: 0.0
+Procurando exercício 8...
+Exercício 8...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21: correto!
+Teste 22: correto!
+Teste 23: correto!
+Teste 24: correto!
+Teste 25: correto!
+Teste 26: correto!
+Teste 27: correto!
+Teste 28: correto!
+Teste 29: correto!
+Teste 30: correto!
+Teste 31: correto!
+Teste 32: correto!
+Teste 33: correto!
+Teste 34: correto!
+Teste 35: correto!
+Teste 36: correto!
+Teste 37: correto!
+Teste 38: correto!
+Teste 39: correto!
+Teste 40: correto!
+Nota exercicio 8: 2.0
+Nota total: 6.0
+{"scores": {"ex1": 1.0, "ex2": 0.0, "ex3": 1.0, "ex4": 1.0, "ex5": 0.0, "ex6": 1.0, "ex7": 0.0, "ex8": 2.0}}
