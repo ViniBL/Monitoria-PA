@@ -1,0 +1,607 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-10-04T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Exercício 2...
+Teste 1 deu errado!
+Andre,10,Smaira,5
+
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex2.py", line 6, in <module>
+    lista = [float(i) for i in lista]
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex2.py", line 6, in <listcomp>
+    lista = [float(i) for i in lista]
+ValueError: could not convert string to float: ''
+
+Teste 2: correto!
+Teste 3: correto!
+Teste 4 deu errado!
+O resultado para
+opyVTXuvSkhYbAxFFuvfgXslaHZQNRQYThiXagnxdEzfMMNiAuHTQTWdXjUbbdqZdZroosZPApZkvwRtbTp,5.0,JkdINdNQoYWVqHcFJULDgLcmfkiByQlshJVDHahzuvmWJeZhezKQNNngWTibz,0.3,SpXxFLdpXBdfOddbQYaIfbhZyPpIuklMrjpsFLCzIHAdeSoQ,4.3,YClwMqQDkEGuexySjYTPyEVXVnRHZZDgehADSQnbIYQguBOyoUiaXCPwzZMqbGHwXFWqCTZlCiVsLtbWKPBqoVNRnv,0.0,VjvjFSdQcmpUTesGCGIdFEUKHWcDUIOtfGemOSQvPUdecXGpfdVCOmSINdeWBsYIsyVpecZXjUXlCYpFPBoMpQzJhrxm,9.1,wBlOcwQfoQAmeLPsOXeIqoSNHvDDDbagsjeRUUdmxoIrBGsQJRskzcCTjDVi,2.7,wwRhJYoksAzpEXxNaMllQmOGzWMbedGSJRgHMAXCrHdwJhLNZSdsBWNTnKctBpSfIBEWlKjSRTTvcEYLvbRjfd,7.3,WrsTpkFdMvFSpAXoYSRgjsPYOCJvrjhDRlmeEqYtlXJStGpgNvClRLVdnYxeGvvxfQWMMMQuYrGpPpUwBoOzAlW,7.0,sxFyDRlAJaTUDeLzJrqUjeCACvrlAhFuDHymqKrEWkptCyOazRNFTkpHyXPsQoEBHDFxNaWWYyateBhuPqqHoRAgkPqaoSPPX,4.8,QcAyikbwFaImQCdXgUNFSGYPvAVAjwJYQbvYkrsONXJ,9.0,vwfNxDFvFvgttGRaUKRuAosFaSGrqRsMcUUxCWZVOoklHADMtnZWxATMGPufartQfSNBbGcaGWxqmCS,5.5,wUUuOsRTLkAAwdkmpZNBcx,6.1,CBYtGyeHMDejaupFpGaIDsujFdvazhYZZTjyArJHJGqLUGsGBhSvFKG,7.4,bsgqcaGolXaEufsQYvjRgScZoUizgeqpHuSWQzScrXjNTjYhfZFeMqSqLeCQYArfIkQZKc,6.2,iegfQTrIDDTMbbDFmlCp,6.0,tATQgNRdlodSHgvqZggtQZzwPwSWQYQoxhmlaIR,1.4,UtGAyGRbZlmmsvzuxlRXOLWOBFBRqIpXPFWWvznezwcWWlGHyJxrvIJXfhnLHVKVFytqnSRpzkrVp,1.9,TeYSAvVUWZNhaveTLqimAhZkQPWsEtOZWuHzOlpzRcKwQRRJmmmZyoTyMTqFLEGIXVvdHzxcHeR,1.5,fYGOBFxLazAOfVaqmNtrDMgbNUvZYLaUGfJdYoBOdUbmEJaATgVABlNaQcpOMacClDieDSXSHjQhEzpxSjz,8.9,rSptanXZUQSBQWQmfJEvKkyHtIBlzYdTdDAmJWiPrcjEYzJdHFAjrVfIsozrUCOLDtRuSxTVxdrR,7.0,ReyKNnCEikszZAZloTQVevizkaOSCjMEVMCRSrqPTgVmgpkyXMGFswCugIUgjTrih,3.4,nhgJnWBeQlQxaPdJSPRMWsMZqJKCvvHmWckvMJAqxiRmDWQukJRRydOJtwNyKYnLEKhaROKOToqxiwNAwoDHdtuYVHEWntgIEtWq,3.2,ddXejZrrGifBKyaOTEWciOMhicMmbvTjifEvtfVPPNbHFNVnCLwXDhYjnTkDOdmYooLzsjhuRzbBoZYogAyfkoqYZsCSlNm,5.1,OxEKOTUiOPfjhhmWtCCrmaMsLiljwxtcAcQ,9.8,czOGmCbcVRbocKZGEGRCUnVjIwXl,2.3,XrySYHdyyGwFqGAHstUsssHnFfaXAulltafoGalKjZigb,8.3,vnGoUJwPullURIuTsEvCTfTxCFGffBygBDNcaxamSsxGTZFdQaPvYXThuKPjNWRC,5.3,DdSgoYArVGFBXYBZxdTngDtnxhJKSoXSQOgNJyoLLunrtnqZYSBZPgqyNkAxH,1.3,LyyDcGphAjWRPUkFFGTIkzmmzzoiJNyBoRHyqFymrTZPRPXpMUXtvfrgcEHFwtrCYy,6.0,YlWExEdLBPvGOcvsvAMAZAquNjcJURBoGufFoMngYEUSwccQRiwhy,6.8,hjVyMXTwNcSRMEBVJjnLvSKopmwwMrzqKRZIJUSMSaJEdttyIGbpvHITBYEvyEEFjNIHWtzbEyYNYctOcYnokGX,8.9,yNYdUXHpTbYhjrhpckELeSNE,8.7,WtzRFRCvQOpoVOORjcQidCSRDPjkRJaUziYWNonLEhBtCILpxTdJHZXcutmXQUXGnkIXvJpYZ,10.0,RZGIHEYeaerAOlQuukkmcAtLzrDuRHjCYfeSxKhEbjWoOgxmkkTKwZM,10.0,OfXugWSjUGrkoSIOQkneSHeIBVgxOYWzNNZBWTHyuQeqlJGdhghpNFMnOpFjVhlxrknrypStdPVIae,1.8,QmHNjxwLwunMYpLzKdgMqHlvRRtexPnRVerHVYxAhRcjBlAadwcaTwAqYDpIXSvXuJOZe,3.6,vvrvrPebyniAWZKSNHnDiUKyFvguowjkjCgQyJRYytrxJNWOBhNLiOJSbFc,2.2,yWtzKHwQwkKVdzENKAqjyBPnYSfdlTBkJoeJhuOhZwODGiVvewdIpCafRTaHhyjORNLQpXZjYRI,0.4,GAKABNnFBckrYdurKdqLzkmIJxJJoSYnnALRPukELJSfAgdfSJicjRbVlrrWzKwHu,5.8,lgmrQpAPbXPoBKplroSoMljAvYHnAJUY,10.0,GUgQGgnCDWmUWiVSnlvdYvuuzIGfFGgGrwoPqMvjxDsHJpMxGsPNIlAavazJKSKBcyBqAxBkNqqjeB,8.7,ieQQLLZpMfGkLVQBlbsgFUCyV,4.2,ogXYiLXLhMjYYMZAPKhxvpUWeCbAzfMzxLMzFhJSeAHQFCZSTuZCdboAoWtHeURDdYJRdqDpZxnpFxeaHgJDQlXNvFQ,9.0,yNzQrihgiNFtzKyYKdhedGnvNYbSfHvosNxWobZxHQiSMQDsXlGEBfbEFZAwogyLBGgKEGVZMgbsey,7.6,numOrWzvYIvmcMfkpXzzVLqTCFtIFhYWZpMEpS,8.0,FDNLPaTgLBvBuyvadiCfLNiDDiAyNWJGiZQLpvjOyJLifGQA,8.0
+deveria ser
+[5.0, 0.3, 4.3, 0.0, 9.1, 2.7, 7.3, 7.0, 4.8, 9.0, 5.5, 6.1, 7.4, 6.2, 6.0, 1.4, 1.9, 1.5, 8.9, 7.0, 3.4, 3.2, 5.1, 9.8, 2.3, 8.3, 5.3, 1.3, 6.0, 6.8, 8.9, 8.7, 10.0, 10.0, 1.8, 3.6, 2.2, 0.4, 5.8, 10.0, 8.7, 4.2, 9.0, 7.6, 8.0, 8.0]
+mas deu
+[5.0, 0.0, 4.0, 0.0, 9.0, 2.0, 7.0, 7.0, 4.0, 9.0, 5.0, 6.0, 7.0, 6.0, 6.0, 1.0, 1.0, 1.0, 8.0, 7.0, 3.0, 3.0, 5.0, 9.0, 2.0, 8.0, 5.0, 1.0, 6.0, 6.0, 8.0, 8.0, 10.0, 10.0, 1.0, 3.0, 2.0, 0.0, 5.0, 10.0, 8.0, 4.0, 9.0, 7.0, 8.0, 8.0]
+
+Teste 5 deu errado!
+O resultado para
+qqeoMbzUKEgjKzjnmaTTyZvSstFOAmyXQFqOQ,9.7,VGkoWYtDwQenqkudEmznYkyAFcWxNAigiuFihKGOdymwNj,5.9,XAgLQKGeAJUJJYVFPhHvhRKwKxUcXHHOy,6.9,CJcVWXeEmSPPsvfRQVQlyxicFawypcNGIBHoqDnfSuUoIVUwPhwKGumgoSR,7.8,oqSjlwplsSDRlqAFqkwbaeEaOspD,0.9,cuNcZSFpMYeaGFWCtmoKaKoFQNxgkadOxDEaqLojFxnavyxOtKHwJvsdDxP,5.7,EsnKqlUwUFADGDKDMMzwfQHcskNzYRQDRwmqImCVMZOhAFILIRIhDlsJkTVQlYZeJxsYZhcVbtq,7.4,zxdDhPYfvQeknbEGLoTOrUfqWBNsyKjJlBSTzbSNCCXnDRAXobfzcfsNwfKpptq,4.2,GFrREEAUFYXMlIMKQwxwEpfHWJkNaFbKqluDyOWMwAJAiznrSAtxvBPxIZYVbyCtWMzdXtvGXGEDhUItGSlOiwaIzRaADQ,1.5,AqvCgQyPmcwrutvpbOiaXptCmsOTPgfuOBnQIrKysJaMhBPIgFYCrABm,3.4,BLFJodPHTHzmycTuFtSD,2.6,gwEfxPyXkexSCBjUaHOZpYALTcisYzMzwORJealmPvSmeB,2.5,TNSfnMzraaGajZRwsyOpoofmgDMKnDC,1.4,xklaXgUXnczbKiHbulKmCualLabtVBGTTRghXMipxtWCQgFdQnOdbTLFDhXAYJbimMyUgHSRlcOLQDuwac,5.9,MaKrbtiDmZHiVryOOgDbUUoVWFryRR,1.9,XFSKwtiofNcCZZzXCJwDPHvvMIiYyocWIMrcKvUbPcZMkCWLQHsc,9.7,TbIRRwOiiJrEFoKUdtiCIIfvuNmZleagGFSjJzHwtAWFnAyplXjiQGslBcqTIfunNemiheI,4.1,JoyuwAjxbrawudsThEKAlbUGrHJqiXTmPfJIsBGQghdOnDfzyygeuKuFdHUGcmTnLjOuXnlPsAlpnx,7.8,FADbnDJeLNdMGDqGaUCIc,6.6,czRXMmncEYVkJsYuxGaxbjJvTFGdHRDfHVj,7.6,zsbuydzElfEnjimhkpzBQOKfmPPFoOpD,8.3,ZtOeaPIhgovqBhbfSvuE,9.0,bAVCryJBKDFeWVAjPdGOjKloihLhVMDyCxmgEDjwJcDKmKupbrcOYSMdEp,2.8,ooZVKffoixcGQLWytUqrLPvFCiFcUFKVuEMvRKaiwePnrKZvzBuFnrBerzFkdHSVNHjhGjiBnpHbRmcugzdbqaIrduzGXgtei,1.4,AApreFgHRbqZCbJQCXfwwXVsxYAKeegieHm,3.4,evuhEsOhehvrRaWntKfokrfiETTGyIHZstVdLcjWpNgzVqESFeUxEtuTFXpGXSpdFabiYYTiElpsglDIkSywj,4.9,HcmiKnmxlSkszpRofhcExHTdFdWseJeIbJxLYQPnZMkwOFDwHJLpHvkuJjDkSWeheOPdkcyXLkhEpPXBhNmyDOC,2.2,XQNJVWsuESTxQkSWLCVoXbbyxTtivaEvzevwujIpBmUXPtjthdYBKKUKUiNXSKOtwGtBGiRqBIUCbtewRFCsdeSTMAkJCiaWo,5.9,KtrtVtzepDCVBaCeXzwgcOoXVUxhMckRbNoNApHOOBywUgjFbOAEYqIJEYnkLaJSJgrWPegHdvTYlvWgqPEzwBhKFHukxDfrRF,0.3,sEyJTGpCCeICpYVsIraLqNqHAeOlaGOHqZHvFbrXfkCoFAccmzTMbhaZLrNDGLVmhzWpCvixWPCOBrEQsMfLyHUloufewSSOJ,8.5,jZraCGVCgBdBFVapKtVOqZneivZogMdFBfJWdMyBpmcnxFSGZxnqPpdaxOLyqEbUCycIle,4.0,GtSKpraqsOpIpLWYZTIFCDqY,8.1
+deveria ser
+[9.7, 5.9, 6.9, 7.8, 0.9, 5.7, 7.4, 4.2, 1.5, 3.4, 2.6, 2.5, 1.4, 5.9, 1.9, 9.7, 4.1, 7.8, 6.6, 7.6, 8.3, 9.0, 2.8, 1.4, 3.4, 4.9, 2.2, 5.9, 0.3, 8.5, 4.0, 8.1]
+mas deu
+[9.0, 5.0, 6.0, 7.0, 0.0, 5.0, 7.0, 4.0, 1.0, 3.0, 2.0, 2.0, 1.0, 5.0, 1.0, 9.0, 4.0, 7.0, 6.0, 7.0, 8.0, 9.0, 2.0, 1.0, 3.0, 4.0, 2.0, 5.0, 0.0, 8.0, 4.0, 8.0]
+
+Teste 6 deu errado!
+O resultado para
+yZBkQbRZtQCYCpQTXlVkNRUPKtbtTZxMBTQwlatyARxhodVpSZoOWwQdTMBtIHvkgyYMGccwNMLmHcjKPLDqtOquvxGnMSmK,0.4,HtkIfEoUxkpziUetDHEwJXOFbaGEhCvGgcRzLoaiVbrmyZxRv,0.4,xEDqRGbAASuLxqYiLOcSMEtsurAJOwVRvTWGTwLgIdwsPBwOWb,8.9,aFSickVIOgJCdoAPKLyztAsdrzLgJBgGHPOp,2.1,LrDbXCqKYUulnhZeRYtaETvXJGrtApitmEuBoasUdVgjLFLFliToMPDrwTUuYwGpkKwKKznvWEmEoKcrAexFacLzt,6.7,pZGGGKpeRdzpntoSlFqQLxSzWUyajtJVHgzrgaehmUTPuEUQyhFuHkzFbEpKqvEC,1.5,OVNgDyutItxlntlMWByVxGuZGbxr,4.9,LEeZRDVuocjuviWVvNhlXekRfuGwXUjvLevwpzHnujZLfISRODFbYUxcbSxzBPn,3.6,yjtXQnLIibSwGbvBtlDkLJePiNwqZtqWPMAULIxxDjPLynbNEXbKkwehxLKtoSusdIHyxAIgINLXmOjZtgxscorLfSiHkOUr,1.5,jXJGNfJDypWJcRarpATgdHpcTJXdkYCQrFqjKsnHVQtIfZfETDfH,4.8,vOFJFcrvQuOpFscsYcwxzgkXLrPgjqnNE,3.7,YfmsuRXGenorotpwsWwOupimWcXgqPzDyvrJbDIpaUiNrQJjTMjusXEFTAEcNtAKosPFGtBlivhgLjABrHIjqS,5.1,UtJeAaibnHfrpyIxktufunEyBQZuSBRc,5.3,JfirwFUOFfsCrsiinEQqJWoYEFBtsSwcsYTqWdzmzJobhdayjgDOlE,2.1,JTVnNYAuJNMrBkDCItEPsGOcZrxsvfquUZKjyhxkLECeLcHFRMeboowfNosECMtUMOrG,9.3,KvOCwBnRBslWGkQUnAeTIwWSbPnFQUoNEpgRhalJerOTLvd,8.9,rkVNHyCKXOgpOQyerufpaSLLYlVbyCJyJQZWxSYVhpsrLcjPrYlrrIBXkcFHgQwQpPoUHxlRhCgxDMviUwiqsiAS,2.4,zgsBEihyEZMNNbPfNrUXSHhvHUkzWtJKVyidCnxmqxIBvxlZPUYJLpojoUgQyENaYbxEk,8.5,LdhqwxMgUCTpfdMuGQZXYHDYRpzfOjWiGGykKZUJQmGPXOplJSChVWvWThNNXaqEyYUDOdFWZm,3.6,iLbpLUYPxzmVtGsdNNXGfmKhljlEYUBEPNxaVbccCYvsbjyYaceSLHlxUIGRETxOJkczeNsTfOGsvrcwITfRZhWMsClrFKH,2.6,tHBZaAvdxbtHOGJXzHPLpruvBMixosgAoyQCmd,1.8,DBeBAvScYVotwrJPsaSmvpDIAvcqqHsdUzXKuiSppBsfYUenNxCcEPIrI,9.3,dZLsNVktdZPuoFiHXwEIkkjxZRqhzXTaZuutXXCykJR,5.2,mvHqDaoOpVNQpdWundVyRgOMrTctDkYCrTVSMWstmgKfGqkllEUlfTnNoFWVABYfCFvQubwGFVZzgAhaBItOrVBc,2.9,hbsFKwhUNfWuTmniTGGySPRpbfdSNascVtgfxTZxeyubDlLMnwmMTBufCwjNBgFuRFRWNYGsUVxeopjlxTdaJyDAxlB,2.1,TiYdkCILnIrvwlMplYlkhVnsdRbKJdMgRy,4.5,PCipJyEuGlIyAOpZrupgWtfoOmIpBVdUkYSMGHIIAPkqGncQJiiqQWqaXuXXPBFIGXVuK,2.4,QZKnBDcvRQKdvdTbmdhJnZIEXvGJnzLbUMXKVJknePusCjEshEVpnaPAqJdFrdDmf,1.6,BXIBKEYTwsKxKXSQsalTFKzzvisvmHCbsAYMnL,5.1
+deveria ser
+[0.4, 0.4, 8.9, 2.1, 6.7, 1.5, 4.9, 3.6, 1.5, 4.8, 3.7, 5.1, 5.3, 2.1, 9.3, 8.9, 2.4, 8.5, 3.6, 2.6, 1.8, 9.3, 5.2, 2.9, 2.1, 4.5, 2.4, 1.6, 5.1]
+mas deu
+[0.0, 0.0, 8.0, 2.0, 6.0, 1.0, 4.0, 3.0, 1.0, 4.0, 3.0, 5.0, 5.0, 2.0, 9.0, 8.0, 2.0, 8.0, 3.0, 2.0, 1.0, 9.0, 5.0, 2.0, 2.0, 4.0, 2.0, 1.0, 5.0]
+
+Teste 7 deu errado!
+O resultado para
+oOKBrYoOHqTqPYNMBCPpPHBtCuJBeFblfNKDKrAgKicPcMflPEjjwWMRGDRTPlUQqeDmvHBO,1.6,FnTVnCACDKmWgKFCMGJHWGGiCqQ,9.3,LtlYknLownHLVjtcYBHIzwbECiBsUBkteyr,8.2,cSfyDrKofwLJdmQAfXYJgEkq,8.3,PbXeEVGdkQDhzWZdOIRAFUkWMSduMgWDPdSAythIOfDgjoctpesJrArHDYVgvBmgwDFtuwQhIaeiHchxmatvjddNNmFhPCIlm,9.7,tTLDSuXhmKNprDUHxWJbKYbPBLNTLSxoVWXLKpHcdomdllHbrnKYlRKmBBqVKSrcGwvpp,7.8,rUUGblTHQmEKGyJaLSdUWPtAXXqnqIhKVvycVpolGrYPBtJxLBdnCYrjQuDlwOwQVnr,2.2,BTpyWsZeQXVGKrZzSjYAIamNMmbuHBnnNmFCJLAPgyDblwIelhrvdKMMbsOkATITOhiqtdOfnmGEjxtYIP,7.2,UeSvaLLzVuueEYtqfHitqlcmvbrAkrzXbTDrtAhbJBQJfOswWkVVsVKEnBWGgkBwLyhzRPpRKkYjsOoy,2.0,eXdFvJNPvsTlEZIdjwovqiuWGEgXGlFAM,7.8,BdnnGjdePonakNbTTyaaQBsdvnKLWyTlIgUJdlZOdvtJoBWXyJjEdoboyuiQs,9.4,eebbqGWBSlHrHmApcUqW,7.7,HuWTPBpLFMWvrpACpxaHukKJxDmzAtprAnFQsTafXUkeBHMSTnTVrxJkZVHkpeiJ,3.1,cTRbuQGSFRpOBfBRjRApEioGTipxVMRwARTwHdaexfkAmBbyeLQEXjBivRAkRCOndNoAZbrXajPyDYyANbI,9.3,raRZNEnEOdPhnQbXOrneMHTS,8.4,OzFRlLqVHjwgIyKPbPSsKftrQs,8.0,zggWeodyuyugqCFWuOyqlOr,6.9,QfCKdsPZExowmakuXuyUvPvkwwdWvCiGbY,3.8,RsYvktpfrIcBXVCNMBOceiurqCfgfAaC,9.2,AhZzNGYmtpPzZPuPYbpTfifPG,7.9
+deveria ser
+[1.6, 9.3, 8.2, 8.3, 9.7, 7.8, 2.2, 7.2, 2.0, 7.8, 9.4, 7.7, 3.1, 9.3, 8.4, 8.0, 6.9, 3.8, 9.2, 7.9]
+mas deu
+[1.0, 9.0, 8.0, 8.0, 9.0, 7.0, 2.0, 7.0, 2.0, 7.0, 9.0, 7.0, 3.0, 9.0, 8.0, 8.0, 6.0, 3.0, 9.0, 7.0]
+
+Teste 8 deu errado!
+O resultado para
+WevwgZmFvWAhGSkkYaYzUbVXXzAbeZssQCvQBjmRGpqjkXczdNLPhEIAXeKJByFY,3.4,UAnQMQrwwgugIeNHAwFHRhoSxiNhdSUULTAHPeZBggtxsHlDGWeSsdwIhqVzPlSPZwojSUiGfeExYoF,2.1,SSIuUxpbBJEaXJoDssLjUOnEZDLMyIviYkKbSnDVtuvrxEVkYCEOzRFuGMijyUkfIIFg,6.8,TlgZQcjlfryAArVqeeQwvcuhbxErSQTByUbOTXYTJTQekkoHHhnoIwxSqFmGJYAGKFfUTAMaOnCXMjGKgVC,2.6,eqNqeQSZgfRLFgVKQyElJrVbzBDpwqmZwgiCkYAcn,10.0,PLUycXhfhkvMTWvxTMyTeORauvMLiejPhuNfXuXsxVNZOFIQCuolTXmjFOTYOEYguSlmLnWRCpqHvCeOwdaFJehiYhijTrWnFUe,8.3,EjakuTnTEDgQCUJvsXZLQwbAJAXfACnDihBTi,3.7,zIzwhBHooYQxYqbmYMKZQRquzTOiEEWdtQOAOsDY,8.4,qprNUwmaBZFpCYonYoKlOoBujdjbiqLTQbEYqpLpVDaiBDNIwQxsKPCmBHEPARgdBlElXzSTgZYfdHZcDIaTAkYwaDWjNC,4.4,WRPOvWcwbdeZhUgIPKsdJVLRItSF,5.6,VQtYblaLkcygJhFsvZterKyzBNEvAEsFrEzrUwxxHkoXpBNleDgsGl,4.8,VvTPwgBJtOCnBZDdXqomLnXgTuQpGRYQxLssAzguNzLWWrpHzSoEeyGTUDmFuqePxXAJXYxv,7.2,GVtSYsJqDYHtuhbCZEzqNRSxKImHGLSuCVkRzsmqrRfAfHoDjNLnQMGvlZoIxtcBwvwQklMFnM,8.8,hbcwgVtWMCiIPGhjoYcPZGhhJbAhAHzDWoqxgaTOWufBfHDrkV,0.1,UdramXovbLSggokGvFXNTqpFwiqTYtEWmjAfdGKPzYvcQuZB,10.0
+deveria ser
+[3.4, 2.1, 6.8, 2.6, 10.0, 8.3, 3.7, 8.4, 4.4, 5.6, 4.8, 7.2, 8.8, 0.1, 10.0]
+mas deu
+[3.0, 2.0, 6.0, 2.0, 10.0, 8.0, 3.0, 8.0, 4.0, 5.0, 4.0, 7.0, 8.0, 0.0, 10.0]
+
+Teste 9 deu errado!
+O resultado para
+SYbKJWpssbbwKBBwDcxRTFwHnKovexgvfapEsr,2.7,DdRaCImTfKtQtsuLroAd,5.7,jUlaIRcwnejOrvHWJdfbq,4.0,DmKEembFshAhAtPPdaoFxwYdqJzHNNJvEoMifJczpGLimQOVPZUecUYnqQLR,8.8,uAmdVldyrmeaGIeaPxLzCkxseoRbFjgLbfTBTiQteuAaqabNQLtpaALYmBeBxCjEZpZcKWtuobpv,3.8,XOodPqzaeAvlTIbegABJ,7.1,ueFXykPIwJTXMTVmDogrtjUNsOXsONfEkmozvSMUbwpxTZuukUqfIamnlEUspBOlppr,2.7,MElMousDGqUjMFmwSYQBCvpWnzABoBxOOYoXluaqSeGzhjkoxzVdOwltIQcqbXCTnZeZOpxmdUgWb,1.5,VScykhgGAcKImtsqVvfGDukSfqvLaeYEFGNjwBrugAcFdkDwNEVjqrnXHdXzxZBqUEsIyH,9.2,BBwdXJxqLdcTXhsnYuJhDpECjFWdiYBjRsYQayvKlMtOqOZdvD,4.2,ICXvgsDNTWLdVJabHqYlCQjSVeMrtQzonDZaRhFvveCzOLYGfKewvZspHJrnCCkwoNxHHvmcWzIaFLxVIjebmrRHLfDKAxe,7.3,GBaYgDuAxkMFngFWsNXlwZxstOMXfPzEYumgAbpHGwoZisvbFBATsyWDPWAIzJgvQdSdOePkbcZzowNHgFxEH,6.8,VoIhIqVhsXtlxrJLkZpOfRPcKUwihL,5.6,CqicMpBmbEjHFXhTSHwRAUgiLcDCyJMVsfzCsZBItrlDKhI,3.3,hdcVfeaEOehjRbrHgpJcbuaDsYCyfjnCOQPrbnxCLDQicvxYbkwawUDWRtoYeCOHPfl,7.6,CwwakNNKaqXxyuwYQNZwaFNbrKDpCFLeYunZXgaEPXmvMUmQkPPPgohcZxxNgGbuBOcDI,0.5,UHLmGTJGzgNdhxfcpBbMnKvNooonaJSABxRI,7.5,brwCFJgJwJkhwXaBhNSqevxZJxKqFnJLBTGlYrbSQgAraDblaiscqQfxlttXvoUIwfZZRqpRgOgnHzcYCfp,5.5,TRufUCQPMYcLiLrCoxelQXhGSoBBL,3.7
+deveria ser
+[2.7, 5.7, 4.0, 8.8, 3.8, 7.1, 2.7, 1.5, 9.2, 4.2, 7.3, 6.8, 5.6, 3.3, 7.6, 0.5, 7.5, 5.5, 3.7]
+mas deu
+[2.0, 5.0, 4.0, 8.0, 3.0, 7.0, 2.0, 1.0, 9.0, 4.0, 7.0, 6.0, 5.0, 3.0, 7.0, 0.0, 7.0, 5.0, 3.0]
+
+Teste 10 deu errado!
+O resultado para
+uUxYAqJHBAeVHWMnsCVcIumCduYpFYMfnoSgfjSCdtmFTSTyIwAyFwosUdnkIqXRqYVXQsUMHDoRywXtKzWxPZIa,5.3,IJITSOOdHdCfDnUbdrSAVOmbaOXxXjgIyJ,7.4,AwGnWDvKcBdaJplRIGLNjLCnUEZcOkbMqlgiTXxcJuKxvpzLDEwDofMTuPuhWdGyUcCXKvYP,1.0,PitAteADjNndqKnwUjYENYfWrucKWENHrXhvLEewpfLdNvcYeXoKXtmGUkVuiKhMiHHXJSdKHudYjULtNSYvRVgtrJVy,3.6,vTUbKnKeQBSVOgPtTibGyAVJRUWJvWVFoW,5.2,UeDIrvNtlHlJQHfXCTGYCKuLsRunBOiTXoRbxlURECsHxXwxRvBsdBLdPNQ,6.6,IHmiCQysaIARkVgcaIRtjWGBNGcKlINYiZwpfNpVsmngLtEDIbonlQNCXZiqtIRraYjzPvqo,2.2,VNKSlNCYlNHyrfknCRAffljrGqXpqMhrJYOSHoanweaBnVfIfVkqKegHfRiVOZvNBumTg,2.5,OsnrFzgYmxHkvPWgavsOHzMOhHbKTAumaQTxqrkwD,8.0,WWrMTUkuccOUXqaFMLcgpFgNoOwjIsppXqOdbJwvPDqssmqHqFsKtxSWudem,0.2,FeNWcVXzxDfMCIqxTkLDevpSkxOdivrjfgYooxSQWugHhFdylAVCPFfacFGqpaxZLDwKICB,3.6,SJFffEsQFBlWaNGtAGqmjmWXxTMFMbKQwlRkPWQmkbQwEtsbkrdJfZJAcqASxQHo,4.8,cUNjqXmGdigpvIUVHubohXDSyVejigWnbrchnZZudHVyQuaCLLxq,8.3,evAHnSFbqlRIDwNYMEtbSVeGAPTQJvIUkRoVxDMvvKvuLPeULwRqcUZWUQkCEsThpjdslEmldYPjMBdftxYggcczFMLdYNSpHQ,6.0,tnDcNmENqSGYPFrwhcAHufOkEfeIUrobJNicAjReIsqAYrDEVPQQPyewwvnuqaIAWOVTczDSOVIDMfiYMgcsAGMrhSAXHh,2.7,MbYzsHIpzuuZIUAoNOnjVpoSEczffPXaEgLyqBtofpjvKVyKJKfgwCUaFeYtZpEWjqsfMkrmhpMNtKQXiAgFQeJP,5.6,qJoqyyjybdtFhKnHLKZINBiZlUzjaAzJjNaCliojFTFIcHjkTtEJUFlnOROluLWjtVJHpAB,3.5,JxruKGRgXVwstnXmgsJunqsxIlmFtxOJzJCYyncOymvDexIBJqjCgoOTkajIyUoVafsQFPIHSLbYSbiPjvDIfOMpWWVzbjkW,4.5,uaxeFzyLAJtsQgJQsGkXnZRcneymUWmRqCxmPyyJl,8.6
+deveria ser
+[5.3, 7.4, 1.0, 3.6, 5.2, 6.6, 2.2, 2.5, 8.0, 0.2, 3.6, 4.8, 8.3, 6.0, 2.7, 5.6, 3.5, 4.5, 8.6]
+mas deu
+[5.0, 7.0, 1.0, 3.0, 5.0, 6.0, 2.0, 2.0, 8.0, 0.0, 3.0, 4.0, 8.0, 6.0, 2.0, 5.0, 3.0, 4.0, 8.0]
+
+Teste 11 deu errado!
+Teste 12 deu errado!
+Teste 13 deu errado!
+Teste 14 deu errado!
+Teste 15 deu errado!
+Teste 16 deu errado!
+Teste 17 deu errado!
+Teste 18 deu errado!
+Teste 19 deu errado!
+Teste 20 deu errado!
+Nota exercicio 2: 0.1
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 1.0
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 4: 1.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1 deu errado!
+Andre Smaira possui 31 anos e mora em São Carlos-SP
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 2 deu errado!
+Rebeca da Rocha possui 29 anos e mora em Rezende da Praia-AM
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 3 deu errado!
+Emanuella possui 52 anos e mora em Jesus de Farias-AP
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 4 deu errado!
+Marcela possui 12 anos e mora em Costa do Oeste-ES
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 5 deu errado!
+Bryan Nunes possui 75 anos e mora em Gomes Alegre-PE
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 6 deu errado!
+Enrico Fernandes possui 48 anos e mora em Araújo da Serra-DF
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 7 deu errado!
+Luiz Fernando Cunha possui 22 anos e mora em da Mata-AL
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 8 deu errado!
+Davi da Conceição possui 53 anos e mora em da Luz de Peixoto-MS
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 9 deu errado!
+Amanda possui 96 anos e mora em Moreira-MA
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 10 deu errado!
+Ana Clara Pires possui 20 anos e mora em das Neves-AC
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 11 deu errado!
+Lavínia Aragão possui 23 anos e mora em Rezende do Oeste-AL
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 12 deu errado!
+Leandro possui 88 anos e mora em Barros do Sul-PA
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 13 deu errado!
+Kamilly Jesus possui 30 anos e mora em Moraes Grande-SE
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 14 deu errado!
+Ana Julia Pires possui 18 anos e mora em Nunes do Oeste-RJ
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 15 deu errado!
+Pietro Ribeiro possui 10 anos e mora em Gonçalves do Campo-PB
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 16 deu errado!
+Diego Fernandes possui 21 anos e mora em Melo-CE
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 17 deu errado!
+Enzo Ferreira possui 76 anos e mora em Cunha-RR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 18 deu errado!
+Levi possui 53 anos e mora em da Rosa de Carvalho-SE
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 19 deu errado!
+Arthur Pinto possui 12 anos e mora em Mendes-BA
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 20 deu errado!
+Julia possui 8 anos e mora em Ribeiro do Campo-MT
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 21 deu errado!
+Daniel possui 61 anos e mora em Moreira-SE
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 22 deu errado!
+Sarah possui 72 anos e mora em Cavalcanti-RS
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 23 deu errado!
+Julia Oliveira possui 10 anos e mora em Martins dos Dourados-BA
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 24 deu errado!
+Luiz possui 19 anos e mora em Moreira-AM
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 25 deu errado!
+Isabelly Almeida possui 55 anos e mora em Martins-PI
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 26 deu errado!
+Maria Vitória Caldeira possui 51 anos e mora em Araújo de da Cruz-RS
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 27 deu errado!
+Eloah possui 15 anos e mora em Barros-PI
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 28 deu errado!
+Heloísa Cunha possui 84 anos e mora em Castro Verde-RR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 29 deu errado!
+Kevin Aragão possui 43 anos e mora em da Cunha-PR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 30 deu errado!
+Isaac possui 100 anos e mora em Lopes Grande-GO
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 31 deu errado!
+Luigi possui 59 anos e mora em Barros-DF
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 32 deu errado!
+Laura possui 62 anos e mora em Nogueira-AL
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 33 deu errado!
+Marina possui 64 anos e mora em Peixoto de da Cruz-MA
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 34 deu errado!
+Lucca Peixoto possui 49 anos e mora em Moura-RJ
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 35 deu errado!
+Kevin possui 4 anos e mora em Viana Alegre-PI
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 36 deu errado!
+Luna Barros possui 85 anos e mora em Nogueira-SP
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 37 deu errado!
+Eloah Moraes possui 31 anos e mora em da Mota das Pedras-AL
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 38 deu errado!
+Ana possui 98 anos e mora em Teixeira-RR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 39 deu errado!
+Mirella Jesus possui 71 anos e mora em Rodrigues Verde-PA
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Teste 40 deu errado!
+Bryan Porto possui 73 anos e mora em Castro do Sul-RR
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex5.py", line 4, in <module>
+    saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
+NameError: name 'findall' is not defined
+
+Nota exercicio 5: 0.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21: correto!
+Teste 22: correto!
+Teste 23: correto!
+Teste 24: correto!
+Teste 25: correto!
+Teste 26: correto!
+Teste 27: correto!
+Teste 28: correto!
+Teste 29: correto!
+Teste 30: correto!
+Teste 31: correto!
+Teste 32: correto!
+Teste 33: correto!
+Teste 34: correto!
+Teste 35: correto!
+Teste 36: correto!
+Teste 37: correto!
+Teste 38: correto!
+Teste 39: correto!
+Teste 40: correto!
+Nota exercicio 6: 1.0
+Procurando exercício 7...
+Exercício 7...
+Teste 1 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 2 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 3 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 4 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 5 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 6 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 7 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 8 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 9 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 10 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 11 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 12 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 13 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 14 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 15 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 16 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 17 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 18 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 19 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 20 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 21 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 22 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 23 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 24 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 25 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 26 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 27 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 28 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 29 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 30 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 31 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 32 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 33 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 34 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 35 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 36 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 37 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 38 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 39 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Teste 40 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re, string
+Nota exercicio 7: 0.0
+Procurando exercício 8...
+Exercício 8...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21: correto!
+Teste 22: correto!
+Teste 23: correto!
+Teste 24: correto!
+Teste 25: correto!
+Teste 26: correto!
+Teste 27: correto!
+Teste 28: correto!
+Teste 29: correto!
+Teste 30: correto!
+Teste 31: correto!
+Teste 32: correto!
+Teste 33: correto!
+Teste 34: correto!
+Teste 35: correto!
+Teste 36: correto!
+Teste 37: correto!
+Teste 38: correto!
+Teste 39: correto!
+Teste 40: correto!
+Nota exercicio 8: 2.0
+Nota total: 6.1
+{"scores": {"ex1": 1.0, "ex2": 0.1, "ex3": 1.0, "ex4": 1.0, "ex5": 0.0, "ex6": 1.0, "ex7": 0.0, "ex8": 2.0}}
