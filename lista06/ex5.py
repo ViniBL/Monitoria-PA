@@ -1,4 +1,4 @@
-from re import findall
+import re
 s = input()
 
 saida = findall('([\w ]+) possui (\d+) .* em ([\w ]+)-(\w+)',s)
