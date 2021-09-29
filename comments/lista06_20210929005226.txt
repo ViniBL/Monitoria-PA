@@ -1,0 +1,589 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-10-04T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Exercício 2...
+Teste 1 deu errado!
+Resposta não encontrada: ['10', '5']
+
+Teste 2 deu errado!
+Resposta não encontrada: ['1', '0', '5', '0']
+
+Teste 3 deu errado!
+Resposta não encontrada: ['0', '0']
+
+Teste 4 deu errado!
+Resposta não encontrada: ['5', '1', '1', '3', '5', '7', '3', '9', '3', '7', '5', '9', '9', '2', '8', '0', '1', '3', '0', '8', '3', '7', '5', '1', '6', '8', '2', '2', '7', '5', '3', '4', '8', '1', '6', '1', '2', '7', '5', '8', '3', '4', '8', '6', '4', '7', '3', '9']
+
+Teste 5 deu errado!
+Resposta não encontrada: ['9', '9', '1', '9', '7', '7', '5', '0', '7', '1', '3', '0', '0', '3', '2', '4', '2', '6', '2', '6', '3', '4', '2', '4', '2', '2', '5', '6', '5', '6', '2', '4', '1', '3', '6', '0', '9', '7', '9', '0', '9', '1', '3', '1', '1', '9', '3', '0']
+
+Teste 6 deu errado!
+Resposta não encontrada: ['4', '1', '7', '2', '8', '5', '0', '9', '1', '1', '0', '5', '7', '2', '1', '8', '6', '9']
+
+Teste 7 deu errado!
+Resposta não encontrada: ['8', '2', '0', '0', '2', '4', '9', '6', '3', '6', '1', '8', '5', '4', '7', '4', '6', '8', '1', '6']
+
+Teste 8 deu errado!
+Resposta não encontrada: ['1', '1', '8', '5', '4', '0', '4', '3', '4', '4', '5', '9', '8', '0', '6', '4', '5', '0', '1', '3', '2', '1', '5', '3', '3', '9', '2', '0', '7', '0', '5', '1', '2', '0', '3', '9', '3', '5', '6', '0', '3', '3', '5', '4', '2', '0', '0', '6', '4', '6', '3', '9', '2', '0', '0', '3', '8', '1', '2', '0', '5', '9', '8', '8', '2', '2', '4', '4', '4', '4', '5', '0', '2', '4', '1', '2', '3', '5', '2', '5', '1', '3', '1', '4', '6', '6', '8', '6', '4', '0', '2', '7', '1', '0', '2', '1', '6', '0']
+
+Teste 9 deu errado!
+Resposta não encontrada: ['7', '8', '9', '8', '2', '7', '7', '7', '8', '5', '9', '3', '7', '0', '5', '2', '8', '3', '5', '8', '9', '6', '3', '0']
+
+Teste 10 deu errado!
+Resposta não encontrada: ['3', '5', '0', '1', '5', '5', '9', '5', '6', '2', '0', '6', '1', '0', '3', '1', '3', '2', '6', '6', '1', '8', '2', '9', '7', '9', '0', '1', '1', '5', '4', '3', '5', '2', '9', '1', '7', '2', '3', '0', '3', '9', '8', '5', '0', '7', '9', '2', '6', '9']
+
+Teste 11 deu errado!
+Resposta não encontrada: ['6', '4', '7', '5', '4', '8', '3', '9', '2', '5', '6', '4', '4', '7', '7', '1']
+
+Teste 12 deu errado!
+Resposta não encontrada: ['8', '3', '6', '1', '7', '8', '8', '6', '0', '2', '2', '8', '4', '6', '4', '8', '2', '4', '5', '0', '5', '5', '5', '4', '4', '4', '6', '4', '9', '1', '6', '8', '0', '2', '3', '2', '8', '2', '6', '8', '5', '6', '6', '0', '6', '2', '2', '0', '3', '2']
+
+Teste 13 deu errado!
+Resposta não encontrada: ['5', '2', '0', '5', '7', '0', '0', '9', '7', '4', '1', '7', '7', '9']
+
+Teste 14 deu errado!
+Resposta não encontrada: ['7', '4', '6', '4', '4', '7', '5', '1', '4', '7', '0', '2', '5', '2', '7', '1', '3', '5', '0', '6', '1', '8', '0', '0', '1', '2', '6', '9', '5', '0', '2', '5', '9', '3', '6', '4']
+
+Teste 15 deu errado!
+Resposta não encontrada: ['1', '2', '5', '5', '3', '8', '3', '7', '6', '7', '6', '2', '5', '6', '9', '3', '9', '5', '8', '0', '0', '1', '5', '0', '4', '5', '4', '7', '10', '0', '2', '7']
+
+Teste 16 deu errado!
+Resposta não encontrada: ['8', '7', '7', '3', '9', '2', '3', '2', '9', '5', '5', '7', '1', '1', '1', '5', '0', '5', '6', '6', '6', '4', '2', '6']
+
+Teste 17 deu errado!
+Resposta não encontrada: ['6', '5', '7', '6', '5', '3', '1', '6', '9', '8', '1', '6', '7', '2', '7', '3', '7', '9', '8', '0', '3', '3', '3', '3', '6', '6', '3', '8', '6', '9']
+
+Teste 18 deu errado!
+Resposta não encontrada: ['9', '0', '2', '2', '8', '3', '9', '5', '9', '7', '5', '5', '1', '2', '4', '3', '2', '0', '1', '6', '0', '8', '2', '7', '10', '0', '6', '0', '9', '2', '8', '1', '8', '5', '7', '2', '5', '6', '5', '5', '2', '5', '6', '5', '6', '7', '4', '6', '7', '3', '5', '2', '0', '5', '7', '9', '3', '1', '8', '4', '8', '4', '5', '1', '3', '6', '1', '9', '6', '2', '8', '7', '9', '3', '0', '1']
+
+Teste 19 deu errado!
+Resposta não encontrada: ['4', '7', '1', '8', '4', '9', '6', '1', '2', '2', '8', '7', '1', '0', '2', '9', '2', '8', '6', '0', '7', '2', '5', '2', '3', '9', '9', '1', '6', '3', '1', '8', '8', '5', '0', '2', '7', '9', '6', '3', '6', '4', '7', '6', '6', '0', '9', '4']
+
+Teste 20 deu errado!
+Resposta não encontrada: ['1', '8', '5', '8', '4', '2', '9', '8', '4', '4', '7', '5', '1', '2', '9', '8', '7', '3', '9', '3', '8', '6', '3', '1', '4', '1', '7', '3', '9', '3', '7', '4', '1', '2', '6', '6', '3', '2', '3', '2', '4', '5', '6', '1', '2', '6', '9', '8']
+
+Nota exercicio 2: 0.0
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 1.0
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 4: 1.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 2 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 3 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 4 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 5 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 6 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 7 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 8 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 9 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 10 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 11 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 12 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 13 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 14 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 15 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 16 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 17 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 18 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 19 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 20 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 21 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 22 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 23 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 24 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 25 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 26 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 27 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 28 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 29 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 30 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 31 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 32 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 33 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 34 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 35 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 36 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 37 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 38 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 39 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Teste 40 deu errado!
+Apenas as seguintes bibliotecas são permitidas: re
+Nota exercicio 5: 0.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21: correto!
+Teste 22: correto!
+Teste 23: correto!
+Teste 24: correto!
+Teste 25: correto!
+Teste 26: correto!
+Teste 27: correto!
+Teste 28: correto!
+Teste 29: correto!
+Teste 30: correto!
+Teste 31: correto!
+Teste 32: correto!
+Teste 33: correto!
+Teste 34: correto!
+Teste 35: correto!
+Teste 36: correto!
+Teste 37: correto!
+Teste 38: correto!
+Teste 39: correto!
+Teste 40: correto!
+Nota exercicio 6: 1.0
+Procurando exercício 7...
+Exercício 7...
+Teste 1 deu errado!
+arquivo.txt
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 2 deu errado!
+/tmp/tmp2du_zw3q
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 3 deu errado!
+/tmp/tmpacyygr2k
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 4 deu errado!
+/tmp/tmp87nb25mf
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 5 deu errado!
+/tmp/tmpr5yh0d_0
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 6 deu errado!
+/tmp/tmpoo4nllmj
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 7 deu errado!
+/tmp/tmpf1dreait
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 8 deu errado!
+/tmp/tmpswtitnkj
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 9 deu errado!
+/tmp/tmp2juaefbl
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 10 deu errado!
+/tmp/tmpxvtrl0d7
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 11 deu errado!
+/tmp/tmpo86zvvwo
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 12 deu errado!
+/tmp/tmpso0r87x4
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 13 deu errado!
+/tmp/tmpapfnor6g
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 14 deu errado!
+/tmp/tmpxmcs373_
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 15 deu errado!
+/tmp/tmpdodky2q9
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 16 deu errado!
+/tmp/tmpd8hamhei
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 17 deu errado!
+/tmp/tmptkxrte2_
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 18 deu errado!
+/tmp/tmpjlvso7fu
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 19 deu errado!
+/tmp/tmpwuuoxjw6
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 20 deu errado!
+/tmp/tmpb6oxqhyv
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 21 deu errado!
+/tmp/tmpdpo7dvdr
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 22 deu errado!
+/tmp/tmpvbnmi4hu
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 23 deu errado!
+/tmp/tmp2f6tf9fx
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 24 deu errado!
+/tmp/tmpj1abojpx
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 25 deu errado!
+/tmp/tmpfcbbybe6
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 26 deu errado!
+/tmp/tmp4wyz6tur
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 27 deu errado!
+/tmp/tmp0banbz4s
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 28 deu errado!
+/tmp/tmpwi_aql2x
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 29 deu errado!
+/tmp/tmp93mifg9a
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 30 deu errado!
+/tmp/tmpm0e4816w
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 31 deu errado!
+/tmp/tmpdmpew7pp
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 32 deu errado!
+/tmp/tmpe77kvmyq
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 33 deu errado!
+/tmp/tmpszm_njvc
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 34 deu errado!
+/tmp/tmpsbai6fiv
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 35 deu errado!
+/tmp/tmpwmv9tt1v
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 36 deu errado!
+/tmp/tmpc6god_ds
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 37 deu errado!
+/tmp/tmp5_d24fyh
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 38 deu errado!
+/tmp/tmppworswor
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 39 deu errado!
+/tmp/tmp3x7a5lkq
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Teste 40 deu errado!
+/tmp/tmpivgriarw
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex7.py", line 5, in <module>
+    with open(nome_arquivo) as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'arquivo4.txt'
+
+Nota exercicio 7: 0.0
+Procurando exercício 8...
+Exercício 8...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21: correto!
+Teste 22: correto!
+Teste 23: correto!
+Teste 24: correto!
+Teste 25: correto!
+Teste 26: correto!
+Teste 27: correto!
+Teste 28: correto!
+Teste 29: correto!
+Teste 30: correto!
+Teste 31: correto!
+Teste 32: correto!
+Teste 33: correto!
+Teste 34: correto!
+Teste 35: correto!
+Teste 36: correto!
+Teste 37: correto!
+Teste 38: correto!
+Teste 39: correto!
+Teste 40: correto!
+Nota exercicio 8: 2.0
+Nota total: 6.0
+{"scores": {"ex1": 1.0, "ex2": 0.0, "ex3": 1.0, "ex4": 1.0, "ex5": 0.0, "ex6": 1.0, "ex7": 0.0, "ex8": 2.0}}
