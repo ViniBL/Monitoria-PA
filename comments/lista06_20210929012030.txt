@@ -1,0 +1,467 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-10-04T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Exercício 2...
+Teste 1 deu errado!
+Andre,10,Smaira,5
+
+Traceback (most recent call last):
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex2.py", line 6, in <module>
+    lista = [float(i) for i in lista]
+  File "/__w/Monitoria-PA/Monitoria-PA/lista06/ex2.py", line 6, in <listcomp>
+    lista = [float(i) for i in lista]
+ValueError: could not convert string to float: ''
+
+Teste 2: correto!
+Teste 3: correto!
+Teste 4 deu errado!
+O resultado para
+MgEPkPhLJsViAscqxqJlUAaXCJhVWSPABCUALPBfShselXyuwoqo,9.9,AewVvbZABdGLxKpnaAhYtRgZUSVPVINNhbKAcOOphIzizJBReUxYirjTuHDkjeKx,8.0,qAOkwJVCMmmSkGnuqqydXcfYthuswmjzTECRWscaKAuuxbZaBSGlXlsVKVngFFOvHYEfwZcJIWLUPNinLGPFaARPGDfoRgXogz,0.8,sqLCPtXENomJZkjIqQBTtho,2.5,lgzYdRnJVUMedholTbufHiFnoKNWpYNCK,0.4,fQHgBXDuDoLcaNgiABMvrvQ,0.0,PEHTDcXDeILLXkGiZVZGHciAOAQheiCzXyMHjseMMSUGMCIrcSZPMgDVoMuMkUUEPJw,10.0,BXkmbJQgzdHjlPOwbHXPIxSenfhNAPuhuHaqOAoDTPwENeaspyGfZfWAqGXiXZbcjbMk,4.4,mObBveeHhTymkbciGJerbIcvRRcvuHKmWAzXMPKcoh,6.2,zzhUllfpURqgQIALQMlLFouNoCLrDmVmtcdTpOAVEhFVhPFyTrWDDkvjYTYzYQFQLGHNCBsRLdX,9.6,LBcBgXtCtEkcmxyzvPyJEmPzWuIiPfRL,5.9,hFKBNKPvfCQzkCGilHWnuqCAMZFaMJzNnEwLIVFHxhdAGuGipXzCiNsFuUQBIYbs,4.3,OZfBvZpVEywzmtxMNxFt,8.3,MjIRyIFNGDwrgKdHhCqDCHLEHKlSGTDDqYPLxKuChDolOXjBaeuLA,5.5,AxaMutbCzFirgteGqRdHApOupFFSygEBzMuhdeGVrOuXFUomqJJCNaZTv,0.4,xZDFCzRlMpwIEIIvbbKVBsR,9.0,ZiPmWAbAEdPPduWuJZCafHWzVVGwpVAsHufKnGOSvwoSReXRGrvGXgLNagcCXcCTGoAkiRcVQpeRutqFHrTuUEHNfZPzktZrFz,4.3,qpUrVzfDNgTSimFbhJHDrfvLgqOqvGm,9.0,rlyTiJPLncdertpBRmjmAtWLnUKUAxhtvLHrcOVQRFxuOCrWZIritrOiuudhXFokHz,5.2,rJshHVJRCkLtecXCdgdvlwLmuaIuQEKVqsZTqXGEvOleeNqPNpFdlLrGsdPTHLXefLLarBliPcDRuKYbMhFwnuakLZZsuCSrWJP,7.8,TqUizxSkzKKhGrZlxISLkfhQePWoQuPoBvjDOEHBpRsUDgONunAejBFyqWqBKjbpTevlrrHBw,0.9,REiGnPYWWgkZJlcdEDZoatqMiTydLhFqfrqMAgzFKNuqekaUZQZbtyKdHgRvNkodamnZUrkhMyKdEAusqJfRRJogneRbua,4.5,UKSJUXBYddUCdhDSriwprWfsUoYYVjKzeSzDMkNXdtwjfIbKBpxsBcNEVjaSRcuRGWblLHWOuvitwfEivmjmHkiGQRNgqelMxpg,6.1,YMJbQNaoaoRiVqRzZQMEFwgnLRRTaEDkIJAvExsKEUpvBGFXngJntULbAiUuhmefXOQUeZBKIiVQFKSeTuRFSnHxGgFqzBa,7.1,nShPKWhuIZiNkESvAgWGICjgKzY,7.9,wvKLWHbDjlQwPRwaMrEGBBPlkXQDwtQqDvXcynlkEWnlXkfaAUAFLx,6.9,pNSRAVNxpBvLLodlErTfdohlqtsDTCWANapeZPpjSwQLVxTbIMLxZKidYVpocloF,3.4,xmsExociEPSMLEBEJWhJqdmYInJatWIqfKadDyyYSfAUIxPWwEsRvJcgMalTbNlNXsMnhZPGeuEPMpNUuLyFqbXEndv,6.0,aIcmOYuXIWUjZjBsQCRZsJZteFMkyOHibAHSCYzkkg,2.3,jTORWJWGYsSEgbTLTQREMAcYhttIKgFgXgRnh,3.0,zBYavXJxmzyIjjKeGxJMpveWBZyBLVkIZBXHftpsnAqAILOTAgdaugQwFicjxjtwvHyUdpQfjDaxHmOMGiqVeHzMNoXvf,7.5,UQQowlXlLiNMVeMrMWtbVtfEoZMcHfqyFriHHHogeKNzQMDWAxCCHeLwDxBYwHjxQwcpYyL,3.7,EBFdNQmTkLckHnLdHnTXsyEYwTGKkwApIjiZd,5.5,NrtbZJLWFQlbjGGegYDmbJqdQwOgowbrOlEYMXBoVuwEddyJUWxm,9.5,CUweHUgFItSyGbaHMhExDoKIwSIthwNyiexiasYrRtaMLNCnWtbMMEOMysogYbqDkoHBFpfAlbYsKnRLUQqKYxpJbaqwbWFL,8.0,QGLMaxVxNxZbMhvlUxbrbsMSj,2.6,dCjeIeogoaynzZFOSPWfkcjGraWwaBlQTrztfgcLneecycHQUEFQogneKbmsBTvQX,8.9,roDbARhiBZVgrWwXAMRspFnPHuthXvEnISTNusz,3.8,tojipcmQsVllfyeEyUPedokoadFhFxmLhbfArJWuEtDilGPCAAV,1.8,PwLWiYPQRLINPyHneWpmNxvWOwwIqnkOSmNJVQcHIylJjCNNGzZjZUNARRRzriWsIKHWPVoCdcpfIgtApeNexwjUUYrKxkc,1.0,pGGfWzVzesmYtHNDveLEnzmHYTqVeJVrQTxDutuiiTXoOPIJVBkYbdhrGrNuhWKBLzteozFWscpdKcVDw,8.1,XnyyIthsKpyQMydLfYJCjKWyKFQCnHHFyfixjDWEg,6.1
+deveria ser
+[9.9, 8.0, 0.8, 2.5, 0.4, 0.0, 10.0, 4.4, 6.2, 9.6, 5.9, 4.3, 8.3, 5.5, 0.4, 9.0, 4.3, 9.0, 5.2, 7.8, 0.9, 4.5, 6.1, 7.1, 7.9, 6.9, 3.4, 6.0, 2.3, 3.0, 7.5, 3.7, 5.5, 9.5, 8.0, 2.6, 8.9, 3.8, 1.8, 1.0, 8.1, 6.1]
+mas deu
+[9.0, 8.0, 0.0, 2.0, 0.0, 0.0, 10.0, 4.0, 6.0, 9.0, 5.0, 4.0, 8.0, 5.0, 0.0, 9.0, 4.0, 9.0, 5.0, 7.0, 0.0, 4.0, 6.0, 7.0, 7.0, 6.0, 3.0, 6.0, 2.0, 3.0, 7.0, 3.0, 5.0, 9.0, 8.0, 2.0, 8.0, 3.0, 1.0, 1.0, 8.0, 6.0]
+
+Teste 5 deu errado!
+O resultado para
+fcKveTCwUeSdPBWpSyoQXsJtBKfIlUJKMXelcKJGxLXJuSOUBasheQOLqmdzRtVeyErUfBWzjNkEmcgkUhRW,9.3,qJmxCLirrvyKbjPjDQxpxmIhOGFYGtFMDCVFmpvkbxNVQhHn,0.3,nfHusiGvqafiiuBckkBIu,8.2,rhNKUSyckzoqGCCbXIBoMDPgUMUBjIHqbJAFftSQcixNCzIJhKE,7.1,BvFzjBVNMatPyAYkEsqUdgaabcQRROSiMrzrVRGCLa,1.5,eDSLTfHOcvLDRJgyjrOpvViCxMTarIhoplNKtBzvWhIMuNMWRkkiWXcN,3.6,DRMpLvmBaTcvArvthWoSChPIZhDDrlRZRsGHRUTWpGICFXfQXPLPeyyJQHn,9.2,ZjQjXPeSqCMcfmKOSNwvQwRIXSMWNBgUtZJMJJJpQyIarFWeGiagPKn,4.8,ToxBJkIRfetvBddDaWFmiAcyzMpgBAaMAzWcFjJzzIqiOvvj,9.4,JiyZcLHkExLlnMjuwOJHUPYCUzlwrsJBSTTAWcfOMZkh,1.2,ErVnTaJfesswQkaqgCUOUyrC,1.2,XluhKJDUNXmzhiMSQcFjlnh,4.8,UoBNNhOpbKQLNeeQgFCqiOND,1.2,bYzFFNDrIImGuAwksHaFYAijPXPmtHiFeJGzbdOunttrepoAMOxXvAnmBcsMhHXacmrgxpOHhXWMnhWdhuaMVArZ,8.9,clrLIPpZoVKNvEtkazwNfCcfigeNtIbsHEhOSOHYRIMVfNTvGnwsQKnIsNvUkCuFcx,1.0,CUZKDnzpemWXHBOjOAXzWFNjNicjhtGNAlKrZaK,0.7,ekIVfgxBvlkShqituPhNaMVnnKIyBgkYoLxwaSfbAYWoIXmyNUcogtACAaJfMXOkRkqkjmrKNmLSnXUXPdLoGgg,3.7,FOrImWahRuUyISLXYCshypD,0.8,wBlqQAcpWXXBzhGxiLFbixOEqcpChWPzvMmqGRHppsiTnMassCjcrwaMuZTRZGAqSyUoZIrhZTVgdAGA,6.1,tyRhXXilTisnzedGJSYvEyrMqDKwbapHwIyWZNdeQWSJcxIMGQqkqHorULCTRQsueENTkhjrSYOoAgRTSWfNTUIxBsCfSeKUj,0.9,CZdJtwclIDMSWEFECOctWsREoTJwBxNyCPpnPDiDjHWqWCiayyqoKOPKKvpvBwwnbMibhDsEYgeWhuFGvvTOKyoQutqS,6.3,pXeygioeVpttOYzJnTEMsLJPckjrFcmmLvTSAnXDgQEvhMjhoYDbOmEipClKKZQxOLWdrbfjcLxsjnfdkJvxYnEJxw,3.5,WeUONbvIKykmPobLyqxCgoJFoQIOOecLntTfyoBqVPATHFBYkqjcVpDTMRYISJoMYAnwqWFx,2.7,lFzQUYtIfeLYYNqznSwsxdxezNAMpzXAXWhcKbYSBZJDGofYACMvRjUofjkVlLvWbfLwjmYrbRsqNNMekAMPYpPNG,2.2,dvRCRfTPMvqCdYzgxQXwquqrgLYXdtyQOOVNNOoskiyJEwVGygYnQUPpSQQsCiUsOxPsdQSrmZn,8.1,oDueBzgKxXozvcSewbkuYJxASwDEjtmiqWqXFCFAFs,8.5,KMPVfxDSvlEFKIyyMqbsjrTHGqjQqmZlMoNyIgpayAxtYCyrwmzyOHeJlcsvTyakAthiFNFZeWRc,3.3,bEjIQSCWjTOKXpXVsQkSaHTOZqVELtDLKXQwGxmTdtxQlqdZYpFsNaOTAbTISboQiFcFNBHTtR,3.0,YoqcZNletmqUrrUuEwWetNWRMIaVrpyxztRJjLBpRIxCqmvUDumcbcy,3.0,IfHQnOZSTJvaXxRxBUNulAdjUiYPltuZWobPPIYYWZt,5.1,dFLsmPnrIOlgCgydikcIhqzgXipnlKIxNLlvjegTzJGkKJslnoXlootaEObyaaZtuYAcGKULkpnUB,8.9
+deveria ser
+[9.3, 0.3, 8.2, 7.1, 1.5, 3.6, 9.2, 4.8, 9.4, 1.2, 1.2, 4.8, 1.2, 8.9, 1.0, 0.7, 3.7, 0.8, 6.1, 0.9, 6.3, 3.5, 2.7, 2.2, 8.1, 8.5, 3.3, 3.0, 3.0, 5.1, 8.9]
+mas deu
+[9.0, 0.0, 8.0, 7.0, 1.0, 3.0, 9.0, 4.0, 9.0, 1.0, 1.0, 4.0, 1.0, 8.0, 1.0, 0.0, 3.0, 0.0, 6.0, 0.0, 6.0, 3.0, 2.0, 2.0, 8.0, 8.0, 3.0, 3.0, 3.0, 5.0, 8.0]
+
+Teste 6 deu errado!
+O resultado para
+oYTwFcKqxFFsVcuThZIlDtNzCOmUzIxJQyEIzRHdm,5.9,SxRrOVtuNatnYqhBDqPauhrvymoRoeBquxZtrEHhu,4.8,ACzEimQRyeZpvlhXUTWAJULnEQlPynrtRpqEgEIvbrenwitMLuCiSVSkjBWfSDULODzeDxlMSXXqRRCitbNNgDcsofarPEUdYlTo,4.8,nTSoaZcjtPJfEMKuyjaHmzdbmK,6.4,pwZyzPgoFJbXhPXvqfsxjacafrKYtttTMyiyZWIcrgERbgIqbs,9.6,fCIOpMAfRVHcYdZYbMNYbtEuDCIFbnKdkqWDpkaTVOXepew,9.3,FetgXEjUPwhcVfPzBprHXUKCyjjDVCHSTBoAeNFMHQOpncSrlaVCTvEJGwUyVruRKuEYKqVyjzAKsr,1.9,UpMNwLqekRwnqbfAUdkDPQFMEureMEUrynAQSCGHwzEEbKoubfH,9.5,RaBXOevKOFlgglYrEvfMNTZTDrzIGRvNQHWBO,0.8,dagkdJxFqNCdIAktDalCJpiZbqaSOFVxFCwBzDFgkiLLjbOWdYcdBVtsDdOtMlHuzecyhfOJaVzrslxQtSC,7.5,XBIvVEMmiSFIkmlqaHsAxeLlPPLvvQgBPECASdOkjJdsZzoevYAzVYisXSxfIuWuWpAqhLKRx,3.0,pRMeLoFQfYVIPTJGGRyRWPvlkSgfWKJCAlaGCscVSJjlesj,1.9,iWoUNqTofdOCneJGkIXsiSxIvYthlCbY,4.4,fCrFfbQWFhgfLKZqCKErwfbnYWNVxefrGmubNQzPBTiUsviMTRRdR,9.3,pAyybPByDjCMdqxRQYDosmBUdKsttuKIvGUTAslbgxevoAOQOFYCGISbeMsybKWIRYWsqSAyLEyZr,0.0,wPsJkHsFFnKCtwRJGqRRUvhFsiGRUMizMdzJuKzyLSUDLqQWQc,8.2,uCZaQbDfhQYBSriGfuVclkRxMPEHqCtCiQxccJjsywOyliJAkpKHkiCyzBcNWxcDmbfbSATOCY,4.0,HSDsCdTzKIhmojXDYTNysiCVrUlRmlqnNxlbpEOxAiRfRQOIugwoyU,0.4,xJCBAdjHlWpjlgPBZHjGIMEaub,1.3,FmbMMOqGHzYuipdIVwnUCHcbokQAMgdvPKsSspjugAoqUntR,3.6,igqKGeYSLgZlqhNvJdknhshzpqXAHrpgNcFCSLwSOxVnCVYvIUHimZSgJioTQXiSxrYjqal,8.6
+deveria ser
+[5.9, 4.8, 4.8, 6.4, 9.6, 9.3, 1.9, 9.5, 0.8, 7.5, 3.0, 1.9, 4.4, 9.3, 0.0, 8.2, 4.0, 0.4, 1.3, 3.6, 8.6]
+mas deu
+[5.0, 4.0, 4.0, 6.0, 9.0, 9.0, 1.0, 9.0, 0.0, 7.0, 3.0, 1.0, 4.0, 9.0, 0.0, 8.0, 4.0, 0.0, 1.0, 3.0, 8.0]
+
+Teste 7 deu errado!
+O resultado para
+iEcNNvrqGZTpkrXvjTzPXGyKaggTAOfDXeegHwFJMvzMLwQNubBdtPwoUnEYtCYiFSGCReioCUZnVqBVMhABmwVdKcNYiWX,4.7,ycRHbeqSKoKMAMAWxzxNpwqpdhhkyZOedeudQsFntkgzqMfaaHyFWShemkFqOzXRwcXzjWCbCijZLBLBuIVMOQdHAG,4.3,DUNiQzWZWfRuWwtHrralYRKDblCqhXUkJpRuJMnUYPSxZLlE,3.0,jAVXSXqRxzLmYKfNAbyTQRhYlMqaFGGdZnwFTARHjdsqNPCJJQdJqHMKRhFkD,0.3,SheDHKJIFomAlIJUIwNluxPDMDOhcSFkBFfzONrHZHufjcEeBsJSqMuiXaliCvwwnbDoxoaU,2.5,lWToBqYzjIYVLDUjmgKIruRZKblVjFEEcBAnqMDqAwJQRkBdAhwAFBKCABDZAPtIJKgYuxvojeJuELRiLIHfxVOMHO,8.8,POUApluGsIvevArlDnPAfhCuwQiIsnOIqKMGzIImExvXvmH,8.3,DSOwaFvvWPZwGljcaUghgfLGWpnWqAUnwOKWCNK,7.3,RMdHARZpzANbLzxPxEoAireOdiRiBxdbcUepdpzsnsQFssZRgKJZunUiwYWlFflzQaTaSIRkDHkbnzQVuRQOL,9.3,idUdXYyafSrxELnitVGeoGwwizpTZTebkkDNTwwSHTvHfWGlHivGnYiyu,4.7,SCSmeSbnUebhcOBqkqQOeZkgoIalHgCCkTdIRWjRoBrNVviNUx,2.6,RmzxzvKyysZFrndxRxAETBIViXUJ,8.9,DSaljfbFsBoTTBMCjZnkTyjLFAGekzIEdMcqqM,3.1,xQdwtsfQHNhtQlNDWvPqNRnGfRpbXG,6.5,vLaTGtErswrGnyJyDpELTDXWrQncaMRekRLJdpHIGwDILNmBbiRExJjNzdm,3.5,IqQlDMTXmGRYokmNSNuWOHcjyIHDTzHuSgCTgqhwxJPnhJMtWJXhQaJuGFyuZpuONvnKdNWSvkxXtwOMfX,2.2,eAYFYRtkpbcVAgoHbYFAPLWYmsXhWbUqhEqDrVGqyqrWAWMJiyRyrveiVaXeqaUyZddbMlertdbmlwtBqHEPgGmUOTvOkzsDPRCd,6.2,MDATPxOFogfCDqjIBqfzskqmiOEXJEEOiWFgeZmIsuAlhdytNMAOLobcgNAAzOkDlmOtEeQKZfcMcOBqtpHJCdbTUyY,10.0,TVgCiMYOBxcaSoAkKIZw,6.2,cBRNHTZIdIytXBYUtkSCVdmOgDVPFKMveDGPnQ,6.8,clSUVlRKdNZydxxnwmbTzxWyUlMGvQEksrxyqivdeCIxJ,0.8,CRcJzGFvOvWjchWPmfHbBKTqp,2.8,GIQiISFJZbXaDgaYMPvjpmmmWApmipdXBoWtibdqTGpIDLebHQmpefIrCdpCktqs,8.4,ivKGESSdnfMlIHSDHBmVBUVnFcaZdHHlzZPmroACUheeALVsDhOqncFniZNGXRncQzjgMmyHOhnqffJbmTReG,0.3,ayLnLyUWlEzVpQAkQoWyGMsotFhmokTIaIdDYosZjQmwJVIIHGneXqsbIG,4.6,jzEthyGfySozQYZhhlXUtTTaWBHjAmXexNExAjPmwZYyIVgCnhekAkQYAqZarFIAcVkGzLdv,3.3,jJjhssSjfBXZkBsbONLyhKQgAxMueSNavXnVFvLbywvPpozLNdEAmMdSDcEMqZzEbzCwXoQND,1.4,IdtwYDexGlsjUvcDkNFvRRdbjBqLwZwYwYcYiwsJjcfhThFPmrmToCTPcPzYssPSgRADnizRlMCUQwkdeEGEMtJxDOPCKRYhH,4.8,diMuaKKtHqmzqkQJtpbKyeuFzehmpyaxQIjbAmfPAvjajtgysLYuyPTTLVIaymbwwRfvsrLQMWOklfvWU,2.5,YuEXJWDEAvzVcKESzUhMRNRLTBouQQKlVcIhTatnrTrXkiPzCvORwdSahZlvNckgYpOPyHZTJyV,0.5,okyENaGsdGsCRzYptSaagXxHguennGhgWdpcbiowlaAVymwoTV,3.3
+deveria ser
+[4.7, 4.3, 3.0, 0.3, 2.5, 8.8, 8.3, 7.3, 9.3, 4.7, 2.6, 8.9, 3.1, 6.5, 3.5, 2.2, 6.2, 10.0, 6.2, 6.8, 0.8, 2.8, 8.4, 0.3, 4.6, 3.3, 1.4, 4.8, 2.5, 0.5, 3.3]
+mas deu
+[4.0, 4.0, 3.0, 0.0, 2.0, 8.0, 8.0, 7.0, 9.0, 4.0, 2.0, 8.0, 3.0, 6.0, 3.0, 2.0, 6.0, 10.0, 6.0, 6.0, 0.0, 2.0, 8.0, 0.0, 4.0, 3.0, 1.0, 4.0, 2.0, 0.0, 3.0]
+
+Teste 8 deu errado!
+O resultado para
+hjHXhlSUWhraFUGxqkFqVqcOkVzldaTwbxoIaWITOUidIIIAFZbSnWUvukGvNxAxnNgHoFCZJWKtRIxcOianBYTswvxm,6.0,JGpVciLIHKeKlkBTNmYFQPBWFyhTfgViOpJZcONxUrHwCiyqWMsSdBsbhBYzxZb,10.0,maAhJceDyagsJlZLscCaJilUmenqJeCIBBvTGOccRUeohmadFsJWyvvSheVEAgJYZu,9.5,IDwsGZSYNABSryXFkVwTYemkXCBuMfd,7.2,SwlpzlnvoieMFKOJXmuZMAHuJzHhQeeitRkjbTI,2.4,ZwkAsxkHCshAiJeBjuaadaBLQKUaCCNMQ,1.3,frdDMGrccuOjNmtCkuOoDogPKdmXSNgeZbxDEJfKyAakTqSitbXDXthCYkNPPngwFBdkLri,6.0,OSHzhQNciNxvNjyEymMhtGJXRhMWTOfbBeGkMlBPMKJDr,6.8,TQJwTYMZbIdifVMmcqKJbLNNdJhLanwPxQdzhxEuGrkWRUD,5.3,iZHYLPWRwVXYoSGPfErFqiJISWEwsGKyqm,4.1,teYzOvQUjYkWZTriFlfJHcxEZzXKGrzLGAbISVXJjkIGzVnWlYpLAKus,4.9,DBGOxeAznZtSXSkNYioHobrutU,3.9,otIhuwuMbWQRbSTCgeBymkRev,7.3,OVhfVYaNLfUokWINJGxxtGseVfnIMxySgrWbsVZS,7.0,ckBgxgnlJkZZLMEfdBtfETESJxDSIotSDKLdeyaCOyGxtyOGEHcaTm,4.7,tCmhviideNbsELJXajwnrJTMwZsJyFdrVEFnFFcQYxMnQRRGt,4.3,rHlJTVGLBFqqpkQVunwiZWfaiVzGsLwIBCGEsAXK,5.5,BDHStaMvxjnsqniKuzCPPwmZcxwJDYlKVrInNfreudoSOJskzwhFtyZwVEgnzRrTtO,1.8,WtpAZmFnEmzlyxFogciZulTwmXiFgWYBsAlRAHpHRje,4.1,ygbqHRJGBQMtAIBxELgnAkpKXZjWwApgXWCnVkbrcHkpLiLJIBBzQiWMCctxkSsyWOZZBpCeSNSDcegkrBfMaPBUYIHviFE,9.8,wlUGQeZQRBhVQufVUMDiwDqhFPgUCQWUqslCgsZQeqHfuq,8.7,zQmezckcWrSOhNRRJrzHfIAczFWEYpeOBuAPzjErCZbHASbBNrIdaaQLddHUQONtKu,4.4,XiPJWkMdXazEUQwdhNRtHVNkvCJgnaAvVOhxghBmBeWtEfmqusMamHOARFrtKNxwWTyITjZGPfGIrkwpinyx,1.1,zPGOnoXJCEsrZLBpwfKVkSUmVcuBynZAaVFrYyQkOhpNTtdNMhZH,5.5,HNfYFRAlwOLUCgCxjTmsuSGnsBWAxmBcHsfhnUZnqfrqAdF,5.2,fXmKUUMokalEVQIQPFCxdlKCQpstFT,5.6,cuxhuXoQjpEpOvZDFosWdwSVRNWhb,2.2
+deveria ser
+[6.0, 10.0, 9.5, 7.2, 2.4, 1.3, 6.0, 6.8, 5.3, 4.1, 4.9, 3.9, 7.3, 7.0, 4.7, 4.3, 5.5, 1.8, 4.1, 9.8, 8.7, 4.4, 1.1, 5.5, 5.2, 5.6, 2.2]
+mas deu
+[6.0, 10.0, 9.0, 7.0, 2.0, 1.0, 6.0, 6.0, 5.0, 4.0, 4.0, 3.0, 7.0, 7.0, 4.0, 4.0, 5.0, 1.0, 4.0, 9.0, 8.0, 4.0, 1.0, 5.0, 5.0, 5.0, 2.0]
+
+Teste 9 deu errado!
+O resultado para
+GvuFweWGxETQntsQRBwovXQowySITrraiNqMzdSATZSmqBAgEpDfFRzqAfPjlySkqEfcWXOVXbJsdtpmUXoRMBQP,1.9,MHZMDylKPBpbpSQbxVzb,3.7,QTFhdoQedyIoMDbdKOVIXVbaKqm,8.7,HZEBZHQNWdCYzOVVLXYbpejAVAHWtHdCtKDSkJlhZixrfmLAREpIGMZpKM,0.9,ORTpPBSZAmLJiaBzBlOoUdRWSfWDTurwqCeQGZcmzF,0.1,bHVzuKyywtbITILJXpBImOTRJHZexRabNGAOpCPJAbdMmfwRBWXKHtJThpglSuYpQLkMs,9.6,KjcdfpdozIzTPDBaOaXXcTLzSgsYZaUgQVoYpsmfskXGjrTHFIfBtpSmryGXrpJUIFYmqSeqvpsGneLsSwGyxfoKncFkqptYvFMA,8.8,toWrenmdieARWCJrgHyjgAlKEEMnGPQvVakzcskUSfxfELHMwDhmRowLQyUJ,0.0,DaEQevqEhoIxQCPcpjtuowGbKugLpeGuaejzwWRUNbxwXOCIdluImlFCMEJMwh,3.3,sszxdqHxsNMLYJShrnLXdVrjjhbjoULdw,0.9,iZodJuolQPEGIdMioQJXVAmC,7.0,wGStJkcJmtOONveRslglMHnRWPwoUrxnpdbkcMYfPZaPoabZRUsREXgbFEbBqxxBzzfU,0.3,JsFBoguhsegbhYqSRpodhSUSToYVABWtabKMWlkuRZkRBuYTWgPSBRrpvOVyOZYSLxxnRsClskmXjqkbq,1.1,fkFQMMyUChTiXGPuqvLMREsuMmkSOwLho,0.4,WNxHUGmmECMjnyqnxyQSrMmCcKCsOTUIGjikPqdrYvfidAsdeqAtPBSpxfNOCYtQaGXiXvERPyswbaagPqxUNsTQQhXeAQPhCOH,7.7,zgZcZFZxXSTLNuwaRQTgBWRzUx,0.8,YCoXtoZyKYkouPJiiohNkDneuKvjGzFjVJypsrUHXTTWcmqzuDcMDBTDxrmZWEVoEtNRafKdLBALfoHA,0.6,lgbfOOrOUujxiRWMukkIAZoHhuMaNaRZqMxvIzGvyJGThwuRDhJpvClsYAAseUmDgLBWIZaWEBhQznSSSRQMPzr,7.5,osJjUdYssgKaicdhbSXVUIGLZAGxzjFanlHIaQOvikzxZxrnCSuVvWyTibXPGFsQGUHrhAoBUXKC,4.5,dbMFccVAIdUQrBKpiYKIWW,2.5,WeTCtPAdorhAJiVciNraDfdekIljTdowUNHnTNFihWkdylpNBJllsfeQjUGkajTFPTGckJHlkZzMIMx,0.4,ZszFoCkLNawnVcTawGiWRw,9.1,kvpWWpRmQouDkMYYFgOYDLYJGDmXAAoOvOufQgpiuPwzboQvjnnpNTmIvEaYdEBbnYBhodByrgRZC,2.0
+deveria ser
+[1.9, 3.7, 8.7, 0.9, 0.1, 9.6, 8.8, 0.0, 3.3, 0.9, 7.0, 0.3, 1.1, 0.4, 7.7, 0.8, 0.6, 7.5, 4.5, 2.5, 0.4, 9.1, 2.0]
+mas deu
+[1.0, 3.0, 8.0, 0.0, 0.0, 9.0, 8.0, 0.0, 3.0, 0.0, 7.0, 0.0, 1.0, 0.0, 7.0, 0.0, 0.0, 7.0, 4.0, 2.0, 0.0, 9.0, 2.0]
+
+Teste 10 deu errado!
+O resultado para
+YUtxcNKqNpluxMuhtSHxsiEhYwykNUzAkcimkYKIiIdtTfRILiFylkQKuezHNYfFSEIFNGsdhjibvEdBUQGapTS,0.3,cGmzsnFSVOwgOJCXbFlHqQfCOGKdaDJlIbnuHWfjgUppKecnRpAIAHNiSRqTyIRfwmBTIwRxOiPEisXCwqUmLCzeIVWDmCvy,2.0,uAFjghLVAyMllLkSzdynXZUPNOwUQDtscJgoxMHMkpqrJKNEcIYYkeSwyPdzyWrslKLjQuyZRxtqjGKBRLOOAhAyrEglbq,2.1,ZDcoTnjMcEGDEdpghCnLwArubynQmBVPhdrTKJtdfSYFEXzIbmPHYjjGHQDhGESthbkXzBEJKGFnzboNUmcymwEjwuulA,3.7,IUFqOapPqJleacdxvTCXlHIamkgeLcfWavAlZkLziaiujkuBiNzmzYEG,7.5,wSAqvNgDGhcBWQttjVUuBbDVuyipdIcKAmTinP,4.1,FAsspvSrbGcwkTugwNHLpUA,5.5,iaSYuhDxdunupfEmiKFuZHXJzOhHezPPwBCGaVPsOfLxwrqtsBewK,5.3,YDnRgugidRWFsmyVpbSMgtAGDDyYMYiXoDQJfPZZGRe,2.9,NivKvgFASymlicNnLyxlGkxlYnGdqRcVweQrOJVnHTVqmksEZCozULFPoZPfyeUSvvIzykEyDNExdMLpAOOkA,8.0,JqBshkJwvSNMCULaFgJDveSDanCiJiplaRmYApRebdbbqiszjcZEqhrOzQseXinMmbAAGYPllSYTSDwTbX,1.3,NgCDvPWXOEyYCSbFnyNcRyOjyOEbPtgOcPSNwYQHTIxyWIVAzodySsibgwGIXrSkwRUaYODnoHbvlJOAvpIgsnGePQEbNQ,1.6,SywTaHkDdosuIToStGnwGgLjHzuzBOwFxNXfSoRFtwmWbQgVdBceHgsojxvDkxKlXchfCXufooHZTDpcPAcBcVbTVQSEgpmF,7.7,sctsCpBBYzuHxqfMSwAHOQCh,9.0,kTqHphdhvTkGKqxfbhZGTXiljvJEmXZgnNDHbjpgAymjgyWl,1.9,NzktmUXCJhorzqAYviBIerJkLLHXGSbPLWExBVssap,0.7,KfXpkCnLWZtnnpFgYfASHMTBFNFrjPKknIlzJTb,3.1,MTeyyHFEZdFuTYXYBHgLQjpYwACmZKwWbcWVUWQxgZLnKuTAbTyUXljghLJzaeVLuHVLViyYRnHaWpOjmEbUnWSg,8.9,xTIISfFnLxjUsYYQzmuenIpNvIpTjztpdWbyCCZhtDJdKWkWfqSYBroJwLVSumfWhFHeErbmc,8.2,mLtZBvpQPtrsuBQHHSSeuVmDuDwq,1.3,JczqzirTBXRzQZGfFVkhaWvoeILHrvVzpyzxRuOuiuLbFRKYOgelgWTmB,7.2,WxPLxlzpIWgRxcEloNvRTPQ,6.2,DoEneuayCrRufkIzBErpoRJHzd,6.2,hUtOmrwHcvoiDwoVdrluBMmwV,0.2,rOagjmhuMswUpRpXvFAzbIFihHgGSegJHaTQoJSeDeHzCexgUDiSvtPBwTSMBvX,8.2,adeghviMBHRqiomjPGtKHMSFftEAOyByjXJgfjxuXFdtzrWAq,2.6,IdQuKSNrdnTWSmxWkSkqEDZzJWyIkbNQZptSAzTGcKwWLavsfgnydrlduTXVTeMcFdYubIXxmoN,3.2,ITKSxuldTGcOiZJBiSnwPjluhvbbcmEUDDrMMeTINShEBlCBLKuAVJuUKkywvkvUYUeginSyTTgiAocgqCBcwT,3.0,JgdNIRNPqpeAxjLygWgJiUGRNkIJICcDsKqBakxLzBvifynHcsgUNaDcDxmHueAJClwkokuDVzUNtOqAWnLiBNrJzYAvtyZAyFyp,5.0,gTbnTSBsJdyDNWZhPbPAdmqDNyyGPZVgusCwcgnqHecwyXBVHeHMysWtdWyFwJeFVIoVxrLfKjXmlXnSBn,8.1,VtrPExcFZdrXVdSZrcsaqbACYcBxAkgocKbUcevJNpQx,0.4,YJuoFvmoqbgZiQdnviKZAjUAyjgdxLjuvBroKXYhs,3.1,dRaSbUrxMLoCChUdKpvUwNnqNrkSPkmWQsfOWiWXEcVkIbJOimCTQNqfIjpqRqekmRgiswEzVwYKMpSoqYgpxXETgOIsuEsS,9.3,rEwNMEGSdXMydgNtZlAacoJoxipRMwgmiNupVqajjhqZjcaVWicAbUDhzeHbHmbSnLApepJjnK,5.2,gUNAENclqzWYeAskvAZZbXufnQKxRdlkcNwwreEUIdrzvpePdOdieC,2.6,opuHadyPtNvHRMjmdJNZzGfCwkLcrZrrXAHoEQVEVEzVQifEroMEXxpIDZtnzvXXuZhuzIjrPahHtDzSvmrSFVGwJIyPKAAyQ,3.3,CHHMKEhjAAnHpwaUcWlSvkAxqKSOyWafAEEHwgKorDnVYbJiFafVmbP,0.8,CzBLjVRoAaEjCbFLgOsMWkmutAbjPkEhVIuFyteazpIYIdNTGrQWHsibEzxIKSfLLNzolmZEBXIssflcWdOfZiVnNJL,6.8,aBUgwvnKzRVwTbutlcEfZGAIW,1.4,CnhtewupsBWiUCnlkqjVuJLHmyZIzruaZlisWcyRrULsUZFNmgLEUUUujJkSb,9.0,vgyFnKpFNdMLEUMnLOmxHlt,8.3,UFdUFkwUDKFsjSaQXmjANtMmVzHhQHmYjlzfxpzgxRFHzficOTdPnJNCh,8.0,cGxQPNvbQbXgSvvWtHCTwPhZeZxEirSuDHeixCRlVzoSIvSSKwwKzbaHiRQdVBEInDzbDnuGpByhDf,9.0,PqtPbIYlbDryvDTPERqrju,0.3,jjKYcMqjnXLcVvYlZasOHAhNivGmwKjtNfPNJMbHnQMD,0.1,fbmOhNWPCFfpAyDrniQpMSyNlPXdNOPsTBziXSVcCahtngQQxxMLGPQEEyBqPkCLNvXOfRTAoUtSeTIgnqjeaklz,6.4
+deveria ser
+[0.3, 2.0, 2.1, 3.7, 7.5, 4.1, 5.5, 5.3, 2.9, 8.0, 1.3, 1.6, 7.7, 9.0, 1.9, 0.7, 3.1, 8.9, 8.2, 1.3, 7.2, 6.2, 6.2, 0.2, 8.2, 2.6, 3.2, 3.0, 5.0, 8.1, 0.4, 3.1, 9.3, 5.2, 2.6, 3.3, 0.8, 6.8, 1.4, 9.0, 8.3, 8.0, 9.0, 0.3, 0.1, 6.4]
+mas deu
+[0.0, 2.0, 2.0, 3.0, 7.0, 4.0, 5.0, 5.0, 2.0, 8.0, 1.0, 1.0, 7.0, 9.0, 1.0, 0.0, 3.0, 8.0, 8.0, 1.0, 7.0, 6.0, 6.0, 0.0, 8.0, 2.0, 3.0, 3.0, 5.0, 8.0, 0.0, 3.0, 9.0, 5.0, 2.0, 3.0, 0.0, 6.0, 1.0, 9.0, 8.0, 8.0, 9.0, 0.0, 0.0, 6.0]
+
+Teste 11 deu errado!
+Teste 12 deu errado!
+Teste 13 deu errado!
+Teste 14 deu errado!
+Teste 15 deu errado!
+Teste 16 deu errado!
+Teste 17 deu errado!
+Teste 18 deu errado!
+Teste 19 deu errado!
+Teste 20 deu errado!
+Nota exercicio 2: 0.1
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 1.0
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 4: 1.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1 deu errado!
+O resultado para
+Andre Smaira possui 31 anos e mora em São Carlos-SP
+deveria ser
+('Andre Smaira', 31, 'São Carlos', 'SP')
+mas deu
+[('Andre Smaira', '31', 'São Carlos', 'SP')]
+
+Teste 2 deu errado!
+O resultado para
+Breno Freitas possui 79 anos e mora em Sales do Campo-MS
+deveria ser
+('Breno Freitas', 79, 'Sales do Campo', 'MS')
+mas deu
+[('Breno Freitas', '79', 'Sales do Campo', 'MS')]
+
+Teste 3 deu errado!
+O resultado para
+Ana Lívia Gonçalves possui 51 anos e mora em Teixeira de Castro-GO
+deveria ser
+('Ana Lívia Gonçalves', 51, 'Teixeira de Castro', 'GO')
+mas deu
+[('Ana Lívia Gonçalves', '51', 'Teixeira de Castro', 'GO')]
+
+Teste 4 deu errado!
+O resultado para
+Lorenzo possui 0 anos e mora em da Paz-MG
+deveria ser
+('Lorenzo', 0, 'da Paz', 'MG')
+mas deu
+[('Lorenzo', '0', 'da Paz', 'MG')]
+
+Teste 5 deu errado!
+O resultado para
+João Nascimento possui 39 anos e mora em Dias de Freitas-DF
+deveria ser
+('João Nascimento', 39, 'Dias de Freitas', 'DF')
+mas deu
+[('João Nascimento', '39', 'Dias de Freitas', 'DF')]
+
+Teste 6 deu errado!
+O resultado para
+Clara Sales possui 94 anos e mora em Barros-MA
+deveria ser
+('Clara Sales', 94, 'Barros', 'MA')
+mas deu
+[('Clara Sales', '94', 'Barros', 'MA')]
+
+Teste 7 deu errado!
+O resultado para
+Lara Costa possui 95 anos e mora em Melo-MA
+deveria ser
+('Lara Costa', 95, 'Melo', 'MA')
+mas deu
+[('Lara Costa', '95', 'Melo', 'MA')]
+
+Teste 8 deu errado!
+O resultado para
+Heloísa Silveira possui 44 anos e mora em Cunha do Sul-BA
+deveria ser
+('Heloísa Silveira', 44, 'Cunha do Sul', 'BA')
+mas deu
+[('Heloísa Silveira', '44', 'Cunha do Sul', 'BA')]
+
+Teste 9 deu errado!
+O resultado para
+Stephany Dias possui 57 anos e mora em Oliveira do Galho-PB
+deveria ser
+('Stephany Dias', 57, 'Oliveira do Galho', 'PB')
+mas deu
+[('Stephany Dias', '57', 'Oliveira do Galho', 'PB')]
+
+Teste 10 deu errado!
+O resultado para
+Enzo Ribeiro possui 25 anos e mora em Gomes de da Paz-CE
+deveria ser
+('Enzo Ribeiro', 25, 'Gomes de da Paz', 'CE')
+mas deu
+[('Enzo Ribeiro', '25', 'Gomes de da Paz', 'CE')]
+
+Teste 11 deu errado!
+Teste 12 deu errado!
+Teste 13 deu errado!
+Teste 14 deu errado!
+Teste 15 deu errado!
+Teste 16 deu errado!
+Teste 17 deu errado!
+Teste 18 deu errado!
+Teste 19 deu errado!
+Teste 20 deu errado!
+Teste 21 deu errado!
+Teste 22 deu errado!
+Teste 23 deu errado!
+Teste 24 deu errado!
+Teste 25 deu errado!
+Teste 26 deu errado!
+Teste 27 deu errado!
+Teste 28 deu errado!
+Teste 29 deu errado!
+Teste 30 deu errado!
+Teste 31 deu errado!
+Teste 32 deu errado!
+Teste 33 deu errado!
+Teste 34 deu errado!
+Teste 35 deu errado!
+Teste 36 deu errado!
+Teste 37 deu errado!
+Teste 38 deu errado!
+Teste 39 deu errado!
+Teste 40 deu errado!
+Nota exercicio 5: 0.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21: correto!
+Teste 22: correto!
+Teste 23: correto!
+Teste 24: correto!
+Teste 25: correto!
+Teste 26: correto!
+Teste 27: correto!
+Teste 28: correto!
+Teste 29: correto!
+Teste 30: correto!
+Teste 31: correto!
+Teste 32: correto!
+Teste 33: correto!
+Teste 34: correto!
+Teste 35: correto!
+Teste 36: correto!
+Teste 37: correto!
+Teste 38: correto!
+Teste 39: correto!
+Teste 40: correto!
+Nota exercicio 6: 1.0
+Procurando exercício 7...
+Exercício 7...
+Teste 1 deu errado!
+O resultado para
+arquivo.txt
+deveria ser
+(3, 18, 21, 3, 9, 6)
+mas deu
+(2, 18, 21, 3, 9, 6)
+
+Teste 2 deu errado!
+O resultado para
+/tmp/tmp81657q3v
+deveria ser
+(3, 406, 452, 0, 24, 139)
+mas deu
+(2, 406, 434, 0, 24, 139)
+
+Teste 3 deu errado!
+O resultado para
+/tmp/tmptfc6a9hu
+deveria ser
+(6, 666, 737, 0, 41, 236)
+mas deu
+(5, 666, 708, 0, 41, 236)
+
+Teste 4 deu errado!
+O resultado para
+/tmp/tmpm2ovficg
+deveria ser
+(5, 607, 686, 0, 35, 218)
+mas deu
+(4, 607, 662, 0, 35, 218)
+
+Teste 5 deu errado!
+O resultado para
+/tmp/tmpfwhnn47j
+deveria ser
+(3, 323, 406, 0, 20, 118)
+mas deu
+(2, 323, 396, 0, 20, 118)
+
+Teste 6 deu errado!
+O resultado para
+/tmp/tmp_e0sq3nr
+deveria ser
+(6, 784, 908, 0, 45, 289)
+mas deu
+(5, 784, 875, 0, 45, 289)
+
+Teste 7 deu errado!
+O resultado para
+/tmp/tmpvpomxiyf
+deveria ser
+(6, 699, 809, 0, 40, 254)
+mas deu
+(5, 699, 782, 0, 40, 254)
+
+Teste 8 deu errado!
+O resultado para
+/tmp/tmp5p7p5a81
+deveria ser
+(5, 624, 683, 0, 38, 221)
+mas deu
+(4, 624, 657, 0, 38, 221)
+
+Teste 9 deu errado!
+O resultado para
+/tmp/tmp_zgzo1w0
+deveria ser
+(6, 688, 847, 0, 41, 243)
+mas deu
+(5, 688, 814, 0, 41, 243)
+
+Teste 10 deu errado!
+O resultado para
+/tmp/tmpqvgu05wf
+deveria ser
+(5, 617, 730, 0, 40, 229)
+mas deu
+(4, 617, 700, 0, 40, 229)
+
+Teste 11 deu errado!
+Teste 12 deu errado!
+Teste 13 deu errado!
+Teste 14 deu errado!
+Teste 15 deu errado!
+Teste 16 deu errado!
+Teste 17 deu errado!
+Teste 18 deu errado!
+Teste 19 deu errado!
+Teste 20 deu errado!
+Teste 21 deu errado!
+Teste 22 deu errado!
+Teste 23 deu errado!
+Teste 24 deu errado!
+Teste 25 deu errado!
+Teste 26 deu errado!
+Teste 27 deu errado!
+Teste 28 deu errado!
+Teste 29 deu errado!
+Teste 30 deu errado!
+Teste 31 deu errado!
+Teste 32 deu errado!
+Teste 33 deu errado!
+Teste 34 deu errado!
+Teste 35 deu errado!
+Teste 36 deu errado!
+Teste 37 deu errado!
+Teste 38 deu errado!
+Teste 39 deu errado!
+Teste 40 deu errado!
+Nota exercicio 7: 0.0
+Procurando exercício 8...
+Exercício 8...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21: correto!
+Teste 22: correto!
+Teste 23: correto!
+Teste 24: correto!
+Teste 25: correto!
+Teste 26: correto!
+Teste 27: correto!
+Teste 28: correto!
+Teste 29: correto!
+Teste 30: correto!
+Teste 31: correto!
+Teste 32: correto!
+Teste 33: correto!
+Teste 34: correto!
+Teste 35: correto!
+Teste 36: correto!
+Teste 37: correto!
+Teste 38: correto!
+Teste 39: correto!
+Teste 40: correto!
+Nota exercicio 8: 2.0
+Nota total: 6.1
+{"scores": {"ex1": 1.0, "ex2": 0.1, "ex3": 1.0, "ex4": 1.0, "ex5": 0.0, "ex6": 1.0, "ex7": 0.0, "ex8": 2.0}}
