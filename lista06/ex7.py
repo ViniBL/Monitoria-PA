@@ -1,6 +1,6 @@
 from re import findall
 
-nome_arquivo = 'arquivo4.txt'
+nome_arquivo = input()
 
 with open(nome_arquivo) as f:
     texto = f.read()
@@ -18,6 +18,7 @@ with open(nome_arquivo) as f:
 
 tup = (nlinhas,nvogais,nconsoante,ndigito,npontuacao,nespaco)
 print(tup)
+
 
 
 
