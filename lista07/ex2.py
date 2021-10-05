@@ -5,7 +5,7 @@ idades = list(pessoas.values())
 idades = sorted(idades)
     
 if(len(idades) % 2 == 0):
-    posA,posB = (len(idades)/2,len(idades)/2+1)
+    posA,posB = (len(idades)/2,len(idades)/2-1)
     posA,posB = int(posA),int(posB)
     print((idades[posA]+idades[posB])/2)
     

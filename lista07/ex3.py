@@ -1,9 +1,9 @@
 pessoas = {}
 while True:
-    nome = input("Insira um nome (ou s para sair): ")
+    nome = input()
     if nome == 's':
         break
-    idade = input("Insira a idade: ")
+    idade = input()
     if nome not in pessoas.keys():
         pessoas[nome] = idade
 print(pessoas)
