@@ -1,0 +1,2788 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-10-05T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Exercício 2...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 2: 1.0
+Procurando exercício 3...
+Exercício 3...
+Teste 1 deu errado!
+O resultado para
+Andre
+31
+Lucas
+28
+Andre
+32
+Clara
+26
+Clara
+50
+s
+deveria ser
+{"Andre": 31, "Lucas": 28, "Clara": 26}
+mas deu
+{'Andre': '31', 'Lucas': '28', 'Clara': '26'}
+
+Teste 2 deu errado!
+O resultado para
+Gabrielly Cardoso
+50
+Sr. Noah Vieira
+24
+Ana Carolina Nunes
+75
+Leonardo Aragão
+19
+Sarah Araújo
+15
+Sarah Araújo
+78
+Ana Carolina Nunes
+65
+Ana Vitória Viana
+80
+Mirella Pires
+94
+Sra. Luana Rodrigues
+32
+Enzo Fogaça
+44
+Pietro Rodrigues
+20
+Sra. Cecília Lopes
+44
+Lucca Ferreira
+94
+Pietro Rodrigues
+63
+Pietro Rodrigues
+87
+Sr. Luiz Fernando Gonçalves
+94
+Noah Moraes
+84
+Sr. Luiz Fernando Gonçalves
+21
+Enzo Fogaça
+25
+Sr. Carlos Eduardo das Neves
+67
+Leonardo Aragão
+77
+Samuel das Neves
+94
+Sra. Maria Sophia Moreira
+52
+Dr. Alexandre da Luz
+67
+Sra. Luana Rodrigues
+13
+Pietro Rodrigues
+68
+Dr. Alexandre da Luz
+13
+Elisa Lima
+89
+Noah Moraes
+56
+Enzo Fogaça
+92
+Sarah Araújo
+64
+Sra. Luana Rodrigues
+57
+Sra. Maria Sophia Moreira
+46
+Gabrielly Cardoso
+4
+Sra. Maria Sophia Moreira
+13
+Sr. Luiz Fernando Gonçalves
+54
+Sra. Cecília Lopes
+77
+Sra. Cecília Lopes
+7
+Elisa Lima
+30
+Lucca Ferreira
+71
+Sra. Luana Rodrigues
+0
+Sr. Carlos Eduardo das Neves
+37
+Ana Carolina Nunes
+51
+Ana Carolina Nunes
+21
+Dr. Alexandre da Luz
+86
+Sr. Luiz Fernando Gonçalves
+19
+Samuel das Neves
+17
+Noah da Cruz
+67
+Mirella Pires
+56
+Sr. Carlos Eduardo das Neves
+38
+Sarah Araújo
+99
+Elisa Lima
+35
+s
+
+deveria ser
+{'Gabrielly Cardoso': 50, 'Sr. Noah Vieira': 24, 'Ana Carolina Nunes': 75, 'Leonardo Aragão': 19, 'Sarah Araújo': 15, 'Ana Vitória Viana': 80, 'Mirella Pires': 94, 'Sra. Luana Rodrigues': 32, 'Enzo Fogaça': 44, 'Pietro Rodrigues': 20, 'Sra. Cecília Lopes': 44, 'Lucca Ferreira': 94, 'Sr. Luiz Fernando Gonçalves': 94, 'Noah Moraes': 84, 'Sr. Carlos Eduardo das Neves': 67, 'Samuel das Neves': 94, 'Sra. Maria Sophia Moreira': 52, 'Dr. Alexandre da Luz': 67, 'Elisa Lima': 89, 'Noah da Cruz': 67}
+mas deu
+{'Gabrielly Cardoso': '50', 'Sr. Noah Vieira': '24', 'Ana Carolina Nunes': '75', 'Leonardo Aragão': '19', 'Sarah Araújo': '15', 'Ana Vitória Viana': '80', 'Mirella Pires': '94', 'Sra. Luana Rodrigues': '32', 'Enzo Fogaça': '44', 'Pietro Rodrigues': '20', 'Sra. Cecília Lopes': '44', 'Lucca Ferreira': '94', 'Sr. Luiz Fernando Gonçalves': '94', 'Noah Moraes': '84', 'Sr. Carlos Eduardo das Neves': '67', 'Samuel das Neves': '94', 'Sra. Maria Sophia Moreira': '52', 'Dr. Alexandre da Luz': '67', 'Elisa Lima': '89', 'Noah da Cruz': '67'}
+
+Teste 3 deu errado!
+O resultado para
+Evelyn Nascimento
+40
+Ana Luiza Araújo
+55
+Renan Ferreira
+74
+Srta. Maitê Correia
+27
+Thales Peixoto
+83
+Bianca Cardoso
+64
+João Pedro Oliveira
+5
+Nicole Jesus
+35
+Júlia Correia
+16
+Anthony Vieira
+83
+João Miguel Aragão
+8
+João Pedro Oliveira
+60
+Breno Dias
+30
+Ana Luiza Silveira
+91
+Giovanna da Costa
+60
+Giovanna da Costa
+21
+Breno Dias
+86
+Dra. Ana Beatriz Costa
+27
+Julia das Neves
+48
+Bruno Lopes
+23
+Nicole Jesus
+12
+Laura Mendes
+25
+Maria Eduarda da Cunha
+75
+Júlia Correia
+5
+Sra. Lívia Silveira
+85
+Vitor Hugo Fogaça
+28
+Noah Fernandes
+53
+Sra. Lívia Silveira
+97
+João Miguel Aragão
+74
+Caroline Fernandes
+32
+Joana das Neves
+16
+Dra. Ana Beatriz Costa
+77
+João Pedro Oliveira
+73
+Júlia Azevedo
+53
+João Pedro Barros
+23
+Emanuel Castro
+93
+Maria Vitória Nunes
+20
+Anthony Vieira
+70
+Helena da Mata
+43
+Dr. Daniel Souza
+32
+Nicole Jesus
+61
+Carlos Eduardo Duarte
+30
+Amanda Monteiro
+42
+Amanda Martins
+16
+Bruno Lopes
+52
+Marcela Ferreira
+41
+Alice Moreira
+69
+Murilo Vieira
+38
+Dr. Daniel Souza
+41
+Sr. André Fernandes
+42
+Leandro Pinto
+44
+Srta. Vitória Barros
+53
+Nicolas Fernandes
+9
+Rebeca da Mota
+99
+Alana Moreira
+67
+Nicolas Fernandes
+90
+Rebeca da Mota
+82
+Isabelly Teixeira
+13
+Srta. Luna da Mota
+100
+Amanda Monteiro
+93
+Caroline Fernandes
+92
+Ana Luiza Araújo
+99
+Antônio Monteiro
+13
+Renan Ferreira
+68
+Nicole Jesus
+86
+Ana Vitória Mendes
+17
+Pedro Lucas Oliveira
+95
+Otávio da Rocha
+100
+Rebeca da Mota
+8
+Srta. Maitê Correia
+37
+Dr. Daniel Souza
+8
+Emilly das Neves
+19
+Sr. Yago Campos
+42
+Maria Vitória Nunes
+61
+Julia Mendes
+57
+Bruno Lopes
+3
+Isis Nascimento
+98
+Caroline Fernandes
+55
+Mariane Moraes
+89
+Maria Clara da Luz
+79
+Giovanna Teixeira
+33
+Noah Fernandes
+91
+Amanda Martins
+54
+Julia das Neves
+51
+Vitor Gabriel Nogueira
+66
+Evelyn Nascimento
+66
+Joana das Neves
+94
+Srta. Mirella Santos
+46
+Laura Peixoto
+85
+Bruna Gonçalves
+79
+Sophie da Cruz
+47
+Isis Nascimento
+60
+Nicolas Fernandes
+77
+Vitor Hugo Fogaça
+62
+Rodrigo Oliveira
+56
+Mariane Araújo
+51
+Pietra Pereira
+5
+Isabel Porto
+89
+Dr. Diego da Costa
+34
+Dr. Diego da Costa
+1
+Giovanna da Rocha
+44
+Evelyn Nascimento
+6
+Breno Dias
+23
+Maria Clara Fernandes
+74
+Srta. Luna da Mota
+8
+Esther da Mota
+32
+João Pedro Barros
+81
+Luiz Felipe Araújo
+64
+Laura Mendes
+2
+Igor Rezende
+50
+Isabel Porto
+38
+Evelyn Nascimento
+63
+Maria Vitória Nunes
+30
+Isabelly Teixeira
+55
+Antônio Monteiro
+77
+Maria Alice Duarte
+70
+Júlia Correia
+12
+Dr. Luiz Miguel da Paz
+64
+Ana Beatriz Silva
+83
+Laura Mendes
+44
+Kamilly Jesus
+69
+Sra. Isabelly Sales
+92
+Igor Rezende
+59
+Diego Santos
+77
+Sra. Lívia Silveira
+66
+Dra. Ana Beatriz Costa
+54
+Srta. Maitê Correia
+1
+Maria Clara Fernandes
+0
+Evelyn Cardoso
+6
+Dra. Lorena Farias
+79
+Breno Dias
+58
+Ana Vitória Mendes
+51
+Sr. Yago Campos
+13
+Sophie da Cruz
+29
+Ana Laura das Neves
+58
+Breno Santos
+74
+Amanda Monteiro
+17
+João Pedro Barros
+2
+Noah Fernandes
+96
+Breno Santos
+94
+Maria Clara da Luz
+92
+Mirella Monteiro
+47
+Isabelly Teixeira
+88
+Alice Moreira
+86
+Sr. André Fernandes
+34
+Carlos Eduardo Duarte
+67
+Gabriela Santos
+39
+Sra. Isabelly Sales
+48
+Dr. Luiz Miguel da Paz
+94
+Bianca Cardoso
+93
+Felipe Lopes
+100
+Rebeca Cardoso
+7
+Isis Nascimento
+67
+Sophie da Cruz
+85
+Pietra Pereira
+15
+Ana Vitória Mendes
+56
+Igor Rezende
+36
+João Miguel Cardoso
+93
+Yuri das Neves
+17
+Carlos Eduardo Duarte
+91
+Alexia Oliveira
+18
+Maria Clara da Luz
+23
+Ana Vitória Mendes
+30
+Amanda Martins
+41
+Ana Luiza Silveira
+4
+Amanda Monteiro
+0
+Esther Cardoso
+24
+Emanuel Castro
+96
+Julia Mendes
+42
+Julia Mendes
+19
+Rebeca Cardoso
+36
+João Miguel Cardoso
+36
+Bianca Cardoso
+3
+Ana Julia Cardoso
+63
+Antônio Monteiro
+30
+Vitor das Neves
+7
+Breno Santos
+95
+Thales Peixoto
+12
+Dr. Anthony da Cruz
+69
+Ana Laura das Neves
+7
+Leandro Pinto
+7
+Esther Cardoso
+72
+Noah Fernandes
+5
+Pietra Pereira
+15
+Emanuel Castro
+68
+Srta. Maitê Correia
+1
+Carlos Eduardo Duarte
+38
+Antônio Monteiro
+45
+Srta. Mirella Santos
+21
+Nicolas Fernandes
+76
+João Guilherme Cavalcanti
+15
+Rodrigo Oliveira
+2
+Vitor Hugo Fogaça
+75
+Thales Peixoto
+21
+Maria Luiza Cunha
+95
+Sr. Yago Campos
+23
+Pietra Pereira
+40
+Ana Luiza Silveira
+74
+Sr. Heitor Cunha
+42
+Diego Santos
+96
+Dra. Ana Beatriz Costa
+84
+Sophie da Cruz
+90
+Julia Mendes
+71
+Ana Beatriz Silva
+79
+Vitor Hugo Fogaça
+75
+Marcela Barros
+71
+Stephany Fogaça
+1
+Igor Rezende
+59
+Caroline Fernandes
+25
+Mirella Monteiro
+30
+Thales Peixoto
+56
+Marcela Barros
+56
+Dr. Anthony da Cruz
+48
+Sra. Lívia Silveira
+80
+Júlia Azevedo
+0
+Laura Mendes
+3
+Maria Vitória Nunes
+83
+Maria Clara Fernandes
+74
+Giovanna da Costa
+76
+s
+
+deveria ser
+{'Evelyn Nascimento': 40, 'Ana Luiza Araújo': 55, 'Renan Ferreira': 74, 'Srta. Maitê Correia': 27, 'Thales Peixoto': 83, 'Bianca Cardoso': 64, 'João Pedro Oliveira': 5, 'Nicole Jesus': 35, 'Júlia Correia': 16, 'Anthony Vieira': 83, 'João Miguel Aragão': 8, 'Breno Dias': 30, 'Ana Luiza Silveira': 91, 'Giovanna da Costa': 60, 'Dra. Ana Beatriz Costa': 27, 'Julia das Neves': 48, 'Bruno Lopes': 23, 'Laura Mendes': 25, 'Maria Eduarda da Cunha': 75, 'Sra. Lívia Silveira': 85, 'Vitor Hugo Fogaça': 28, 'Noah Fernandes': 53, 'Caroline Fernandes': 32, 'Joana das Neves': 16, 'Júlia Azevedo': 53, 'João Pedro Barros': 23, 'Emanuel Castro': 93, 'Maria Vitória Nunes': 20, 'Helena da Mata': 43, 'Dr. Daniel Souza': 32, 'Carlos Eduardo Duarte': 30, 'Amanda Monteiro': 42, 'Amanda Martins': 16, 'Marcela Ferreira': 41, 'Alice Moreira': 69, 'Murilo Vieira': 38, 'Sr. André Fernandes': 42, 'Leandro Pinto': 44, 'Srta. Vitória Barros': 53, 'Nicolas Fernandes': 9, 'Rebeca da Mota': 99, 'Alana Moreira': 67, 'Isabelly Teixeira': 13, 'Srta. Luna da Mota': 100, 'Antônio Monteiro': 13, 'Ana Vitória Mendes': 17, 'Pedro Lucas Oliveira': 95, 'Otávio da Rocha': 100, 'Emilly das Neves': 19, 'Sr. Yago Campos': 42, 'Julia Mendes': 57, 'Isis Nascimento': 98, 'Mariane Moraes': 89, 'Maria Clara da Luz': 79, 'Giovanna Teixeira': 33, 'Vitor Gabriel Nogueira': 66, 'Srta. Mirella Santos': 46, 'Laura Peixoto': 85, 'Bruna Gonçalves': 79, 'Sophie da Cruz': 47, 'Rodrigo Oliveira': 56, 'Mariane Araújo': 51, 'Pietra Pereira': 5, 'Isabel Porto': 89, 'Dr. Diego da Costa': 34, 'Giovanna da Rocha': 44, 'Maria Clara Fernandes': 74, 'Esther da Mota': 32, 'Luiz Felipe Araújo': 64, 'Igor Rezende': 50, 'Maria Alice Duarte': 70, 'Dr. Luiz Miguel da Paz': 64, 'Ana Beatriz Silva': 83, 'Kamilly Jesus': 69, 'Sra. Isabelly Sales': 92, 'Diego Santos': 77, 'Evelyn Cardoso': 6, 'Dra. Lorena Farias': 79, 'Ana Laura das Neves': 58, 'Breno Santos': 74, 'Mirella Monteiro': 47, 'Gabriela Santos': 39, 'Felipe Lopes': 100, 'Rebeca Cardoso': 7, 'João Miguel Cardoso': 93, 'Yuri das Neves': 17, 'Alexia Oliveira': 18, 'Esther Cardoso': 24, 'Ana Julia Cardoso': 63, 'Vitor das Neves': 7, 'Dr. Anthony da Cruz': 69, 'João Guilherme Cavalcanti': 15, 'Maria Luiza Cunha': 95, 'Sr. Heitor Cunha': 42, 'Marcela Barros': 71, 'Stephany Fogaça': 1}
+mas deu
+{'Evelyn Nascimento': '40', 'Ana Luiza Araújo': '55', 'Renan Ferreira': '74', 'Srta. Maitê Correia': '27', 'Thales Peixoto': '83', 'Bianca Cardoso': '64', 'João Pedro Oliveira': '5', 'Nicole Jesus': '35', 'Júlia Correia': '16', 'Anthony Vieira': '83', 'João Miguel Aragão': '8', 'Breno Dias': '30', 'Ana Luiza Silveira': '91', 'Giovanna da Costa': '60', 'Dra. Ana Beatriz Costa': '27', 'Julia das Neves': '48', 'Bruno Lopes': '23', 'Laura Mendes': '25', 'Maria Eduarda da Cunha': '75', 'Sra. Lívia Silveira': '85', 'Vitor Hugo Fogaça': '28', 'Noah Fernandes': '53', 'Caroline Fernandes': '32', 'Joana das Neves': '16', 'Júlia Azevedo': '53', 'João Pedro Barros': '23', 'Emanuel Castro': '93', 'Maria Vitória Nunes': '20', 'Helena da Mata': '43', 'Dr. Daniel Souza': '32', 'Carlos Eduardo Duarte': '30', 'Amanda Monteiro': '42', 'Amanda Martins': '16', 'Marcela Ferreira': '41', 'Alice Moreira': '69', 'Murilo Vieira': '38', 'Sr. André Fernandes': '42', 'Leandro Pinto': '44', 'Srta. Vitória Barros': '53', 'Nicolas Fernandes': '9', 'Rebeca da Mota': '99', 'Alana Moreira': '67', 'Isabelly Teixeira': '13', 'Srta. Luna da Mota': '100', 'Antônio Monteiro': '13', 'Ana Vitória Mendes': '17', 'Pedro Lucas Oliveira': '95', 'Otávio da Rocha': '100', 'Emilly das Neves': '19', 'Sr. Yago Campos': '42', 'Julia Mendes': '57', 'Isis Nascimento': '98', 'Mariane Moraes': '89', 'Maria Clara da Luz': '79', 'Giovanna Teixeira': '33', 'Vitor Gabriel Nogueira': '66', 'Srta. Mirella Santos': '46', 'Laura Peixoto': '85', 'Bruna Gonçalves': '79', 'Sophie da Cruz': '47', 'Rodrigo Oliveira': '56', 'Mariane Araújo': '51', 'Pietra Pereira': '5', 'Isabel Porto': '89', 'Dr. Diego da Costa': '34', 'Giovanna da Rocha': '44', 'Maria Clara Fernandes': '74', 'Esther da Mota': '32', 'Luiz Felipe Araújo': '64', 'Igor Rezende': '50', 'Maria Alice Duarte': '70', 'Dr. Luiz Miguel da Paz': '64', 'Ana Beatriz Silva': '83', 'Kamilly Jesus': '69', 'Sra. Isabelly Sales': '92', 'Diego Santos': '77', 'Evelyn Cardoso': '6', 'Dra. Lorena Farias': '79', 'Ana Laura das Neves': '58', 'Breno Santos': '74', 'Mirella Monteiro': '47', 'Gabriela Santos': '39', 'Felipe Lopes': '100', 'Rebeca Cardoso': '7', 'João Miguel Cardoso': '93', 'Yuri das Neves': '17', 'Alexia Oliveira': '18', 'Esther Cardoso': '24', 'Ana Julia Cardoso': '63', 'Vitor das Neves': '7', 'Dr. Anthony da Cruz': '69', 'João Guilherme Cavalcanti': '15', 'Maria Luiza Cunha': '95', 'Sr. Heitor Cunha': '42', 'Marcela Barros': '71', 'Stephany Fogaça': '1'}
+
+Teste 4 deu errado!
+O resultado para
+Lucca da Paz
+6
+Dra. Evelyn Moraes
+91
+Dra. Maria Clara Moreira
+44
+Agatha Souza
+24
+Dr. Samuel da Cunha
+61
+Dr. Gustavo Henrique Vieira
+31
+Dra. Evelyn Moraes
+65
+Ana Luiza Aragão
+89
+Benício da Cunha
+53
+Felipe Correia
+37
+Heloísa Aragão
+18
+Alexia Lima
+41
+Dra. Evelyn Moraes
+90
+Dr. Arthur Monteiro
+88
+Ana Julia Nogueira
+33
+Luiz Gustavo da Cunha
+36
+Giovanna Azevedo
+50
+Enzo Sales
+60
+Heloísa Aragão
+47
+Diogo da Paz
+35
+João Lucas Rodrigues
+76
+Luiz Gustavo da Cunha
+50
+Rebeca da Mata
+54
+Ana Julia Nogueira
+76
+Maria Sophia Correia
+4
+Sarah Pinto
+96
+Isabelly Moura
+41
+Sr. Diogo Araújo
+20
+Erick Teixeira
+27
+Sarah Cavalcanti
+3
+Isis Cavalcanti
+69
+Srta. Maitê Pereira
+15
+Murilo das Neves
+70
+João Sales
+68
+Miguel Viana
+70
+Lorenzo da Rocha
+34
+Isis Cavalcanti
+61
+Isaac Moreira
+17
+Heloísa Aragão
+21
+Anthony Cunha
+98
+Sarah Pinto
+98
+Dra. Maria Clara Moreira
+30
+Dr. Gustavo Henrique Vieira
+0
+Ana Lívia Ferreira
+59
+Dr. Samuel da Cunha
+58
+Rafael Jesus
+47
+Rafael Jesus
+3
+João Vitor Rezende
+80
+Anthony Cunha
+15
+Stella Gomes
+52
+Stella Gomes
+96
+Srta. Lavínia Barros
+43
+Thales Fogaça
+92
+Enzo Sales
+84
+Rebeca da Mata
+20
+Letícia Barros
+93
+Maria Sophia Correia
+85
+Lara Moura
+6
+Sra. Agatha da Paz
+98
+Helena Silveira
+79
+Nathan Teixeira
+25
+Benício da Cunha
+98
+Dr. Thomas Ferreira
+92
+Esther Barbosa
+13
+Beatriz Barbosa
+37
+Helena Silveira
+52
+João Lucas Rodrigues
+37
+Stella Gomes
+59
+Srta. Lavínia Lima
+90
+Nathan Teixeira
+41
+Sra. Agatha da Paz
+65
+Lucca da Paz
+91
+Isis Cavalcanti
+2
+Agatha Souza
+22
+Srta. Lavínia Lima
+32
+Srta. Lavínia Lima
+50
+Srta. Lavínia Lima
+84
+Eloah da Mota
+65
+João Lucas Rodrigues
+25
+Ana Vitória Ribeiro
+13
+Luiz Gustavo Azevedo
+82
+Camila Azevedo
+35
+Lucas Gabriel Teixeira
+90
+Dra. Pietra Jesus
+98
+Dr. João Gabriel Melo
+47
+Sra. Maria Eduarda Dias
+88
+Dra. Maria Clara Moreira
+36
+Eduarda Aragão
+95
+Sra. Agatha da Paz
+17
+Sarah Cavalcanti
+54
+Ana Vitória Ribeiro
+1
+Ana Luiza Aragão
+74
+Benício Castro
+1
+Ana Julia Nogueira
+0
+Benjamin Duarte
+81
+Diogo da Paz
+66
+Antônio Pereira
+93
+Maria Eduarda Moreira
+90
+Lavínia Novaes
+81
+Letícia Barros
+27
+Helena Silveira
+57
+João Sales
+12
+Lara Moura
+85
+Pedro Miguel Monteiro
+67
+Rebeca da Mata
+39
+Dr. Arthur Monteiro
+51
+Dra. Evelyn Moraes
+8
+Dr. Samuel da Cunha
+42
+Pedro Miguel Melo
+38
+Diogo da Paz
+10
+Bárbara Costa
+44
+Luiz Gustavo da Cunha
+16
+Luiz Otávio Fogaça
+56
+Sr. Igor Moraes
+79
+Eduarda Aragão
+83
+Sr. Igor Moraes
+98
+Ana Luiza Aragão
+58
+Nathan Teixeira
+95
+Anthony Cunha
+23
+Maria Eduarda Moreira
+11
+Srta. Lavínia Barros
+12
+João Lucas Rodrigues
+88
+Thales Fogaça
+61
+Erick Teixeira
+98
+Dr. Arthur Monteiro
+60
+Rafael Jesus
+27
+Srta. Maitê Pereira
+13
+Sr. Diogo Araújo
+53
+Gustavo Henrique Cardoso
+61
+Ana Carolina Caldeira
+59
+Dr. Thomas Ferreira
+0
+Gustavo Henrique Cardoso
+40
+Eduarda Aragão
+65
+Erick Teixeira
+65
+Stella Gomes
+17
+Diogo da Paz
+12
+Letícia Barros
+17
+Lucas Gabriel Teixeira
+58
+Ana Carolina Caldeira
+33
+Theo Silva
+29
+Rebeca da Mata
+91
+Júlia Sales
+6
+Isaac Pereira
+38
+Dr. Thomas Ferreira
+63
+Sra. Agatha da Paz
+74
+Benjamin Duarte
+54
+Helena Silveira
+27
+João Sales
+15
+Ana Vitória Ribeiro
+73
+Enzo Gabriel Gomes
+100
+Ana Julia Nogueira
+23
+Giovanna Azevedo
+82
+Thales Fogaça
+79
+Ana Lívia Ferreira
+3
+Luiz Gustavo da Cunha
+37
+Esther Barbosa
+82
+Miguel Viana
+58
+Ana Vitória Ribeiro
+13
+Dr. Gustavo Henrique Vieira
+0
+Sarah Pinto
+74
+Marcela Ramos
+40
+Gustavo Henrique Cardoso
+50
+Dr. Gustavo Henrique Vieira
+33
+Sr. Igor Moraes
+88
+Lavínia Novaes
+14
+Isabelly Moura
+13
+Sra. Maria Eduarda Dias
+7
+Murilo das Neves
+81
+Heloísa Aragão
+25
+Ana Luiza Aragão
+14
+Sra. Maria Eduarda Dias
+9
+Srta. Lavínia Barros
+13
+Eduarda Aragão
+40
+Enzo Sales
+21
+Sarah Cavalcanti
+83
+Miguel Viana
+4
+Sarah Cavalcanti
+9
+Sr. Diogo Araújo
+4
+Srta. Lavínia Barros
+61
+Alexia Lima
+19
+Raquel Alves
+98
+Rafaela Araújo
+8
+Diego Nascimento
+21
+Erick Teixeira
+18
+Murilo das Neves
+49
+Benjamin Duarte
+41
+Júlia Sales
+46
+João Guilherme Rocha
+27
+Theo Silva
+10
+s
+
+deveria ser
+{'Lucca da Paz': 6, 'Dra. Evelyn Moraes': 91, 'Dra. Maria Clara Moreira': 44, 'Agatha Souza': 24, 'Dr. Samuel da Cunha': 61, 'Dr. Gustavo Henrique Vieira': 31, 'Ana Luiza Aragão': 89, 'Benício da Cunha': 53, 'Felipe Correia': 37, 'Heloísa Aragão': 18, 'Alexia Lima': 41, 'Dr. Arthur Monteiro': 88, 'Ana Julia Nogueira': 33, 'Luiz Gustavo da Cunha': 36, 'Giovanna Azevedo': 50, 'Enzo Sales': 60, 'Diogo da Paz': 35, 'João Lucas Rodrigues': 76, 'Rebeca da Mata': 54, 'Maria Sophia Correia': 4, 'Sarah Pinto': 96, 'Isabelly Moura': 41, 'Sr. Diogo Araújo': 20, 'Erick Teixeira': 27, 'Sarah Cavalcanti': 3, 'Isis Cavalcanti': 69, 'Srta. Maitê Pereira': 15, 'Murilo das Neves': 70, 'João Sales': 68, 'Miguel Viana': 70, 'Lorenzo da Rocha': 34, 'Isaac Moreira': 17, 'Anthony Cunha': 98, 'Ana Lívia Ferreira': 59, 'Rafael Jesus': 47, 'João Vitor Rezende': 80, 'Stella Gomes': 52, 'Srta. Lavínia Barros': 43, 'Thales Fogaça': 92, 'Letícia Barros': 93, 'Lara Moura': 6, 'Sra. Agatha da Paz': 98, 'Helena Silveira': 79, 'Nathan Teixeira': 25, 'Dr. Thomas Ferreira': 92, 'Esther Barbosa': 13, 'Beatriz Barbosa': 37, 'Srta. Lavínia Lima': 90, 'Eloah da Mota': 65, 'Ana Vitória Ribeiro': 13, 'Luiz Gustavo Azevedo': 82, 'Camila Azevedo': 35, 'Lucas Gabriel Teixeira': 90, 'Dra. Pietra Jesus': 98, 'Dr. João Gabriel Melo': 47, 'Sra. Maria Eduarda Dias': 88, 'Eduarda Aragão': 95, 'Benício Castro': 1, 'Benjamin Duarte': 81, 'Antônio Pereira': 93, 'Maria Eduarda Moreira': 90, 'Lavínia Novaes': 81, 'Pedro Miguel Monteiro': 67, 'Pedro Miguel Melo': 38, 'Bárbara Costa': 44, 'Luiz Otávio Fogaça': 56, 'Sr. Igor Moraes': 79, 'Gustavo Henrique Cardoso': 61, 'Ana Carolina Caldeira': 59, 'Theo Silva': 29, 'Júlia Sales': 6, 'Isaac Pereira': 38, 'Enzo Gabriel Gomes': 100, 'Marcela Ramos': 40, 'Raquel Alves': 98, 'Rafaela Araújo': 8, 'Diego Nascimento': 21, 'João Guilherme Rocha': 27}
+mas deu
+{'Lucca da Paz': '6', 'Dra. Evelyn Moraes': '91', 'Dra. Maria Clara Moreira': '44', 'Agatha Souza': '24', 'Dr. Samuel da Cunha': '61', 'Dr. Gustavo Henrique Vieira': '31', 'Ana Luiza Aragão': '89', 'Benício da Cunha': '53', 'Felipe Correia': '37', 'Heloísa Aragão': '18', 'Alexia Lima': '41', 'Dr. Arthur Monteiro': '88', 'Ana Julia Nogueira': '33', 'Luiz Gustavo da Cunha': '36', 'Giovanna Azevedo': '50', 'Enzo Sales': '60', 'Diogo da Paz': '35', 'João Lucas Rodrigues': '76', 'Rebeca da Mata': '54', 'Maria Sophia Correia': '4', 'Sarah Pinto': '96', 'Isabelly Moura': '41', 'Sr. Diogo Araújo': '20', 'Erick Teixeira': '27', 'Sarah Cavalcanti': '3', 'Isis Cavalcanti': '69', 'Srta. Maitê Pereira': '15', 'Murilo das Neves': '70', 'João Sales': '68', 'Miguel Viana': '70', 'Lorenzo da Rocha': '34', 'Isaac Moreira': '17', 'Anthony Cunha': '98', 'Ana Lívia Ferreira': '59', 'Rafael Jesus': '47', 'João Vitor Rezende': '80', 'Stella Gomes': '52', 'Srta. Lavínia Barros': '43', 'Thales Fogaça': '92', 'Letícia Barros': '93', 'Lara Moura': '6', 'Sra. Agatha da Paz': '98', 'Helena Silveira': '79', 'Nathan Teixeira': '25', 'Dr. Thomas Ferreira': '92', 'Esther Barbosa': '13', 'Beatriz Barbosa': '37', 'Srta. Lavínia Lima': '90', 'Eloah da Mota': '65', 'Ana Vitória Ribeiro': '13', 'Luiz Gustavo Azevedo': '82', 'Camila Azevedo': '35', 'Lucas Gabriel Teixeira': '90', 'Dra. Pietra Jesus': '98', 'Dr. João Gabriel Melo': '47', 'Sra. Maria Eduarda Dias': '88', 'Eduarda Aragão': '95', 'Benício Castro': '1', 'Benjamin Duarte': '81', 'Antônio Pereira': '93', 'Maria Eduarda Moreira': '90', 'Lavínia Novaes': '81', 'Pedro Miguel Monteiro': '67', 'Pedro Miguel Melo': '38', 'Bárbara Costa': '44', 'Luiz Otávio Fogaça': '56', 'Sr. Igor Moraes': '79', 'Gustavo Henrique Cardoso': '61', 'Ana Carolina Caldeira': '59', 'Theo Silva': '29', 'Júlia Sales': '6', 'Isaac Pereira': '38', 'Enzo Gabriel Gomes': '100', 'Marcela Ramos': '40', 'Raquel Alves': '98', 'Rafaela Araújo': '8', 'Diego Nascimento': '21', 'João Guilherme Rocha': '27'}
+
+Teste 5 deu errado!
+O resultado para
+Luiz Otávio da Luz
+69
+Dr. Pedro Henrique Melo
+72
+Emanuel Lima
+76
+Nina Peixoto
+0
+Yago Martins
+46
+Laís Gomes
+1
+Felipe Melo
+35
+Natália Lima
+71
+Natália Lima
+31
+Luiz Otávio da Luz
+95
+Theo Almeida
+64
+Kaique Lopes
+56
+Theo Almeida
+47
+Natália Teixeira
+1
+João Gabriel Costa
+18
+Isis Rocha
+69
+Srta. Alice Duarte
+10
+Vitor Hugo Gonçalves
+98
+Dr. João Vitor Nascimento
+26
+Nicolas Correia
+17
+Ana Carolina Moraes
+41
+Clara Freitas
+39
+Dra. Ana Caldeira
+9
+Lorenzo Freitas
+71
+Ana Julia Cardoso
+88
+Olivia da Luz
+63
+Daniela Cardoso
+38
+Nicolas Correia
+65
+Maria da Rosa
+68
+Ana Carolina Moraes
+19
+Natália Teixeira
+87
+Bianca Viana
+51
+Natália Teixeira
+72
+Gabriel Almeida
+83
+Lucas Pinto
+92
+Srta. Alice Duarte
+19
+Sr. Bernardo Caldeira
+64
+Marina Sales
+35
+Laís Gomes
+70
+Natália Lima
+41
+Emanuel Lima
+81
+Lucas Pinto
+66
+Felipe Melo
+34
+Thiago da Mata
+77
+Emanuel Lima
+66
+Maria Cecília Cardoso
+97
+Gabriel Almeida
+62
+Catarina Peixoto
+55
+Camila Pires
+31
+Alana Monteiro
+77
+Francisco Pinto
+4
+Gabriel Almeida
+31
+Brenda Rodrigues
+68
+Gabriel Almeida
+51
+Dr. João Vitor Nascimento
+85
+Daniela Cardoso
+90
+Thiago da Mata
+61
+Daniela Cardoso
+0
+Marcela da Mota
+33
+Marina Sales
+24
+Marcela da Mota
+97
+Yago Costa
+70
+Ana Carolina Moraes
+7
+Brenda Rodrigues
+38
+Brenda Rodrigues
+22
+Dr. João Vitor Nascimento
+80
+Alana Monteiro
+75
+Sofia Gomes
+89
+Isis Rocha
+83
+Dr. Pedro Henrique Melo
+75
+Alana Monteiro
+3
+Francisco Pinto
+87
+Bianca Viana
+2
+Sr. Bernardo Caldeira
+67
+Yago Martins
+95
+Sr. Bernardo Caldeira
+79
+Maria da Rosa
+31
+Isis Rocha
+40
+Olivia da Luz
+52
+Thiago da Mata
+3
+Maria Cecília Cardoso
+81
+Yago Costa
+81
+Yago Martins
+96
+Dra. Ana Caldeira
+18
+Laís Ramos
+91
+Nicolas Correia
+58
+Felipe Melo
+31
+Francisco Pinto
+20
+Isis Rocha
+26
+Laís Gomes
+37
+Alana Monteiro
+16
+Clara Freitas
+67
+Kaique Lopes
+75
+Nina Peixoto
+27
+Laís Gomes
+78
+Dr. João Vitor Nascimento
+80
+Francisco Pinto
+16
+João Gabriel Costa
+67
+Yago Costa
+14
+Daniela Cardoso
+5
+Ana Julia Cardoso
+43
+Dr. Pedro Henrique Melo
+59
+Maria da Rosa
+9
+Thiago da Mata
+54
+Kaique Lopes
+75
+Yago Martins
+22
+Luiz Miguel da Luz
+35
+Marcela da Mota
+30
+s
+
+deveria ser
+{'Luiz Otávio da Luz': 69, 'Dr. Pedro Henrique Melo': 72, 'Emanuel Lima': 76, 'Nina Peixoto': 0, 'Yago Martins': 46, 'Laís Gomes': 1, 'Felipe Melo': 35, 'Natália Lima': 71, 'Theo Almeida': 64, 'Kaique Lopes': 56, 'Natália Teixeira': 1, 'João Gabriel Costa': 18, 'Isis Rocha': 69, 'Srta. Alice Duarte': 10, 'Vitor Hugo Gonçalves': 98, 'Dr. João Vitor Nascimento': 26, 'Nicolas Correia': 17, 'Ana Carolina Moraes': 41, 'Clara Freitas': 39, 'Dra. Ana Caldeira': 9, 'Lorenzo Freitas': 71, 'Ana Julia Cardoso': 88, 'Olivia da Luz': 63, 'Daniela Cardoso': 38, 'Maria da Rosa': 68, 'Bianca Viana': 51, 'Gabriel Almeida': 83, 'Lucas Pinto': 92, 'Sr. Bernardo Caldeira': 64, 'Marina Sales': 35, 'Thiago da Mata': 77, 'Maria Cecília Cardoso': 97, 'Catarina Peixoto': 55, 'Camila Pires': 31, 'Alana Monteiro': 77, 'Francisco Pinto': 4, 'Brenda Rodrigues': 68, 'Marcela da Mota': 33, 'Yago Costa': 70, 'Sofia Gomes': 89, 'Laís Ramos': 91, 'Luiz Miguel da Luz': 35}
+mas deu
+{'Luiz Otávio da Luz': '69', 'Dr. Pedro Henrique Melo': '72', 'Emanuel Lima': '76', 'Nina Peixoto': '0', 'Yago Martins': '46', 'Laís Gomes': '1', 'Felipe Melo': '35', 'Natália Lima': '71', 'Theo Almeida': '64', 'Kaique Lopes': '56', 'Natália Teixeira': '1', 'João Gabriel Costa': '18', 'Isis Rocha': '69', 'Srta. Alice Duarte': '10', 'Vitor Hugo Gonçalves': '98', 'Dr. João Vitor Nascimento': '26', 'Nicolas Correia': '17', 'Ana Carolina Moraes': '41', 'Clara Freitas': '39', 'Dra. Ana Caldeira': '9', 'Lorenzo Freitas': '71', 'Ana Julia Cardoso': '88', 'Olivia da Luz': '63', 'Daniela Cardoso': '38', 'Maria da Rosa': '68', 'Bianca Viana': '51', 'Gabriel Almeida': '83', 'Lucas Pinto': '92', 'Sr. Bernardo Caldeira': '64', 'Marina Sales': '35', 'Thiago da Mata': '77', 'Maria Cecília Cardoso': '97', 'Catarina Peixoto': '55', 'Camila Pires': '31', 'Alana Monteiro': '77', 'Francisco Pinto': '4', 'Brenda Rodrigues': '68', 'Marcela da Mota': '33', 'Yago Costa': '70', 'Sofia Gomes': '89', 'Laís Ramos': '91', 'Luiz Miguel da Luz': '35'}
+
+Teste 6 deu errado!
+O resultado para
+Sra. Gabrielly da Conceição
+10
+Cauã Ferreira
+57
+Alana Ribeiro
+80
+Maria Lopes
+60
+Paulo Duarte
+81
+Maria Sophia Barros
+18
+Lorenzo Carvalho
+0
+Agatha Rocha
+59
+Bianca Carvalho
+10
+Isabella Alves
+90
+Beatriz Fernandes
+39
+Mariane Silveira
+40
+Sophie Barbosa
+13
+Isabella Alves
+74
+João Vitor Teixeira
+71
+Rafaela Moura
+87
+Felipe Cardoso
+52
+Alice Silva
+68
+Davi Lucas Farias
+76
+Maria Clara da Mata
+69
+Luigi Castro
+17
+Felipe Cardoso
+48
+Mariane Silveira
+63
+Maria Lopes
+7
+Rebeca Carvalho
+59
+Paulo Duarte
+4
+Lorenzo Carvalho
+82
+Srta. Luna Rezende
+46
+Benício Silveira
+77
+Bernardo da Cunha
+42
+Lucas Gabriel da Cruz
+28
+Lucas Gabriel da Cruz
+40
+Bárbara Souza
+43
+Beatriz Fernandes
+50
+João Vitor Teixeira
+42
+Luigi Castro
+34
+Srta. Luna Rezende
+29
+Alana Ribeiro
+15
+Alana Ribeiro
+95
+João Vitor Teixeira
+29
+Agatha Rocha
+82
+Alice Silva
+11
+Pedro da Luz
+83
+Isis Azevedo
+3
+Rafaela Moura
+81
+Rafaela Moura
+97
+Rafaela Moura
+56
+Benício Silveira
+28
+Cauã Ferreira
+9
+Maria Lopes
+50
+Benício Silveira
+50
+Sra. Mariana Aragão
+59
+Sra. Gabrielly da Conceição
+24
+Lorenzo Carvalho
+7
+Beatriz Fernandes
+76
+Pedro da Luz
+15
+Paulo Duarte
+84
+Agatha Rocha
+19
+Luiz Gustavo Costa
+18
+Paulo Duarte
+72
+Sophie Barbosa
+23
+Sra. Mariana Aragão
+40
+Luana da Rosa
+92
+Mariane Silveira
+56
+Sabrina Fogaça
+15
+Srta. Luna Rezende
+88
+João Vitor Teixeira
+58
+Alana Ribeiro
+6
+Cauã Ferreira
+59
+Luiz Gustavo Costa
+31
+Olivia Rodrigues
+37
+Maria Sophia Barros
+83
+Lorenzo Carvalho
+57
+Bárbara Souza
+95
+Olivia Rodrigues
+68
+Olivia Rodrigues
+3
+s
+
+deveria ser
+{'Sra. Gabrielly da Conceição': 10, 'Cauã Ferreira': 57, 'Alana Ribeiro': 80, 'Maria Lopes': 60, 'Paulo Duarte': 81, 'Maria Sophia Barros': 18, 'Lorenzo Carvalho': 0, 'Agatha Rocha': 59, 'Bianca Carvalho': 10, 'Isabella Alves': 90, 'Beatriz Fernandes': 39, 'Mariane Silveira': 40, 'Sophie Barbosa': 13, 'João Vitor Teixeira': 71, 'Rafaela Moura': 87, 'Felipe Cardoso': 52, 'Alice Silva': 68, 'Davi Lucas Farias': 76, 'Maria Clara da Mata': 69, 'Luigi Castro': 17, 'Rebeca Carvalho': 59, 'Srta. Luna Rezende': 46, 'Benício Silveira': 77, 'Bernardo da Cunha': 42, 'Lucas Gabriel da Cruz': 28, 'Bárbara Souza': 43, 'Pedro da Luz': 83, 'Isis Azevedo': 3, 'Sra. Mariana Aragão': 59, 'Luiz Gustavo Costa': 18, 'Luana da Rosa': 92, 'Sabrina Fogaça': 15, 'Olivia Rodrigues': 37}
+mas deu
+{'Sra. Gabrielly da Conceição': '10', 'Cauã Ferreira': '57', 'Alana Ribeiro': '80', 'Maria Lopes': '60', 'Paulo Duarte': '81', 'Maria Sophia Barros': '18', 'Lorenzo Carvalho': '0', 'Agatha Rocha': '59', 'Bianca Carvalho': '10', 'Isabella Alves': '90', 'Beatriz Fernandes': '39', 'Mariane Silveira': '40', 'Sophie Barbosa': '13', 'João Vitor Teixeira': '71', 'Rafaela Moura': '87', 'Felipe Cardoso': '52', 'Alice Silva': '68', 'Davi Lucas Farias': '76', 'Maria Clara da Mata': '69', 'Luigi Castro': '17', 'Rebeca Carvalho': '59', 'Srta. Luna Rezende': '46', 'Benício Silveira': '77', 'Bernardo da Cunha': '42', 'Lucas Gabriel da Cruz': '28', 'Bárbara Souza': '43', 'Pedro da Luz': '83', 'Isis Azevedo': '3', 'Sra. Mariana Aragão': '59', 'Luiz Gustavo Costa': '18', 'Luana da Rosa': '92', 'Sabrina Fogaça': '15', 'Olivia Rodrigues': '37'}
+
+Teste 7 deu errado!
+O resultado para
+Kaique da Cunha
+33
+Cauã Duarte
+7
+João Pedro Peixoto
+0
+Pedro Miguel Cardoso
+66
+Mariana Costa
+41
+Dr. Pietro Porto
+88
+Luiz Felipe Porto
+67
+Pedro Miguel Ferreira
+72
+Francisco Lima
+27
+Enzo Gabriel Freitas
+32
+Bruna Almeida
+96
+Sofia Novaes
+18
+Sr. Vicente Gomes
+8
+Bruno Araújo
+19
+Ana Júlia da Paz
+65
+João Gabriel Martins
+59
+Yuri Cunha
+45
+Vinicius Rezende
+37
+Sr. Enrico Costa
+18
+Emanuel Cardoso
+4
+Pedro Miguel Cardoso
+72
+Arthur Aragão
+40
+João Lucas da Rocha
+34
+Sophia Farias
+98
+Davi Lucca Freitas
+86
+Sr. Enrico Costa
+80
+Igor da Paz
+8
+Catarina Carvalho
+23
+Laura da Luz
+11
+João Gabriel Martins
+93
+Leandro Gonçalves
+68
+Srta. Ana Luiza da Luz
+49
+Arthur Castro
+77
+Raul Nogueira
+65
+Maria Clara Alves
+63
+Thiago Barros
+3
+Beatriz Campos
+100
+Marina Ferreira
+18
+Ana Laura Ramos
+27
+Ana Júlia da Paz
+72
+Kaique da Cunha
+89
+Milena Azevedo
+53
+Ana Júlia da Paz
+33
+Rodrigo Moraes
+100
+João Lucas da Rocha
+90
+Bernardo Caldeira
+20
+Breno Rezende
+50
+Gabriela Cardoso
+99
+Renan da Cunha
+7
+Francisco da Mota
+76
+Dr. Calebe Almeida
+20
+Davi Lucca Freitas
+46
+Carlos Eduardo Ribeiro
+87
+Gabriela Sales
+20
+Luiz Miguel Correia
+87
+Clara Oliveira
+14
+Catarina Carvalho
+41
+Marcos Vinicius Vieira
+33
+Daniel Novaes
+14
+Daniel Dias
+79
+Letícia da Luz
+93
+Marina Ferreira
+68
+Carlos Eduardo Farias
+32
+Breno Rezende
+8
+Raquel Lopes
+54
+Milena Azevedo
+21
+Clara Oliveira
+16
+Ana Vitória das Neves
+87
+Emanuel Cardoso
+49
+Francisco Lima
+69
+Breno Rezende
+50
+Lucas Campos
+16
+Alana Carvalho
+76
+Maria Julia Cavalcanti
+51
+Alexia Carvalho
+91
+Ana Júlia da Paz
+0
+Carlos Eduardo Ribeiro
+91
+Sr. Enrico Costa
+59
+Evelyn Moraes
+65
+Dr. Cauê Ramos
+44
+Renan Rezende
+55
+Rodrigo Martins
+41
+Evelyn Moraes
+38
+Leandro Gonçalves
+39
+Davi Lucas Aragão
+21
+Davi Gonçalves
+52
+Ana Vitória das Neves
+63
+Daniela Cardoso
+27
+Isaac da Rosa
+16
+Francisco Pereira
+75
+Raul Dias
+39
+Maria Julia Cavalcanti
+44
+Catarina Carvalho
+37
+Daniela Cardoso
+22
+Evelyn Moraes
+37
+Alana Carvalho
+82
+Enzo Gabriel Freitas
+14
+Luiz Felipe Porto
+44
+Davi Lucca Freitas
+74
+Francisco Pereira
+63
+Dr. Calebe Almeida
+94
+Alexia Campos
+38
+Thiago Barros
+67
+Gabriela Sales
+64
+Arthur Castro
+32
+Renan da Cunha
+85
+Beatriz Campos
+78
+Milena Azevedo
+33
+Raul Nogueira
+13
+Amanda Rodrigues
+50
+Agatha Jesus
+79
+Luiz Miguel Correia
+15
+Bruno Araújo
+67
+Raquel Lopes
+85
+Ana Vitória das Neves
+62
+Raul Nogueira
+17
+João Pedro Peixoto
+89
+Dr. Cauê Ramos
+30
+Cauã Duarte
+77
+Marina Ferreira
+96
+Kaique da Cunha
+28
+Raul Dias
+86
+Dra. Alana da Cunha
+70
+Renan da Cunha
+33
+Enzo Gabriel Freitas
+1
+Carlos Eduardo Ribeiro
+85
+Ana Laura Ramos
+32
+Maria Clara Alves
+58
+Joaquim Castro
+67
+Arthur Aragão
+96
+Clara Oliveira
+49
+Raul Nogueira
+67
+Daniel Novaes
+91
+Paulo Cavalcanti
+74
+Enzo Gabriel Freitas
+81
+Gabriela Cardoso
+81
+Davi Lucca Freitas
+23
+Alana Carvalho
+71
+Gabriela Cardoso
+55
+Arthur Castro
+62
+Thiago Barros
+11
+Daniela Cardoso
+37
+Alexia Campos
+38
+Camila Silva
+28
+Vinicius Rezende
+17
+Maria Julia Cavalcanti
+49
+Pedro Miguel Ferreira
+96
+Alana Carvalho
+26
+Daniela Cardoso
+43
+Agatha Jesus
+3
+Dr. Lorenzo Barros
+41
+Beatriz Campos
+21
+João Lucas Peixoto
+79
+Yuri Cunha
+13
+Dra. Alana da Cunha
+37
+Cauã Duarte
+4
+Leandro Gonçalves
+96
+Renan da Cunha
+87
+Dr. Calebe Almeida
+77
+Bruna Araújo
+30
+Sofia Novaes
+81
+Maria Clara da Cruz
+21
+Luiz Miguel Correia
+44
+Sr. Vicente Gomes
+54
+Milena Azevedo
+26
+Bruna Almeida
+20
+Carlos Eduardo Ribeiro
+61
+João Gabriel Martins
+5
+Marina Ferreira
+32
+Paulo Cavalcanti
+17
+Otávio Farias
+58
+Laura da Luz
+7
+Agatha Moura
+30
+Ana Laura Ramos
+3
+Paulo Cavalcanti
+58
+João Gabriel Martins
+96
+Sr. Bruno Castro
+35
+Ana Vitória das Neves
+56
+Bruna Almeida
+52
+Agatha Jesus
+40
+Breno Rezende
+22
+Amanda Rodrigues
+6
+Pedro Miguel Cardoso
+97
+Kaique da Cunha
+90
+Otávio Farias
+29
+Beatriz Campos
+91
+Bruna Araújo
+34
+Gabriela Cardoso
+66
+João Lucas da Rocha
+45
+Francisco Pereira
+88
+Bruna Araújo
+88
+Bruna Araújo
+85
+Dr. Pietro Porto
+42
+Dr. Cauê Ramos
+12
+Daniel Novaes
+29
+Enzo Gabriel Carvalho
+46
+Raul Dias
+51
+Dra. Alana da Cunha
+62
+s
+
+deveria ser
+{'Kaique da Cunha': 33, 'Cauã Duarte': 7, 'João Pedro Peixoto': 0, 'Pedro Miguel Cardoso': 66, 'Mariana Costa': 41, 'Dr. Pietro Porto': 88, 'Luiz Felipe Porto': 67, 'Pedro Miguel Ferreira': 72, 'Francisco Lima': 27, 'Enzo Gabriel Freitas': 32, 'Bruna Almeida': 96, 'Sofia Novaes': 18, 'Sr. Vicente Gomes': 8, 'Bruno Araújo': 19, 'Ana Júlia da Paz': 65, 'João Gabriel Martins': 59, 'Yuri Cunha': 45, 'Vinicius Rezende': 37, 'Sr. Enrico Costa': 18, 'Emanuel Cardoso': 4, 'Arthur Aragão': 40, 'João Lucas da Rocha': 34, 'Sophia Farias': 98, 'Davi Lucca Freitas': 86, 'Igor da Paz': 8, 'Catarina Carvalho': 23, 'Laura da Luz': 11, 'Leandro Gonçalves': 68, 'Srta. Ana Luiza da Luz': 49, 'Arthur Castro': 77, 'Raul Nogueira': 65, 'Maria Clara Alves': 63, 'Thiago Barros': 3, 'Beatriz Campos': 100, 'Marina Ferreira': 18, 'Ana Laura Ramos': 27, 'Milena Azevedo': 53, 'Rodrigo Moraes': 100, 'Bernardo Caldeira': 20, 'Breno Rezende': 50, 'Gabriela Cardoso': 99, 'Renan da Cunha': 7, 'Francisco da Mota': 76, 'Dr. Calebe Almeida': 20, 'Carlos Eduardo Ribeiro': 87, 'Gabriela Sales': 20, 'Luiz Miguel Correia': 87, 'Clara Oliveira': 14, 'Marcos Vinicius Vieira': 33, 'Daniel Novaes': 14, 'Daniel Dias': 79, 'Letícia da Luz': 93, 'Carlos Eduardo Farias': 32, 'Raquel Lopes': 54, 'Ana Vitória das Neves': 87, 'Lucas Campos': 16, 'Alana Carvalho': 76, 'Maria Julia Cavalcanti': 51, 'Alexia Carvalho': 91, 'Evelyn Moraes': 65, 'Dr. Cauê Ramos': 44, 'Renan Rezende': 55, 'Rodrigo Martins': 41, 'Davi Lucas Aragão': 21, 'Davi Gonçalves': 52, 'Daniela Cardoso': 27, 'Isaac da Rosa': 16, 'Francisco Pereira': 75, 'Raul Dias': 39, 'Alexia Campos': 38, 'Amanda Rodrigues': 50, 'Agatha Jesus': 79, 'Dra. Alana da Cunha': 70, 'Joaquim Castro': 67, 'Paulo Cavalcanti': 74, 'Camila Silva': 28, 'Dr. Lorenzo Barros': 41, 'João Lucas Peixoto': 79, 'Bruna Araújo': 30, 'Maria Clara da Cruz': 21, 'Otávio Farias': 58, 'Agatha Moura': 30, 'Sr. Bruno Castro': 35, 'Enzo Gabriel Carvalho': 46}
+mas deu
+{'Kaique da Cunha': '33', 'Cauã Duarte': '7', 'João Pedro Peixoto': '0', 'Pedro Miguel Cardoso': '66', 'Mariana Costa': '41', 'Dr. Pietro Porto': '88', 'Luiz Felipe Porto': '67', 'Pedro Miguel Ferreira': '72', 'Francisco Lima': '27', 'Enzo Gabriel Freitas': '32', 'Bruna Almeida': '96', 'Sofia Novaes': '18', 'Sr. Vicente Gomes': '8', 'Bruno Araújo': '19', 'Ana Júlia da Paz': '65', 'João Gabriel Martins': '59', 'Yuri Cunha': '45', 'Vinicius Rezende': '37', 'Sr. Enrico Costa': '18', 'Emanuel Cardoso': '4', 'Arthur Aragão': '40', 'João Lucas da Rocha': '34', 'Sophia Farias': '98', 'Davi Lucca Freitas': '86', 'Igor da Paz': '8', 'Catarina Carvalho': '23', 'Laura da Luz': '11', 'Leandro Gonçalves': '68', 'Srta. Ana Luiza da Luz': '49', 'Arthur Castro': '77', 'Raul Nogueira': '65', 'Maria Clara Alves': '63', 'Thiago Barros': '3', 'Beatriz Campos': '100', 'Marina Ferreira': '18', 'Ana Laura Ramos': '27', 'Milena Azevedo': '53', 'Rodrigo Moraes': '100', 'Bernardo Caldeira': '20', 'Breno Rezende': '50', 'Gabriela Cardoso': '99', 'Renan da Cunha': '7', 'Francisco da Mota': '76', 'Dr. Calebe Almeida': '20', 'Carlos Eduardo Ribeiro': '87', 'Gabriela Sales': '20', 'Luiz Miguel Correia': '87', 'Clara Oliveira': '14', 'Marcos Vinicius Vieira': '33', 'Daniel Novaes': '14', 'Daniel Dias': '79', 'Letícia da Luz': '93', 'Carlos Eduardo Farias': '32', 'Raquel Lopes': '54', 'Ana Vitória das Neves': '87', 'Lucas Campos': '16', 'Alana Carvalho': '76', 'Maria Julia Cavalcanti': '51', 'Alexia Carvalho': '91', 'Evelyn Moraes': '65', 'Dr. Cauê Ramos': '44', 'Renan Rezende': '55', 'Rodrigo Martins': '41', 'Davi Lucas Aragão': '21', 'Davi Gonçalves': '52', 'Daniela Cardoso': '27', 'Isaac da Rosa': '16', 'Francisco Pereira': '75', 'Raul Dias': '39', 'Alexia Campos': '38', 'Amanda Rodrigues': '50', 'Agatha Jesus': '79', 'Dra. Alana da Cunha': '70', 'Joaquim Castro': '67', 'Paulo Cavalcanti': '74', 'Camila Silva': '28', 'Dr. Lorenzo Barros': '41', 'João Lucas Peixoto': '79', 'Bruna Araújo': '30', 'Maria Clara da Cruz': '21', 'Otávio Farias': '58', 'Agatha Moura': '30', 'Sr. Bruno Castro': '35', 'Enzo Gabriel Carvalho': '46'}
+
+Teste 8 deu errado!
+O resultado para
+Carlos Eduardo da Paz
+62
+Lavínia Almeida
+31
+Paulo Aragão
+40
+Stephany Novaes
+66
+Elisa da Cruz
+69
+Luiz Gustavo Souza
+13
+Mirella Rocha
+65
+Gabriel Melo
+55
+Gabriel Melo
+68
+Pedro Henrique Barros
+61
+Bianca Monteiro
+10
+Olivia da Mata
+76
+Emilly da Cunha
+62
+Paulo Aragão
+24
+Lavínia Almeida
+17
+Carlos Eduardo da Paz
+20
+Rodrigo Nascimento
+85
+Luiz Otávio Viana
+99
+Carlos Eduardo da Paz
+59
+Pietro Rezende
+73
+Otávio Lima
+94
+Stephany Novaes
+25
+Dra. Milena Monteiro
+10
+Dr. Levi Pires
+100
+Pedro Henrique Barros
+93
+Gabriel Almeida
+38
+Amanda Cunha
+15
+Stella Nunes
+17
+Dra. Milena Monteiro
+57
+Stephany Novaes
+94
+Ana Beatriz Pires
+86
+Otávio Lima
+38
+Pedro Henrique Barros
+82
+Vinicius Barbosa
+70
+Maria Luiza Pinto
+28
+Lavínia Almeida
+91
+Luiz Fernando Porto
+93
+Breno Vieira
+71
+Paulo Aragão
+2
+Maysa Almeida
+56
+Brenda Lima
+27
+Luiz Fernando Porto
+46
+Vitor Barros
+96
+Leandro da Cruz
+88
+Maria Luiza Pinto
+47
+Maria Mendes
+28
+Dr. Levi Pires
+30
+Carolina Costela
+42
+João Pedro Novaes
+99
+Breno Vieira
+63
+Yasmin Lima
+80
+Stella Nunes
+49
+Maria Luiza Pinto
+29
+Sr. Danilo da Cruz
+34
+Luiz Fernando Porto
+98
+Leandro da Cruz
+39
+Henrique Santos
+35
+Otávio Lima
+3
+Vicente Martins
+94
+Sr. Danilo da Cruz
+95
+Ana Beatriz Pires
+59
+Carolina Costela
+90
+Vicente Martins
+52
+Leandro da Cruz
+80
+Yasmin Lima
+43
+Maysa Almeida
+65
+Gabriel Melo
+41
+Maysa Almeida
+17
+Sra. Brenda Ribeiro
+63
+Mirella Rocha
+36
+Gabriel Almeida
+43
+Lorena Lima
+15
+Maysa Almeida
+8
+Luiz Gustavo Souza
+72
+Olivia da Mata
+21
+João Pedro Novaes
+6
+Stephany Novaes
+45
+Gabriel Almeida
+27
+Dra. Milena Monteiro
+20
+Luiz Otávio Viana
+27
+Luiz Fernando Porto
+30
+Vitor Barros
+11
+Bianca Monteiro
+17
+Emanuelly da Luz
+14
+Lorena Lima
+16
+Pietro Rezende
+78
+Carolina Costela
+23
+Brenda Lima
+68
+Calebe Carvalho
+47
+Melissa Cavalcanti
+47
+Mirella Rocha
+17
+Paulo Aragão
+14
+Maria Mendes
+42
+Olivia da Mata
+66
+Rodrigo Nascimento
+4
+Breno Vieira
+93
+Luigi da Cunha
+15
+Luiz Otávio Viana
+85
+Leandro da Cruz
+86
+Breno Vieira
+2
+Mirella Rocha
+27
+Carolina Costela
+41
+Sr. Danilo da Cruz
+32
+Otávio Lima
+85
+Francisco Castro
+93
+João Guilherme Rocha
+54
+Pedro Henrique Barros
+56
+Vitor Barros
+25
+Vitor Gabriel Azevedo
+3
+Elisa da Cruz
+45
+Dra. Milena Monteiro
+44
+Ana Beatriz Pires
+48
+Maria Luiza Pinto
+95
+Rodrigo Nascimento
+77
+s
+
+deveria ser
+{'Carlos Eduardo da Paz': 62, 'Lavínia Almeida': 31, 'Paulo Aragão': 40, 'Stephany Novaes': 66, 'Elisa da Cruz': 69, 'Luiz Gustavo Souza': 13, 'Mirella Rocha': 65, 'Gabriel Melo': 55, 'Pedro Henrique Barros': 61, 'Bianca Monteiro': 10, 'Olivia da Mata': 76, 'Emilly da Cunha': 62, 'Rodrigo Nascimento': 85, 'Luiz Otávio Viana': 99, 'Pietro Rezende': 73, 'Otávio Lima': 94, 'Dra. Milena Monteiro': 10, 'Dr. Levi Pires': 100, 'Gabriel Almeida': 38, 'Amanda Cunha': 15, 'Stella Nunes': 17, 'Ana Beatriz Pires': 86, 'Vinicius Barbosa': 70, 'Maria Luiza Pinto': 28, 'Luiz Fernando Porto': 93, 'Breno Vieira': 71, 'Maysa Almeida': 56, 'Brenda Lima': 27, 'Vitor Barros': 96, 'Leandro da Cruz': 88, 'Maria Mendes': 28, 'Carolina Costela': 42, 'João Pedro Novaes': 99, 'Yasmin Lima': 80, 'Sr. Danilo da Cruz': 34, 'Henrique Santos': 35, 'Vicente Martins': 94, 'Sra. Brenda Ribeiro': 63, 'Lorena Lima': 15, 'Emanuelly da Luz': 14, 'Calebe Carvalho': 47, 'Melissa Cavalcanti': 47, 'Luigi da Cunha': 15, 'Francisco Castro': 93, 'João Guilherme Rocha': 54, 'Vitor Gabriel Azevedo': 3}
+mas deu
+{'Carlos Eduardo da Paz': '62', 'Lavínia Almeida': '31', 'Paulo Aragão': '40', 'Stephany Novaes': '66', 'Elisa da Cruz': '69', 'Luiz Gustavo Souza': '13', 'Mirella Rocha': '65', 'Gabriel Melo': '55', 'Pedro Henrique Barros': '61', 'Bianca Monteiro': '10', 'Olivia da Mata': '76', 'Emilly da Cunha': '62', 'Rodrigo Nascimento': '85', 'Luiz Otávio Viana': '99', 'Pietro Rezende': '73', 'Otávio Lima': '94', 'Dra. Milena Monteiro': '10', 'Dr. Levi Pires': '100', 'Gabriel Almeida': '38', 'Amanda Cunha': '15', 'Stella Nunes': '17', 'Ana Beatriz Pires': '86', 'Vinicius Barbosa': '70', 'Maria Luiza Pinto': '28', 'Luiz Fernando Porto': '93', 'Breno Vieira': '71', 'Maysa Almeida': '56', 'Brenda Lima': '27', 'Vitor Barros': '96', 'Leandro da Cruz': '88', 'Maria Mendes': '28', 'Carolina Costela': '42', 'João Pedro Novaes': '99', 'Yasmin Lima': '80', 'Sr. Danilo da Cruz': '34', 'Henrique Santos': '35', 'Vicente Martins': '94', 'Sra. Brenda Ribeiro': '63', 'Lorena Lima': '15', 'Emanuelly da Luz': '14', 'Calebe Carvalho': '47', 'Melissa Cavalcanti': '47', 'Luigi da Cunha': '15', 'Francisco Castro': '93', 'João Guilherme Rocha': '54', 'Vitor Gabriel Azevedo': '3'}
+
+Teste 9 deu errado!
+O resultado para
+Sr. Augusto Dias
+99
+Srta. Mirella Nascimento
+68
+Heloísa Souza
+53
+Eloah Vieira
+79
+Emanuelly Pereira
+71
+Luiz Fernando Cunha
+31
+Dr. Luiz Gustavo Alves
+28
+Sr. Guilherme Barros
+66
+Maria Sophia Peixoto
+59
+Srta. Mirella Nascimento
+44
+Ana Júlia Jesus
+43
+Benjamin da Paz
+80
+Stella da Mota
+4
+Carlos Eduardo da Rosa
+20
+Júlia da Mata
+7
+Heloísa Souza
+30
+Sr. Yuri Novaes
+58
+Thomas Alves
+91
+Sr. Anthony Nascimento
+27
+Srta. Mirella Nascimento
+74
+João Miguel Moura
+61
+Stella Vieira
+19
+Eloah Vieira
+76
+Isabella Sales
+9
+Raquel das Neves
+58
+Daniela Campos
+92
+Júlia da Mata
+50
+João Miguel Gomes
+1
+João Lucas Sales
+69
+Carlos Eduardo da Rosa
+93
+Sra. Laura da Mata
+9
+Luana Novaes
+35
+Davi Ribeiro
+29
+Daniela Rezende
+49
+Dr. João Pedro Santos
+95
+Letícia Pinto
+3
+Rafael Souza
+99
+Stephany Silveira
+1
+Ana Júlia Moreira
+9
+Maria da Rocha
+76
+Ana Júlia da Cunha
+15
+Mariana da Rocha
+44
+Dra. Valentina Ferreira
+92
+Caroline Oliveira
+72
+Dr. Luiz Gustavo Alves
+23
+Catarina Monteiro
+86
+Daniela Rezende
+72
+Miguel Rocha
+12
+João Silva
+19
+Sr. Lucas Gabriel Rocha
+39
+Helena Alves
+97
+Rodrigo Mendes
+87
+Dr. Isaac Peixoto
+60
+Sra. Mariana Carvalho
+62
+Rodrigo Mendes
+55
+Dra. Beatriz Moura
+91
+Thales da Costa
+36
+Beatriz das Neves
+84
+Daniela Campos
+99
+Dr. João Pedro Santos
+81
+Bianca Castro
+3
+Caroline Oliveira
+29
+Sr. Augusto Dias
+20
+Francisco Silveira
+74
+Maria Sophia Peixoto
+23
+Maria Clara Nogueira
+23
+Júlia da Mata
+21
+Emanuelly Pereira
+21
+Luna Melo
+35
+Sra. Mariana Carvalho
+91
+Luiz Gustavo Silva
+78
+Alexia Rocha
+49
+Sr. Anthony Nascimento
+24
+Stephany Silveira
+29
+Pietra Lopes
+84
+Julia Souza
+59
+Daniela Rezende
+94
+Thales da Costa
+95
+Ana Júlia da Cunha
+71
+Ana Júlia Jesus
+49
+Luiz Fernando Cunha
+78
+João Lucas Sales
+13
+Ana Júlia Jesus
+66
+Stephany Silveira
+49
+Stella Melo
+61
+Helena Alves
+16
+Stella Melo
+19
+Ana Júlia Moreira
+75
+Luiz Miguel Oliveira
+74
+Luiz Gustavo Silva
+89
+Srta. Mirella Nascimento
+34
+Heitor da Mata
+1
+Samuel da Cunha
+53
+Catarina Monteiro
+1
+Lucas Gabriel Vieira
+86
+Stella Melo
+44
+Thales da Costa
+8
+Luiz Miguel Oliveira
+67
+Pietro Fogaça
+3
+Sr. Lucas Gabriel Rocha
+41
+Dra. Beatriz Moura
+41
+Raquel das Neves
+8
+Emanuelly Pereira
+83
+Juan das Neves
+45
+Thales da Paz
+72
+Pietra Lopes
+44
+Alexia Rocha
+78
+Pietro Fogaça
+66
+Rafael Souza
+87
+Bianca Castro
+80
+Alícia Pires
+3
+Alexia Pinto
+37
+Emanuelly Pereira
+42
+Heitor Silva
+70
+Juan das Neves
+48
+Heloísa Souza
+56
+Luiz Miguel Oliveira
+40
+Alexia Rocha
+82
+Miguel Rocha
+78
+Cauê Santos
+24
+Eloah Vieira
+17
+Milena Fernandes
+24
+Beatriz das Neves
+26
+Camila da Luz
+89
+Sra. Alana Alves
+20
+Sr. Augusto Dias
+81
+Luiz Gustavo Silva
+20
+Dr. Luiz Gustavo Alves
+53
+João Miguel Moura
+89
+Sra. Alana Alves
+99
+Pietro Fogaça
+17
+Davi Ribeiro
+33
+João Lucas Sales
+89
+Sr. Augusto Dias
+61
+Thales da Costa
+67
+Lorena Fernandes
+61
+Pietro Fogaça
+78
+Maria Vitória Vieira
+19
+Bryan Caldeira
+49
+Marcos Vinicius Moura
+43
+Stella Vieira
+59
+Sra. Lara Jesus
+32
+Ana Clara Dias
+78
+Heitor da Mata
+45
+Dra. Valentina Ferreira
+41
+Maria Luiza Costela
+76
+Lucas Gabriel Vieira
+54
+Bianca Castro
+20
+Luna Melo
+65
+Benjamin da Paz
+35
+Henrique Farias
+67
+Carlos Eduardo da Rosa
+97
+Marcos Vinicius Moura
+3
+Raquel das Neves
+23
+Stephany Silveira
+20
+Elisa da Conceição
+7
+Catarina Monteiro
+88
+Ian Duarte
+50
+Juliana Silva
+81
+Francisco Silveira
+79
+Stella Melo
+69
+João Silva
+16
+Juan das Neves
+82
+Sra. Mariana Carvalho
+33
+Maria Sophia Peixoto
+81
+Lorena Fernandes
+27
+Heloísa Souza
+44
+Dra. Beatriz Moura
+43
+Sra. Alana Alves
+60
+Rafael Souza
+19
+Julia Souza
+5
+Pietra Lopes
+56
+João Miguel Moura
+90
+Dr. João Pedro Santos
+94
+Eloah Vieira
+84
+Thales da Paz
+44
+João Miguel Gomes
+11
+Maria Luiza Costela
+5
+Luana Novaes
+20
+Rodrigo Mendes
+83
+Samuel da Cunha
+91
+Heitor da Mata
+44
+Stella da Mota
+68
+Samuel da Cunha
+52
+Dr. João Pedro Santos
+15
+João Miguel Moura
+97
+Ana Júlia Moreira
+3
+João Miguel Gomes
+18
+Lorena Fernandes
+27
+Amanda Freitas
+1
+Ana Júlia da Cunha
+43
+Rodrigo Mendes
+27
+Ana Júlia Jesus
+79
+Isabella Sales
+21
+Luiz Miguel Oliveira
+70
+Dra. Valentina Ferreira
+43
+Maria Sophia Peixoto
+18
+Beatriz das Neves
+30
+Milena Teixeira
+15
+Dra. Beatriz Moura
+32
+Samuel da Cunha
+56
+Julia Souza
+24
+Mariana da Rocha
+32
+Maria Clara Nogueira
+18
+Sra. Alana Alves
+46
+Dra. Valentina Ferreira
+22
+Ana Júlia Moreira
+20
+Sr. Anthony Nascimento
+31
+Stella Vieira
+97
+Davi Ribeiro
+70
+Sr. Lucas Gabriel Rocha
+58
+Sra. Laura da Mata
+66
+Calebe Almeida
+59
+Stella Vieira
+96
+Beatriz das Neves
+94
+Sr. Yuri Novaes
+95
+s
+
+deveria ser
+{'Sr. Augusto Dias': 99, 'Srta. Mirella Nascimento': 68, 'Heloísa Souza': 53, 'Eloah Vieira': 79, 'Emanuelly Pereira': 71, 'Luiz Fernando Cunha': 31, 'Dr. Luiz Gustavo Alves': 28, 'Sr. Guilherme Barros': 66, 'Maria Sophia Peixoto': 59, 'Ana Júlia Jesus': 43, 'Benjamin da Paz': 80, 'Stella da Mota': 4, 'Carlos Eduardo da Rosa': 20, 'Júlia da Mata': 7, 'Sr. Yuri Novaes': 58, 'Thomas Alves': 91, 'Sr. Anthony Nascimento': 27, 'João Miguel Moura': 61, 'Stella Vieira': 19, 'Isabella Sales': 9, 'Raquel das Neves': 58, 'Daniela Campos': 92, 'João Miguel Gomes': 1, 'João Lucas Sales': 69, 'Sra. Laura da Mata': 9, 'Luana Novaes': 35, 'Davi Ribeiro': 29, 'Daniela Rezende': 49, 'Dr. João Pedro Santos': 95, 'Letícia Pinto': 3, 'Rafael Souza': 99, 'Stephany Silveira': 1, 'Ana Júlia Moreira': 9, 'Maria da Rocha': 76, 'Ana Júlia da Cunha': 15, 'Mariana da Rocha': 44, 'Dra. Valentina Ferreira': 92, 'Caroline Oliveira': 72, 'Catarina Monteiro': 86, 'Miguel Rocha': 12, 'João Silva': 19, 'Sr. Lucas Gabriel Rocha': 39, 'Helena Alves': 97, 'Rodrigo Mendes': 87, 'Dr. Isaac Peixoto': 60, 'Sra. Mariana Carvalho': 62, 'Dra. Beatriz Moura': 91, 'Thales da Costa': 36, 'Beatriz das Neves': 84, 'Bianca Castro': 3, 'Francisco Silveira': 74, 'Maria Clara Nogueira': 23, 'Luna Melo': 35, 'Luiz Gustavo Silva': 78, 'Alexia Rocha': 49, 'Pietra Lopes': 84, 'Julia Souza': 59, 'Stella Melo': 61, 'Luiz Miguel Oliveira': 74, 'Heitor da Mata': 1, 'Samuel da Cunha': 53, 'Lucas Gabriel Vieira': 86, 'Pietro Fogaça': 3, 'Juan das Neves': 45, 'Thales da Paz': 72, 'Alícia Pires': 3, 'Alexia Pinto': 37, 'Heitor Silva': 70, 'Cauê Santos': 24, 'Milena Fernandes': 24, 'Camila da Luz': 89, 'Sra. Alana Alves': 20, 'Lorena Fernandes': 61, 'Maria Vitória Vieira': 19, 'Bryan Caldeira': 49, 'Marcos Vinicius Moura': 43, 'Sra. Lara Jesus': 32, 'Ana Clara Dias': 78, 'Maria Luiza Costela': 76, 'Henrique Farias': 67, 'Elisa da Conceição': 7, 'Ian Duarte': 50, 'Juliana Silva': 81, 'Amanda Freitas': 1, 'Milena Teixeira': 15, 'Calebe Almeida': 59}
+mas deu
+{'Sr. Augusto Dias': '99', 'Srta. Mirella Nascimento': '68', 'Heloísa Souza': '53', 'Eloah Vieira': '79', 'Emanuelly Pereira': '71', 'Luiz Fernando Cunha': '31', 'Dr. Luiz Gustavo Alves': '28', 'Sr. Guilherme Barros': '66', 'Maria Sophia Peixoto': '59', 'Ana Júlia Jesus': '43', 'Benjamin da Paz': '80', 'Stella da Mota': '4', 'Carlos Eduardo da Rosa': '20', 'Júlia da Mata': '7', 'Sr. Yuri Novaes': '58', 'Thomas Alves': '91', 'Sr. Anthony Nascimento': '27', 'João Miguel Moura': '61', 'Stella Vieira': '19', 'Isabella Sales': '9', 'Raquel das Neves': '58', 'Daniela Campos': '92', 'João Miguel Gomes': '1', 'João Lucas Sales': '69', 'Sra. Laura da Mata': '9', 'Luana Novaes': '35', 'Davi Ribeiro': '29', 'Daniela Rezende': '49', 'Dr. João Pedro Santos': '95', 'Letícia Pinto': '3', 'Rafael Souza': '99', 'Stephany Silveira': '1', 'Ana Júlia Moreira': '9', 'Maria da Rocha': '76', 'Ana Júlia da Cunha': '15', 'Mariana da Rocha': '44', 'Dra. Valentina Ferreira': '92', 'Caroline Oliveira': '72', 'Catarina Monteiro': '86', 'Miguel Rocha': '12', 'João Silva': '19', 'Sr. Lucas Gabriel Rocha': '39', 'Helena Alves': '97', 'Rodrigo Mendes': '87', 'Dr. Isaac Peixoto': '60', 'Sra. Mariana Carvalho': '62', 'Dra. Beatriz Moura': '91', 'Thales da Costa': '36', 'Beatriz das Neves': '84', 'Bianca Castro': '3', 'Francisco Silveira': '74', 'Maria Clara Nogueira': '23', 'Luna Melo': '35', 'Luiz Gustavo Silva': '78', 'Alexia Rocha': '49', 'Pietra Lopes': '84', 'Julia Souza': '59', 'Stella Melo': '61', 'Luiz Miguel Oliveira': '74', 'Heitor da Mata': '1', 'Samuel da Cunha': '53', 'Lucas Gabriel Vieira': '86', 'Pietro Fogaça': '3', 'Juan das Neves': '45', 'Thales da Paz': '72', 'Alícia Pires': '3', 'Alexia Pinto': '37', 'Heitor Silva': '70', 'Cauê Santos': '24', 'Milena Fernandes': '24', 'Camila da Luz': '89', 'Sra. Alana Alves': '20', 'Lorena Fernandes': '61', 'Maria Vitória Vieira': '19', 'Bryan Caldeira': '49', 'Marcos Vinicius Moura': '43', 'Sra. Lara Jesus': '32', 'Ana Clara Dias': '78', 'Maria Luiza Costela': '76', 'Henrique Farias': '67', 'Elisa da Conceição': '7', 'Ian Duarte': '50', 'Juliana Silva': '81', 'Amanda Freitas': '1', 'Milena Teixeira': '15', 'Calebe Almeida': '59'}
+
+Teste 10 deu errado!
+O resultado para
+Diego Porto
+49
+Sophie Cardoso
+54
+Cauã da Costa
+88
+Dra. Ana Clara Pires
+41
+Ana Júlia Fogaça
+63
+Lucas Gabriel Campos
+18
+Cauã da Costa
+67
+Rebeca Silva
+83
+Carlos Eduardo Lopes
+26
+Dr. Pedro Correia
+14
+Renan Moreira
+89
+Cauã da Costa
+55
+Srta. Giovanna Castro
+9
+Carlos Eduardo Lopes
+50
+Srta. Stella Jesus
+26
+Benjamin Souza
+24
+Benjamin Souza
+10
+Benjamin Souza
+79
+Alexandre Sales
+75
+Benjamin Jesus
+6
+Diego Azevedo
+92
+Davi Luiz da Paz
+6
+Alexandre Sales
+77
+Cauã da Costa
+39
+Pedro Peixoto
+26
+Heitor Rezende
+31
+Lucas Gabriel Campos
+72
+Stella Duarte
+86
+Renan Moreira
+35
+Miguel Costela
+4
+Laís Almeida
+42
+Rebeca da Mota
+80
+Emilly Lopes
+39
+Antônio Rezende
+83
+Emilly Lopes
+2
+Rebeca da Mota
+33
+Davi Luiz da Paz
+37
+Benjamin Jesus
+53
+Rebeca Silva
+13
+Pedro Peixoto
+97
+Lucas Gabriel Campos
+99
+Stella Duarte
+85
+Carlos Eduardo Lopes
+19
+Emilly Lopes
+8
+Srta. Giovanna Castro
+57
+Miguel Costela
+67
+Carlos Eduardo Lopes
+93
+Emilly Lopes
+16
+Dr. Pedro Correia
+32
+Lucas Gabriel Campos
+6
+Stella Duarte
+100
+Benjamin Souza
+55
+Davi Luiz da Paz
+82
+Rebeca Silva
+37
+Dr. Pedro Correia
+68
+Luiz Fernando da Cunha
+43
+Dr. Pedro Correia
+45
+Rebeca da Mota
+13
+Renan Moreira
+67
+Rebeca da Mota
+85
+Enrico Fogaça
+86
+Srta. Giovanna Castro
+74
+Luiz Fernando da Cunha
+13
+s
+
+deveria ser
+{'Diego Porto': 49, 'Sophie Cardoso': 54, 'Cauã da Costa': 88, 'Dra. Ana Clara Pires': 41, 'Ana Júlia Fogaça': 63, 'Lucas Gabriel Campos': 18, 'Rebeca Silva': 83, 'Carlos Eduardo Lopes': 26, 'Dr. Pedro Correia': 14, 'Renan Moreira': 89, 'Srta. Giovanna Castro': 9, 'Srta. Stella Jesus': 26, 'Benjamin Souza': 24, 'Alexandre Sales': 75, 'Benjamin Jesus': 6, 'Diego Azevedo': 92, 'Davi Luiz da Paz': 6, 'Pedro Peixoto': 26, 'Heitor Rezende': 31, 'Stella Duarte': 86, 'Miguel Costela': 4, 'Laís Almeida': 42, 'Rebeca da Mota': 80, 'Emilly Lopes': 39, 'Antônio Rezende': 83, 'Luiz Fernando da Cunha': 43, 'Enrico Fogaça': 86}
+mas deu
+{'Diego Porto': '49', 'Sophie Cardoso': '54', 'Cauã da Costa': '88', 'Dra. Ana Clara Pires': '41', 'Ana Júlia Fogaça': '63', 'Lucas Gabriel Campos': '18', 'Rebeca Silva': '83', 'Carlos Eduardo Lopes': '26', 'Dr. Pedro Correia': '14', 'Renan Moreira': '89', 'Srta. Giovanna Castro': '9', 'Srta. Stella Jesus': '26', 'Benjamin Souza': '24', 'Alexandre Sales': '75', 'Benjamin Jesus': '6', 'Diego Azevedo': '92', 'Davi Luiz da Paz': '6', 'Pedro Peixoto': '26', 'Heitor Rezende': '31', 'Stella Duarte': '86', 'Miguel Costela': '4', 'Laís Almeida': '42', 'Rebeca da Mota': '80', 'Emilly Lopes': '39', 'Antônio Rezende': '83', 'Luiz Fernando da Cunha': '43', 'Enrico Fogaça': '86'}
+
+Teste 11 deu errado!
+Teste 12 deu errado!
+Teste 13 deu errado!
+Teste 14 deu errado!
+Teste 15 deu errado!
+Teste 16 deu errado!
+Teste 17 deu errado!
+Teste 18 deu errado!
+Teste 19 deu errado!
+Teste 20 deu errado!
+Nota exercicio 3: 0.0
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 4: 2.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 5: 2.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1 deu errado!
+b'Tempo limite (100 s) excedido'
+Teste 1 deu errado!
+São Carlos-SP
+
+Tempo limite (100 s) excedido
+Teste 2 deu errado!
+Entrada:
+São Paulo-SP
+
+Resposta não encontrada ou fora do formato:
+[]
+Teste 3 deu errado!
+Entrada:
+Campinas-SP
+
+Resposta não encontrada ou fora do formato:
+[]
+Teste 4 deu errado!
+Entrada:
+Peixe-Boi-PA
+
+Resposta não encontrada ou fora do formato:
+[]
+Teste 5 deu errado!
+Entrada:
+Itapissuma-PE
+Resposta não encontrada ou fora do formato:
+[]
+Teste 6 deu errado!
+Entrada:
+Lábrea-AM
+Resposta não encontrada ou fora do formato:
+[]
+Teste 7 deu errado!
+Entrada:
+Flor Da Serra Do Sul-PR
+Resposta não encontrada ou fora do formato:
+[]
+Teste 8 deu errado!
+Entrada:
+Manfrinópolis-PR
+Resposta não encontrada ou fora do formato:
+[]
+Teste 9 deu errado!
+Entrada:
+Santa Lúcia-SP
+Resposta não encontrada ou fora do formato:
+[]
+Teste 10 deu errado!
+Entrada:
+Itajuípe-BA
+Resposta não encontrada ou fora do formato:
+[]
+Teste 11 deu errado!
+Entrada:
+Padre Bernardo-DF
+Resposta não encontrada ou fora do formato:
+[]
+Teste 12 deu errado!
+Entrada:
+Naque-MG
+Resposta não encontrada ou fora do formato:
+[]
+Teste 13 deu errado!
+Entrada:
+Flexeiras-AL
+Resposta não encontrada ou fora do formato:
+[]
+Teste 14 deu errado!
+Entrada:
+Cupira-PE
+Resposta não encontrada ou fora do formato:
+[]
+Teste 15 deu errado!
+Entrada:
+Porto Rico Do Maranhão-MA
+Resposta não encontrada ou fora do formato:
+[]
+Teste 16 deu errado!
+Entrada:
+Porangaba-SP
+Resposta não encontrada ou fora do formato:
+[]
+Teste 17 deu errado!
+Entrada:
+Pitangui-MG
+Resposta não encontrada ou fora do formato:
+[]
+Teste 18 deu errado!
+Entrada:
+Antônio Cardoso-BA
+Resposta não encontrada ou fora do formato:
+[]
+Teste 19 deu errado!
+Entrada:
+Silvânia-GO
+Resposta não encontrada ou fora do formato:
+[]
+Teste 20 deu errado!
+Entrada:
+Manari-PE
+Resposta não encontrada ou fora do formato:
+[]
+Nota exercicio 6: 0.0
+Nota total: 6.0
+{"scores": {"ex1": 1.0, "ex2": 1.0, "ex3": 0.0, "ex4": 2.0, "ex5": 2.0, "ex6": 0.0}}
