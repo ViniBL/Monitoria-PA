@@ -5,6 +5,7 @@ lista = cidade.split('-')
 cidade = lista[0]
 estado = lista[1]
 
+cidade = cidade.upper()
 
 for i in range(11,99):
     url = 'https://brasilapi.com.br/api/ddd/v1/'+str(i)
