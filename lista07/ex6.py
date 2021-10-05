@@ -2,8 +2,13 @@ import requests
 
 cidade = input()
 lista = cidade.split('-')
-cidade = lista[0]
-estado = lista[1]
+if(len(lista)>2):
+    cidade = lista[0]+"-"+lista[1]
+    estado = lista[2]
+else:
+    cidade = lista[0]
+    estado = lista[1]
+
 
 cidade = cidade.upper()
 
