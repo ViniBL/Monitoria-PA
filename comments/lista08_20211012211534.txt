@@ -1,0 +1,283 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-10-26T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 24 deu errado!
+Teste 31 deu errado!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Exercício 2...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 2: 1.0
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 1.0
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 4: 1.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 5: 1.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 6: 1.0
+Procurando exercício 7...
+Exercício 7...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 7: 1.0
+Procurando exercício 8...
+Exercício 8...
+Teste 1: correto!
+Teste 2 deu errado!
+(100, [1])
+list index out of range
+Teste 3: correto!
+Teste 4 deu errado!
+O resultado para
+(39, [-1, 5, 8, -3, -1, -6, -9, 6, 8, -2, 4, 1, 7, -9, 2, -8, -4, -5, -3, -3, 4, 10, 7, -10, 5, -7, 8, -3, 10, 10, 10, 4, 6, 0, -2, -5, 0, -7, 8, -4])
+deveria ser
+-4
+mas deu
+132194859
+Teste 5 deu errado!
+O resultado para
+(45, [-10, -1, -2, 5, 3, -8, 0, 9, -6, 3, 3, 1, -2, 0, -2, 5, 5, -9, 1, -1, -5, -4, -6, -9, -5, -10, 8, 3, 6, 9, -2, 9, 4, -1, 8, -7, 6, -2, -10, -3, 2, -5, 3, 7, 7, 4])
+deveria ser
+4
+mas deu
+-12050440433
+Teste 6 deu errado!
+O resultado para
+(19, [0, -5, 0, -9, 7, -10, -7, -5, -5, 2, 9, 9, 7, 1, 1, -9, 9, 6, 9, -5])
+deveria ser
+-5
+mas deu
+-12920
+Teste 7 deu errado!
+O resultado para
+(86, [8, 6, 3, 1, 10, -10, -5, -6, -2, 6, -4, -3, 7, 1, 9, -8, -1, -5, 10, 0, 0, -7, 7, 10, -7, 6, 2, 7, 3, 2, -7, 3, -3, -5, 8, -2, -5, -8, 6, -10, 0, 8, -9, -3, -4, 2, 9, 7, -7, 3, 4, 7, 9, 3, 10, 4, 10, -10, 0, 7, 2, -10, -3, 3, 5, 8, -4, 0, -6, 8, 5, -10, 9, -7, -7, -4, -10, -2, 8, -10, -2, -4, 10, -4, 9])
+deveria ser
+94
+mas deu
+4919742107286652894
+Teste 8 deu errado!
+O resultado para
+(71, [-10, 3, 1, -4, 8, 8, 2, -8, 1, -6, -8, -2, -4, -1, -4, -10, 5, -2, -3, -9, 2, 1, -9, -4, 8, -9, 10, -3, 7, 7, 3, -3, 8, -6, -4, 4, -8, -10, 1, 7, -2, -9, 1, 8, -9, -8, 7, 0, -10, -7, -10, -7, 0, -3, 6, -3, 7, -4, -4, 7, -3, 7, 8, 9, 9, 1, 0, 10, -8, 9, -2, 7, -8])
+deveria ser
+7
+mas deu
+-2509437739573885
+Teste 9 deu errado!
+O resultado para
+(37, [3, 2, 4, -6, 8, -10, -6, 10, -9, -4, -8, -9, 3, 9, 9, 9, 9, 8, -4, -10, -9, 0, 4, 3, -7, -7, -1, 5, -7, -2, 2, 9, -3, 3, -4, -1, 10, -6])
+deveria ser
+-6
+mas deu
+102334155
+Teste 10 deu errado!
+O resultado para
+(64, [-3, -3, 2, 4, -6, 10, 4, -8, 3, 3, -10, -3, 3, 8, 4, 1, -9, -7, -9, 3, 6, 8, -6, 6, -2, 2, 10, 8, 5, 9, -4, 10, 5, -9, 0, -10, 4, 5, 0, -3, 4, -7, 7, 2, -3, -6, 7, -4, -2, -10, 3, -8, 4, 10, 7, -4, -7, -7, -6, 7, -9, -5, 5])
+deveria ser
+21
+mas deu
+-51503040532695
+Teste 11 deu errado!
+Teste 12 deu errado!
+Teste 13 deu errado!
+Teste 14 deu errado!
+Teste 15 deu errado!
+Teste 16 deu errado!
+Teste 17 deu errado!
+Teste 18 deu errado!
+Teste 19 deu errado!
+Teste 20 deu errado!
+Nota exercicio 8: 0.1
+Procurando exercício 9...
+Exercício 9...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 9: 1.0
+Procurando exercício 10...
+Exercício 10...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 10: 1.0
+Procurando exercício 11...
+Procurando exercício 12...
+Nota total: 9.1
+{"scores": {"ex1": 1.0, "ex2": 1.0, "ex3": 1.0, "ex4": 1.0, "ex5": 1.0, "ex6": 1.0, "ex7": 1.0, "ex8": 0.1, "ex9": 1.0, "ex10": 1.0, "ex11": 0, "ex12": 0}}
