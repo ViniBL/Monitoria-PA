@@ -10,5 +10,5 @@ def rec(n,ini):
         i += 1
     return anterior
     
-print(rec(5,[1,1]))
     
+
