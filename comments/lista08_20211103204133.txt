@@ -1,0 +1,554 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-10-26T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21 deu errado!
+Entrada:
+('',)
+!!!extra!!!
+Teste 22 deu errado!
+Entrada:
+([],)
+!!!extra!!!
+Teste 23 deu errado!
+Entrada:
+([],)
+!!!extra!!!
+Teste 24 deu errado!
+Entrada:
+(b'',)
+!!!extra!!!
+Teste 25 deu errado!
+Entrada:
+([],)
+!!!extra!!!
+Teste 26 deu errado!
+Entrada:
+('',)
+!!!extra!!!
+Teste 27 deu errado!
+O resultado para
+(0.0,)
+deveria ser
+None
+mas deu
+True
+Teste 28 deu errado!
+Entrada:
+(b'',)
+!!!extra!!!
+Teste 29 deu errado!
+Entrada:
+({},)
+!!!extra!!!
+Teste 30 deu errado!
+Entrada:
+(set(),)
+!!!extra!!!
+Teste 31 deu errado!
+Entrada:
+('',)
+!!!extra!!!
+Teste 32 deu errado!
+Entrada:
+([],)
+!!!extra!!!
+Teste 33 deu errado!
+O resultado para
+(0.0,)
+deveria ser
+None
+mas deu
+True
+Teste 34 deu errado!
+Entrada:
+(b'',)
+!!!extra!!!
+Teste 35 deu errado!
+O resultado para
+(0.0,)
+deveria ser
+None
+mas deu
+True
+Teste 36 deu errado!
+Entrada:
+([],)
+!!!extra!!!
+Teste 37 deu errado!
+Entrada:
+('',)
+!!!extra!!!
+Teste 38 deu errado!
+Entrada:
+(set(),)
+!!!extra!!!
+Teste 39 deu errado!
+Entrada:
+(set(),)
+!!!extra!!!
+Teste 40 deu errado!
+Entrada:
+({},)
+!!!extra!!!
+Nota exercicio 1: 1.0
+Procurando exercício 2...
+Exercício 2...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Teste 21 deu errado!
+Entrada:
+({386, 3, -764, 516, 258, -760, 908, 398, 399, 404, 789, -235, 917, -743, -610, -352, -992, 672, 419, 932, 803, 550, 935, 298, 299, -595, -592, -208, -591, 183, 185, 954, -68, 60, -701, -699, 72, 713, -691, 591, 721, -682, -547, -802, -417, -545, 734, 222, 350, -923, -793, 488, 103, -534, -661, -914, 243, -524, -137, -902, -4, -2}, 0.26800567314884494)
+!!!extra!!!
+Teste 22 deu errado!
+Entrada:
+(120, [261, -434, -654, 130, -327, -31, -732, 976, -155, 456, -826, -779, -123, 892, 649, -33, 306, -341, 86, -535, -814, -718, -291, -295, -783, 906, -509, -888, 149, 720, 197, 370, 246, -697, -76, 223, -496, 523, -154, -506, -575, 597, 214, -194, -45, -970, -793, 268, 641, -804, 806, -524, 450, -498, -988, -308, 872, -870, -525])
+!!!extra!!!
+Teste 23 deu errado!
+Entrada:
+({4, -508, 6, 523, 535, -485, -459, -968, 56, -449, 69, -954, -950, 77, 590, 79, 92, 97, -921, 623, -399, -901, 640, 647, -880, -879, -366, 154, 682, 171, -852, -851, 174, -337, -339, -329, 207, -816, -808, 731, 732, 740, 741, 748, 237, -778, -774, -257, -256, -250, -761, 266, 785, 794, 293, 316, -693, 868, 887, 889, -135, -130, -639, 898, 899, -125, -631, 906, -114, 911, 399, 401, 403, 413, -607, -95, -604, 951, -584, -581, 444, 446, 452, -569, -566, 470, -553, 985, -38, 993, -529, 500}, 378)
+!!!extra!!!
+Teste 24 deu errado!
+Entrada:
+([572, 114, 394, -768, -926, 114, -332, 157, 445, 417, 158, -915, -989, 95, 233, -586, -687, -217, 602, -324, -725, 82, 442, 87, 746, -490, 710, -15, 694, -183, -835, 875, 406, -27, 892, 168, 181, 117, -817, 449, -895, -284, -183, 564, 120, 15, 409, 570, 728, 487, 342, -765, 879, 626, -484, -612, 515], 650)
+!!!extra!!!
+Teste 25 deu errado!
+Entrada:
+(0.4483555192787325, 'Nam aliquam cum sit itaque eaque nihil aspernatur. Dolorum ut animi reiciendis reprehenderit minima. Dolores beatae odio sint.')
+!!!extra!!!
+Teste 26 deu errado!
+Entrada:
+(-391, 'Esse adipisci ipsam earum itaque et. Aut iure aperiam rerum.\nNostrum eum corporis provident ipsum nostrum quo. Assumenda quis a libero.')
+!!!extra!!!
+Teste 27 deu errado!
+Entrada:
+(-739, 'Sed fugiat quisquam corporis est dolores sit. Minima beatae dolores eos sapiente. Doloribus exercitationem laboriosam possimus.')
+!!!extra!!!
+Teste 28 deu errado!
+Entrada:
+('Necessitatibus atque expedita adipisci. In assumenda facere neque impedit commodi laudantium.', 'Explicabo nemo aliquam rerum voluptas in id. Tempora in dolores optio.\nDoloribus magni eum possimus. Quas earum velit optio quidem reiciendis.')
+!!!extra!!!
+Teste 29 deu errado!
+Entrada:
+([384, 334, -791, -213, -746, 813, 140, 791, 998, 448, -808, 162, 998, -147, 899, -894, 298, 561, -709, 999, -571, 382, 816, -370, 811, 495, 496, -573, -8, 835, 524, 284, -65, 127, -403, -157, 394, -403, 478, -832, 138, 270, 772, 771, 661, -950, -411, -549, -815, 326, -1000, 56, 319, -983, 554, 298, -549, -54, 841, -699, -150, 577, 78, -170, -219, -242, 380, 288, 564, -56, 734, -134, -304, 94, 815, 879, -711, 148, -16, 520, -125, 611, 251, -841, 396, 183, -639, -898, -755, 939, -352, -5, 167, 971, -922, 439, 57], 623)
+!!!extra!!!
+Teste 30 deu errado!
+Entrada:
+([-322, -21, 414, 327, 769, 264, -197, -229, 423, 12, 16, -802, -291, -806, 79, -179, 532, -603, -757, 720, 807, -712, -201, 859, 288, 77, 362, 417, 275, 226, 313, 386, -976, 249, 504, -529, 71, 364, -208, 47, 604, -834, 389, 7, 500, 21, 442, -254, -116, 323, -207, 301, -22, 578, -495, -224, -958, 301, -347, -893, -167, 769, 773, 488, -328, 244, -692, -194, -381, 428, -863, -472, 846, -674, 490, 33, -733, -335, 737, 638, -463, 824, -915, -407, 454, -129, 300, -489, 566, -585, 130, 950, 26, -568, -627, -72, -897, -346], -504)
+!!!extra!!!
+Teste 31 deu errado!
+Entrada:
+('Saepe at maxime ducimus.\nQui temporibus tempore quia dolores architecto perferendis. Quae temporibus aliquam repellendus. Suscipit unde doloremque.', 'Doloribus itaque quisquam in voluptatem vero ut quia.\nImpedit possimus aliquam ea cumque vero aperiam. Adipisci dignissimos magnam omnis exercitationem. Vero dolorum saepe est.')
+!!!extra!!!
+Teste 32 deu errado!
+Entrada:
+(0.3739953362026429, {0, 136, -887, -374, 10, 526, 784, -239, -237, -493, -490, 281, 28, -483, 158, -475, -473, 41, 682, -341, 945, -206, -589, 949, 699, -578, -833, 65, 578, 74, 715, -948, 331, 846, 465, 850, -428, 853, -554, 600, -678, -162, -801, 351, 376, -276, -144, -400, 117, -1, 503, 760, -902, -258, -257})
+!!!extra!!!
+Teste 33 deu errado!
+Entrada:
+({557, 52, -967, -942, 88, 605, 621, 110, 636, -386, 639, -380, 645, 646, 140, -883, -875, 664, 671, -841, -840, -325, 703, 709, -815, 723, -808, -292, 221, 734, -803, 255, -763, -760, -756, -751, -749, -744, -231, -737, 800, -732, -219, -211, 816, 305, 819, -716, -195, -683, -169, 345, -674, -156, 869, 357, 366, -656, 882, -653, 891, 897, 390, 392, 907, 395, -627, -112, 403, 411, 431, -579, -63, -60, 452, -568, 991, -32, 485, 492, -12, -520}, 817)
+!!!extra!!!
+Teste 34 deu errado!
+Entrada:
+('A voluptas corporis. Vel corrupti veniam saepe quod ab doloribus ad.\nTempore rerum perspiciatis recusandae ullam numquam minima. Porro eligendi saepe cum tempore hic tempora. Consectetur odio esse.', 'Debitis alias velit dolore commodi vel. Molestiae commodi officiis eius.\nDolore beatae magnam aspernatur nemo voluptas pariatur pariatur. Sapiente laudantium iusto maxime totam delectus vitae.')
+!!!extra!!!
+Teste 35 deu errado!
+Entrada:
+('Modi quam soluta minima nostrum sequi excepturi. Illum possimus accusamus occaecati quasi. Tenetur hic architecto exercitationem voluptate.', 489)
+!!!extra!!!
+Teste 36 deu errado!
+Entrada:
+('Culpa nam consequuntur. Totam voluptatibus corrupti asperiores praesentium repellat.', -361)
+!!!extra!!!
+Teste 37 deu errado!
+Entrada:
+(0.14746795565394755, {515, 521, 524, -498, 15, 530, 542, 33, -463, -456, 576, -444, 78, -432, -942, 93, 608, 620, 112, 124, -899, 646, 138, -879, -872, 667, 158, -346, 691, -839, -324, 705, 709, 202, 715, -307, -815, 721, 727, -275, -786, 758, -263, -775, 770, -765, 776, -247, 777, 273, 276, 280, 799, 811, -721, -713, -191, 321, 838, 328, -692, -159, 867, -657, 373, -129, 895, 391, -631, -625, -623, 403, 915, -106, 925, 926, 955, -68, -575, 456, 457, 978, -557, 987, -34, -546, 996, -537, 489, -13, 501})
+!!!extra!!!
+Teste 38 deu errado!
+Entrada:
+('Quia debitis animi odio illum. Tempore ea dolor ratione.\nDolorem tempore laboriosam beatae tempore officiis explicabo. Numquam culpa recusandae quia sed officia qui. Porro nesciunt perspiciatis ipsa.', 386)
+!!!extra!!!
+Teste 39 deu errado!
+Entrada:
+(575, 'Eius cum sint eligendi repudiandae veritatis. Eum iusto porro voluptatem nobis odio tenetur.\nAtque assumenda consectetur ut laboriosam. Aperiam fugit facilis architecto voluptatibus nemo.')
+!!!extra!!!
+Teste 40 deu errado!
+Entrada:
+([-848, -515, -650, 315, 421, -172, -407, 444, -693, 286, -117, -48, -403, -396, -47, 715, 47, -263, 994, 192, -450, 121, 224, -459, -499, 401, 518, 105, 145, -455, -149, -150, -922, 654, -115, -572, -948, -943, 334, -406, 440, 316, -953, -401, 547, -318, -954, 299, -709, -852, 365, -914, -473, -1000, -316, 874, -772, 900, 167, -445, -78, -599, 944, 959, -546, -601, -362, 367, -737, 761, -973, -675, -7, 504, 679, -894, 279, 210, -486, 658, 140, -624, -633], -441)
+!!!extra!!!
+Nota exercicio 2: 1.0
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 1.0
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 4: 1.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 5: 1.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 6: 1.0
+Procurando exercício 7...
+Exercício 7...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 7: 1.0
+Procurando exercício 8...
+Exercício 8...
+Teste 1: correto!
+Teste 2 deu errado!
+(100, [1])
+list index out of range
+Teste 3: correto!
+Teste 4 deu errado!
+O resultado para
+(36, [9, -1, -9, -8, 6, 1, 8, 7, 5, 9, 6, -7, 4, 10, 7, 9, -5, 1, -7, -1, 3, 4, 2, 6, 9, 7, 9, 8, 6, -4, -8, -6, 2, 6, -7, 8, -9, 8])
+deveria ser
+-9
+mas deu
+125145703
+Teste 5 deu errado!
+O resultado para
+(99, [-7, 3, 9, 5, 0, 6, 1, -5, 8, -3, -7, 1, 5, 1, 3, 8, 8, -7, -1, 8, 6, 0, -6, -3, -1, -9, -6, -8, 3, 7, 3, 2, -8, -3, -4, -10, 0, -1, 0, -4, -3, 7, -2, 1, -7, -10, -3, 10, -8, -9, -3, -5, 4, 5, 3, -1, -2, -3, -9, 2, -3, 2, 3, -6, -8, 5, -4, -1, -10, 9, 10, 10, -5, 0, 7, 2, -1, -10, -9, 8, -3, -1, -9, -5, 5, 4, -5, -8, -2, 6, 7, -8, -6, -7, 7, -8, -10, -3, -4, 7])
+deveria ser
+7
+mas deu
+-1126555413807765945035
+Teste 6 deu errado!
+O resultado para
+(52, [-9, 8, 3, 8, 8, 7, 7, -7, 1, 7, -1, -10, 4, -10, 3, -7, 6, -4, -9, 5, 5, 1, -6, -10, -4, 7, 7, 4, 6, 9, 3, 0, -2, 10, -3, -10, -6, -6, -4, -1, -9, -3, 10, -6, -3, -6, 0, 4, -10, -1, 8])
+deveria ser
+-3
+mas deu
+-133641432299
+Teste 7 deu errado!
+O resultado para
+(45, [8, 5, 9, 4, 6, -10, 0, -4, -10, -4, 9, 1, -3, -6, -5, 6, -5, 0, 8, -2, -10, -10, 8, 2, 3, 1, 3, -3, -1, 6, 4, 7, -5, -6, -4, -3, 1, 3, -6, 0, 8, -8, 2, 9, -6])
+deveria ser
+2
+mas deu
+12586269025
+Teste 8 deu errado!
+O resultado para
+(99, [-4, 4, 1, 9, 10, 5, -3, -2, -10, 6, 10, 9, 1, -3, 0, -10, -5, -3, 7, 4, 4, 9, -1, 2, -4, -1, 3, 3, 9, 7, 1, 4, -8, -8, 3, -6, -3, -3, 2, -6, 8, -4, -10, 6, 5, 3, -10, 10, -3, 10, -6, 5, -6, -1, 0, 3, 7, -2, 3, -2, -10, 5, -4, 9, 10, 6, -7, 5, -8, -4, -4, -8, -3, -9, -7, 0, 1, 9, -8, 6, -3, -4, 3, -9, -10, -4, 9, -9, -10, -8, 7, -3, -6, -4, -8, -6, -8, -2, 3])
+deveria ser
+-44
+mas deu
+-334484573959393691908
+Teste 9 deu errado!
+O resultado para
+(23, [5, 5, -5, -6, -8, 2, -10, 3, -4, -2, -9, -9, 3, 4, 8, -8, 0, -4, -1, 7, 5, 2])
+deveria ser
+-49
+mas deu
+231840
+Teste 10 deu errado!
+O resultado para
+(15, [9, 6, -1, 8, -1, -7, -1, -1, -4, -5, 7, -8, 8, 5, 6])
+deveria ser
+21
+mas deu
+7752
+Teste 11 deu errado!
+O resultado para
+(20, [-3, -9, 5, 3, 6, 6, 5, -4, 5, -9, -6, -4, -9, -3, -2, 8, -6, 3, -3, -2])
+deveria ser
+-19
+mas deu
+-57924
+Teste 12 deu errado!
+O resultado para
+(94, [4, 1, -10, -10, 7, 8, -1, 4, -1, 4, 1, 6, 1, -7, 8, 5, -6, -9, -8, 8, 10, -4, -10, -8, 6, 1, -6, -6, -2, -5, 1, -10, -2, -9, 4, 6, 10, -5, -5, 1, -3, 4, 8, -1, -5, -5, -10, -7, -3, 10, 2, -9, 4, 9, -8, 6, 4, -7, 4, 6, 7, -3, 5, -9, -7, 0, -2, 3, -7, 6, 7, -2, 3, 7, -6, -5, -9, 3, -5, -7, -3, 4, 4, -1, 7, -7, 7, 0, -3, 1, 7, 6, -10, 2, -4, 1])
+deveria ser
+-4
+mas deu
+91161257294594769406
+Teste 13 deu errado!
+O resultado para
+(74, [-4, 0, 0, 2, -5, -1, 5, -7, -7, -1, 10, 6, -9, 6, 1, -5, -7, 7, 6, -6, 8, -10, -2, 4, 8, 10, 10, -5, 3, -1, -10, 2, 10, 4, 3, 2, 3, -3, 0, 2, 6, 2, 4, 10, -4, 6, 10, 2, -3, 7, -7, -5, -8, -5, 10, -1, -8, 9, 4, 8, -7, 2, 5, 3, 5, 2, -7, -3, 1, 7, -6, 10, -1, -6])
+deveria ser
+71
+mas deu
+-5219878179714628
+Teste 14 deu errado!
+O resultado para
+(45, [4, 2, -1, -10, -2, 5, 0, -6, 2, 4, -2, 1, -1, -10, -3, 9, 6, 2, -2, 6, 6, -6, -2, 5, 8, -5, 8, -9, 1, 4, 4, -1, 3, 1, -8, 3, 6, 1, -1, -2, 6, -10, -7, -1])
+deveria ser
+12
+mas deu
+5942430146
+Teste 15 deu errado!
+O resultado para
+(64, [-4, 9, -1, -5, 10, 1, 4, -8, -2, 0, 0, 3, -9, -1, 10, -8, -4, 7, 3, 0, -5, 7, -10, -6, 5, -6, 9, 2, -1, 9, -7, -8, -8, 0, -8, -6, -7, 0, -4, 2, -10, -2, -8, -5, 8, -1, 5, 0, 1, 8, -9, 8, 2, 2, 8, -8, -9, 9, 7, -4, -1, -4, -2, 3, -4, -3])
+deveria ser
+-4
+mas deu
+16576393447686
+Teste 16 deu errado!
+O resultado para
+(61, [1, -5, -2, -5, -5, 0, -9, -1, 10, 0, 7, -1, -6, -10, 3, -5, -6, 4, -9, -4, 5, 9, 0, 1, 0, 9, 3, -5, -7, -4, 1, -3, -1, -7, -6, -9, -10, -3, -1, 4, -6, -1, -8, -3, 5, 0, 0, -5, 7, 5, -8, -7, -7, -7, 1, 1, 8, 6, -3, -5, -10])
+deveria ser
+-104
+mas deu
+-5235312997639
+Teste 17 deu errado!
+O resultado para
+(86, [-10, -6, 7, -4, -2, 5, 5, 6, 10, -9, 10, 6, 9, -9, 7, 3, 7, 3, -3, 9, 10, 9, 7, 2, -7, 4, 1, -6, 9, -1, 6, -10, -10, 8, 3, -10, -4, -3, 10, -8, -9, 5, -10, 4, 5, 1, -8, -4, -7, -3, 7, 3, -10, -3, 5, -9, 4, -7, 8, -7, -7, 1, 1, 5, 0, -10, -7, 8, 8, 2, -8, -8, -10, 4, 5, -1, 0, -1, -5, 10, 9, -9, -3, -2, 2, 4, 3, 9])
+deveria ser
+3
+mas deu
+-5760134388741632240
+Teste 18 deu errado!
+O resultado para
+(62, [9, 5, -4, -10, -10, 9, -10, 4, 0, -8, -4, -2, -9, 8, -3, -7, -3, 5, 1, 1, -8, 0, 1, 7, -5, 3, 7, -2, 0, 3, 2, -5, 6, -10, -4, -9, 0, 5, 10, 9, -3, 4, 0, -1, -6, -7, 6, 4, -2, -6, 2, -10, 3, 5, 8, 8, -2, -2, -7, 1, -5, -9, 4, -1])
+deveria ser
+4
+mas deu
+48998309750734
+Teste 19 deu errado!
+O resultado para
+(41, [6, 9, 0, 4, 3, 2, 7, 1, -8, -4, -6, -6, 3, 9, -3, -4, 2, -3, 3, -8, -8, 5, -7, -2, -7, -8, 1, -4, 4, 6, 8, -5, -2, -2, 8, -4, -4, -1, -10, -6, 0])
+deveria ser
+-31
+mas deu
+1914488241
+Teste 20 deu errado!
+O resultado para
+(57, [-1, 1, 4, -2, 7, -4, 1, 0, -2, 4, -4, 2, 5, 8, 2, -2, -3, 4, 1, -3, -3, 4, 9, -6, 6, 7, -6, -5, -9, 7, 6, -8, -9, 7, -3, -3, -7, -2, 6, -6, -8, 0, 6, 6, -10, 3, 5, 10, 5, -6, 7, 7, 7, 7, -7, 3, 4, 0])
+deveria ser
+0
+mas deu
+-139583862445
+Nota exercicio 8: 0.1
+Procurando exercício 9...
+Exercício 9...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 9: 1.0
+Procurando exercício 10...
+Exercício 10...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 10: 1.0
+Procurando exercício 11...
+Exercício 11...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 11: 1.5
+Procurando exercício 12...
+Exercício 12...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 12: 1.5
+Nota total: 12.1
+{"scores": {"ex1": 1.0, "ex2": 1.0, "ex3": 1.0, "ex4": 1.0, "ex5": 1.0, "ex6": 1.0, "ex7": 1.0, "ex8": 0.1, "ex9": 1.0, "ex10": 1.0, "ex11": 1.5, "ex12": 1.5}}
