@@ -24,4 +24,6 @@ def troca(x,n):
     
     for element in x:
         string += element
+        
+    return int(string,2)
     
