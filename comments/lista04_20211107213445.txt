@@ -1,0 +1,142 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-09-20T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Procurando exercício 2...
+Exercício 2...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3 deu errado!
+O resultado para
+1
+5
+1
+
+deveria ser
+[1,2,3,4,5]
+mas deu
+[0, 1, 2, 3, 4, 5]
+
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9 deu errado!
+O resultado para
+471
+97
+2
+
+deveria ser
+[98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 134, 136, 138, 140, 142, 144, 146, 148, 150, 152, 154, 156, 158, 160, 162, 164, 166, 168, 170, 172, 174, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, 196, 198, 200, 202, 204, 206, 208, 210, 212, 214, 216, 218, 220, 222, 224, 226, 228, 230, 232, 234, 236, 238, 240, 242, 244, 246, 248, 250, 252, 254, 256, 258, 260, 262, 264, 266, 268, 270, 272, 274, 276, 278, 280, 282, 284, 286, 288, 290, 292, 294, 296, 298, 300, 302, 304, 306, 308, 310, 312, 314, 316, 318, 320, 322, 324, 326, 328, 330, 332, 334, 336, 338, 340, 342, 344, 346, 348, 350, 352, 354, 356, 358, 360, 362, 364, 366, 368, 370, 372, 374, 376, 378, 380, 382, 384, 386, 388, 390, 392, 394, 396, 398, 400, 402, 404, 406, 408, 410, 412, 414, 416, 418, 420, 422, 424, 426, 428, 430, 432, 434, 436, 438, 440, 442, 444, 446, 448, 450, 452, 454, 456, 458, 460, 462, 464, 466, 468, 470]
+mas deu
+[96, 98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 134, 136, 138, 140, 142, 144, 146, 148, 150, 152, 154, 156, 158, 160, 162, 164, 166, 168, 170, 172, 174, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, 196, 198, 200, 202, 204, 206, 208, 210, 212, 214, 216, 218, 220, 222, 224, 226, 228, 230, 232, 234, 236, 238, 240, 242, 244, 246, 248, 250, 252, 254, 256, 258, 260, 262, 264, 266, 268, 270, 272, 274, 276, 278, 280, 282, 284, 286, 288, 290, 292, 294, 296, 298, 300, 302, 304, 306, 308, 310, 312, 314, 316, 318, 320, 322, 324, 326, 328, 330, 332, 334, 336, 338, 340, 342, 344, 346, 348, 350, 352, 354, 356, 358, 360, 362, 364, 366, 368, 370, 372, 374, 376, 378, 380, 382, 384, 386, 388, 390, 392, 394, 396, 398, 400, 402, 404, 406, 408, 410, 412, 414, 416, 418, 420, 422, 424, 426, 428, 430, 432, 434, 436, 438, 440, 442, 444, 446, 448, 450, 452, 454, 456, 458, 460, 462, 464, 466, 468, 470]
+
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 2: 0.9
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 2.0
+Procurando exercício 4...
+Procurando exercício 5...
+Exercício 5...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 5: 2.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 6: 1.0
+Procurando exercício 7...
+Exercício 7...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 7: 2.0
+Nota total: 7.9
+{"scores": {"ex1": 0, "ex2": 0.9, "ex3": 2.0, "ex4": 0, "ex5": 2.0, "ex6": 1.0, "ex7": 2.0}}
