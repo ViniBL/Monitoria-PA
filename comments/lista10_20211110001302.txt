@@ -1,0 +1,601 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-11-30T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2 deu errado!
+O resultado para
+(array([[1, 2],
+       [3, 4]]), array([[0, 1]]))
+deveria ser
+Tamanhos inconsistentes
+mas deu
+[[1 3]
+ [3 5]]
+Tamanhos inconsistentes
+Teste 3 deu errado!
+O resultado para
+(array([[1, 2],
+       [3, 4]]),)
+deveria ser
+Aleatorio
+mas deu
+None
+Tamanhos inconsistentes
+Teste 4 deu errado!
+O resultado para
+(array([[0.56905386, 0.93576516, 0.59560894, 0.35249332, 0.02843355,
+        0.44257233, 0.04479238, 0.51635453, 0.37648753, 0.83277451,
+        0.18974109, 0.56457552, 0.77696676],
+       [0.41716648, 0.06362983, 0.3052108 , 0.97950988, 0.64346608,
+        0.8312345 , 0.58208432, 0.22246918, 0.43905725, 0.64014785,
+        0.44953173, 0.59402903, 0.90250365],
+       [0.17885314, 0.7939346 , 0.94614314, 0.34656841, 0.75247288,
+        0.33565464, 0.63615905, 0.76305539, 0.81336547, 0.80773429,
+        0.41053123, 0.74543463, 0.50138065],
+       [0.44058778, 0.99174447, 0.52662767, 0.43143898, 0.88992678,
+        0.96415507, 0.53392512, 0.19831137, 0.58263923, 0.20077563,
+        0.22894376, 0.63391898, 0.6013397 ],
+       [0.15175404, 0.79010452, 0.46926963, 0.86724338, 0.2846795 ,
+        0.75406812, 0.27984164, 0.05800863, 0.08675543, 0.34532212,
+        0.86536563, 0.46319206, 0.5719104 ],
+       [0.21749633, 0.11273385, 0.48224168, 0.88469728, 0.7388275 ,
+        0.94082919, 0.73376174, 0.10114009, 0.48267078, 0.328871  ,
+        0.63820919, 0.45023037, 0.11376712],
+       [0.58038393, 0.92437878, 0.36675954, 0.14171723, 0.75123112,
+        0.07382163, 0.32118439, 0.50507158, 0.92058445, 0.885648  ,
+        0.42750693, 0.84962317, 0.9011335 ],
+       [0.83401902, 0.99322884, 0.28528997, 0.67873079, 0.35155665,
+        0.52954788, 0.83515995, 0.48144339, 0.68448269, 0.67149501,
+        0.11517197, 0.95526778, 0.08476159],
+       [0.04673902, 0.87672099, 0.06222785, 0.66631744, 0.51209866,
+        0.45513139, 0.207016  , 0.6490417 , 0.03062458, 0.7641005 ,
+        0.3738008 , 0.20124068, 0.00350934],
+       [0.52770666, 0.66147486, 0.45236694, 0.19527399, 0.8724155 ,
+        0.66235299, 0.15101194, 0.4345857 , 0.52783365, 0.82843123,
+        0.91098845, 0.65892309, 0.34667606],
+       [0.26401191, 0.78335727, 0.95712804, 0.10289876, 0.36987736,
+        0.65064066, 0.7876298 , 0.54813069, 0.90677449, 0.13245833,
+        0.79953484, 0.08349341, 0.06099313],
+       [0.22374545, 0.80533313, 0.16218844, 0.31419498, 0.56357472,
+        0.31805961, 0.490357  , 0.91245946, 0.38967036, 0.49011459,
+        0.94811733, 0.64664105, 0.76180869],
+       [0.94220027, 0.38054903, 0.78268518, 0.73259843, 0.20080376,
+        0.23730056, 0.42343767, 0.08880804, 0.31348674, 0.77097265,
+        0.11613771, 0.5557095 , 0.1139038 ],
+       [0.70663436, 0.75091103, 0.90156413, 0.21941471, 0.37864405,
+        0.96591887, 0.21426871, 0.6393231 , 0.62684685, 0.34814042,
+        0.21519219, 0.80815934, 0.22924112]]),)
+deveria ser
+Aleatorio
+mas deu
+None
+Teste 5: correto!
+Tamanhos inconsistentes
+Teste 6 deu errado!
+O resultado para
+(array([[0.9926212 , 0.88968665, 0.82137473, 0.06009802, 0.64180287,
+        0.94371629, 0.27347346, 0.23717947, 0.11203893, 0.86314207,
+        0.10939188, 0.83640941, 0.91193603, 0.62579528, 0.03466614,
+        0.27158283],
+       [0.97564244, 0.83651675, 0.06858158, 0.8639932 , 0.52997742,
+        0.94120385, 0.50413238, 0.48260131, 0.53049348, 0.33055443,
+        0.44489874, 0.5166125 , 0.94754788, 0.19436812, 0.77094004,
+        0.02977557],
+       [0.90604007, 0.55114417, 0.14890206, 0.67104375, 0.69865969,
+        0.71516362, 0.93217073, 0.45498143, 0.22010347, 0.61426046,
+        0.35151925, 0.14063149, 0.01239565, 0.80098327, 0.78783761,
+        0.64812621],
+       [0.46949867, 0.05334107, 0.76400687, 0.97729783, 0.29071821,
+        0.62034539, 0.50963836, 0.75877123, 0.42702296, 0.53503485,
+        0.52489984, 0.41172808, 0.85197805, 0.98693779, 0.82676411,
+        0.53813391],
+       [0.135909  , 0.47335534, 0.75573265, 0.06422468, 0.57919393,
+        0.80089278, 0.06090616, 0.09824547, 0.66873631, 0.26688319,
+        0.59856178, 0.75360674, 0.07110242, 0.47327141, 0.63005946,
+        0.69677371],
+       [0.99159369, 0.13540747, 0.49812103, 0.80037975, 0.2172697 ,
+        0.66534827, 0.2156775 , 0.54604497, 0.05025876, 0.21673223,
+        0.57060983, 0.48445264, 0.62870838, 0.11531372, 0.60402761,
+        0.28327231],
+       [0.47026134, 0.12003189, 0.43600969, 0.81549255, 0.48769423,
+        0.03442363, 0.77707782, 0.70776206, 0.19549202, 0.98193266,
+        0.93165343, 0.16099855, 0.93812977, 0.97291944, 0.72141705,
+        0.28422073],
+       [0.97235052, 0.73986247, 0.29397678, 0.80111933, 0.33532156,
+        0.07322708, 0.87738479, 0.9747085 , 0.74089516, 0.69921076,
+        0.02415639, 0.85796883, 0.59326338, 0.76419999, 0.45998844,
+        0.95388709],
+       [0.74776056, 0.53606253, 0.09550685, 0.33256623, 0.33718038,
+        0.22187301, 0.42800168, 0.91745568, 0.84182091, 0.67612673,
+        0.91127143, 0.36269274, 0.36045656, 0.88680865, 0.62635787,
+        0.59553861],
+       [0.82991532, 0.70933806, 0.78560313, 0.02466078, 0.9039702 ,
+        0.7156652 , 0.77365817, 0.74492806, 0.63818014, 0.81359243,
+        0.97417568, 0.66100631, 0.29085969, 0.02092682, 0.11622235,
+        0.03992885],
+       [0.87661514, 0.60220994, 0.95428061, 0.96914421, 0.68424621,
+        0.00609071, 0.89991834, 0.92264529, 0.33268061, 0.39828202,
+        0.06539508, 0.68080965, 0.55560003, 0.32865262, 0.01988595,
+        0.30130999]]),)
+deveria ser
+Aleatorio
+mas deu
+None
+Tamanhos inconsistentes
+Teste 7 deu errado!
+O resultado para
+(array([[0.97416742, 0.8844507 , 0.5813984 , 0.54035592, 0.84370787,
+        0.45030967, 0.03993953],
+       [0.42737801, 0.92733874, 0.60618055, 0.85505309, 0.51955614,
+        0.9794788 , 0.68867818],
+       [0.49864301, 0.95402595, 0.39535177, 0.90751571, 0.19229553,
+        0.02931315, 0.57963831],
+       [0.05091988, 0.939711  , 0.9899543 , 0.65007224, 0.02534544,
+        0.64446741, 0.76048719],
+       [0.76908842, 0.84398251, 0.43450545, 0.68932565, 0.01184479,
+        0.60505124, 0.98784005],
+       [0.23064205, 0.0146525 , 0.21315452, 0.14756407, 0.52094507,
+        0.47806154, 0.69773233],
+       [0.28181682, 0.87125454, 0.13263785, 0.58615024, 0.28759998,
+        0.59029045, 0.4540082 ],
+       [0.26513978, 0.46620392, 0.00387573, 0.47205316, 0.80455457,
+        0.4978486 , 0.26417709],
+       [0.27718396, 0.73216529, 0.02782457, 0.2242162 , 0.79828131,
+        0.28354228, 0.99007682],
+       [0.67244798, 0.68141911, 0.38729806, 0.57209032, 0.61167046,
+        0.93442136, 0.12160638],
+       [0.03115676, 0.47645018, 0.0382897 , 0.50906882, 0.16319261,
+        0.01575727, 0.6293316 ],
+       [0.46613817, 0.35454511, 0.67642959, 0.42091089, 0.17660223,
+        0.77225305, 0.08998041],
+       [0.85469999, 0.19096079, 0.32213139, 0.96355708, 0.82554352,
+        0.36425437, 0.4280461 ],
+       [0.15172311, 0.75381386, 0.79704377, 0.21839797, 0.48739036,
+        0.54270238, 0.76252454],
+       [0.47410999, 0.07536212, 0.66024549, 0.87875769, 0.88793167,
+        0.57210595, 0.71550777],
+       [0.325954  , 0.73041772, 0.87952527, 0.59427288, 0.84653406,
+        0.54482273, 0.0839204 ],
+       [0.12814296, 0.73474149, 0.18871862, 0.59045332, 0.19193094,
+        0.13726855, 0.41077357]]),)
+deveria ser
+Aleatorio
+mas deu
+None
+Teste 8: correto!
+Tamanhos inconsistentes
+Teste 9 deu errado!
+O resultado para
+(array([[0.76540375, 0.75968258, 0.47331576, 0.28583449, 0.82048902,
+        0.46257425],
+       [0.33440731, 0.93568852, 0.67175696, 0.69764204, 0.37095943,
+        0.8247139 ],
+       [0.64553693, 0.98497846, 0.22831537, 0.35838378, 0.15117743,
+        0.27666489],
+       [0.82565917, 0.36482323, 0.80117121, 0.63427275, 0.37919434,
+        0.89704753],
+       [0.80953852, 0.66607045, 0.91918689, 0.89849276, 0.2628512 ,
+        0.5783806 ],
+       [0.40224877, 0.68305892, 0.84657597, 0.00918986, 0.13387773,
+        0.19604756],
+       [0.66158914, 0.24251656, 0.73883789, 0.93141105, 0.46887651,
+        0.54011585],
+       [0.33154082, 0.28567422, 0.3232067 , 0.02462642, 0.5128052 ,
+        0.39102947],
+       [0.0709485 , 0.32697712, 0.1531412 , 0.41733198, 0.31018898,
+        0.18715581],
+       [0.05640959, 0.45893378, 0.50362306, 0.49262882, 0.8633068 ,
+        0.5203899 ]]), array([[0.4947855 , 0.77474627, 0.47549094, 0.6445665 , 0.37892784,
+        0.89848629, 0.46411845, 0.48967389, 0.9561939 , 0.01963108],
+       [0.99183641, 0.23901924, 0.41391771, 0.98794632, 0.08306431,
+        0.82444479, 0.8871308 , 0.18378997, 0.06107182, 0.77355763],
+       [0.70048583, 0.91986898, 0.13337416, 0.75084708, 0.14343091,
+        0.6533223 , 0.91732814, 0.00315676, 0.05843265, 0.22025448],
+       [0.77636494, 0.24109091, 0.05951191, 0.81605799, 0.48306051,
+        0.79063409, 0.97630444, 0.85039569, 0.90655319, 0.86580936],
+       [0.09906994, 0.62807523, 0.99113817, 0.31233831, 0.62380751,
+        0.30863702, 0.76288697, 0.67347818, 0.0149331 , 0.42791197],
+       [0.70634408, 0.33922069, 0.83105283, 0.09222815, 0.37933261,
+        0.12183231, 0.6845184 , 0.76147744, 0.10557083, 0.74864387],
+       [0.63730472, 0.49065134, 0.29590845, 0.31374253, 0.95236015,
+        0.27064314, 0.12994408, 0.95572237, 0.09770611, 0.37856139],
+       [0.51610215, 0.25545473, 0.12860177, 0.91839472, 0.70603081,
+        0.76883139, 0.46556615, 0.80974297, 0.63476525, 0.48482155],
+       [0.93386961, 0.54669307, 0.01495392, 0.98088554, 0.78627544,
+        0.36381812, 0.94233675, 0.16234946, 0.36027811, 0.21233975],
+       [0.7399387 , 0.53964846, 0.59342012, 0.26505962, 0.95647658,
+        0.30290622, 0.31578264, 0.77161217, 0.74857819, 0.64560067],
+       [0.359091  , 0.14802332, 0.84687414, 0.96850193, 0.45894329,
+        0.55249848, 0.77770153, 0.24476293, 0.91775278, 0.42392782]]))
+deveria ser
+Tamanhos inconsistentes
+mas deu
+None
+Tamanhos inconsistentes
+Teste 10 deu errado!
+O resultado para
+(array([[2.41370430e-01, 2.78027886e-01, 1.39693400e-01, 9.76241947e-01,
+        5.36277617e-03, 1.43651057e-01, 2.29568764e-02, 5.94883404e-01,
+        8.89964876e-02, 6.11984410e-01, 3.24186867e-01, 2.29068763e-01,
+        9.92080568e-01, 6.62655021e-01],
+       [6.83817949e-01, 5.49255708e-01, 4.94567679e-01, 3.10483609e-01,
+        4.88577178e-01, 8.53033951e-01, 6.77179603e-01, 6.43905787e-01,
+        8.88335945e-01, 3.16255092e-01, 4.59934230e-01, 5.62287262e-01,
+        5.01719744e-01, 8.63942331e-01],
+       [5.82395122e-01, 8.67546186e-01, 9.11576318e-01, 4.71668620e-01,
+        7.61478499e-01, 9.20567538e-01, 3.68248377e-02, 4.77482271e-02,
+        1.28009521e-01, 3.05300705e-01, 9.79415787e-01, 9.48496420e-02,
+        8.75033033e-01, 5.75556168e-01],
+       [6.69853557e-02, 9.03746306e-01, 9.34760284e-01, 6.30313932e-01,
+        7.06405443e-01, 7.82400359e-01, 8.65553556e-01, 3.05647737e-02,
+        8.99089316e-01, 9.61854135e-01, 4.89331945e-03, 7.36491852e-01,
+        2.54197288e-01, 2.75642242e-01],
+       [8.06320869e-01, 7.48257953e-01, 2.47532284e-02, 1.87556524e-01,
+        9.64439478e-02, 8.62343152e-01, 6.97283608e-01, 4.74343763e-01,
+        8.70487105e-01, 1.65118188e-01, 9.38967582e-01, 7.13119164e-02,
+        5.04468037e-01, 9.81744547e-01],
+       [2.45965229e-01, 9.97365480e-01, 1.25157802e-01, 8.70860814e-01,
+        1.82188448e-01, 6.37804593e-01, 4.67449317e-01, 1.17173088e-01,
+        4.11342334e-01, 1.95509623e-01, 7.85864624e-01, 8.78143035e-01,
+        5.49477968e-01, 8.89431371e-01],
+       [1.81136331e-01, 6.24750614e-01, 7.28801077e-01, 8.37757538e-01,
+        4.47754693e-01, 4.47379179e-01, 1.56172531e-01, 9.72977055e-01,
+        4.92944629e-01, 9.05716884e-02, 5.09440080e-01, 9.29410744e-01,
+        4.17628729e-01, 3.84961090e-01],
+       [5.43627262e-01, 1.79528601e-01, 2.06926517e-01, 2.33643637e-01,
+        8.94085115e-01, 9.30356044e-01, 9.92686329e-01, 9.48497888e-01,
+        9.35969066e-04, 6.23083488e-01, 4.86789435e-01, 6.42532161e-01,
+        1.88751587e-01, 5.81025363e-01],
+       [5.50714894e-01, 2.99125377e-01, 8.29182362e-01, 4.90319465e-01,
+        9.25268333e-01, 5.90669401e-01, 3.96446125e-01, 4.10286000e-01,
+        9.19496329e-01, 3.25533058e-01, 6.74547368e-01, 6.70383031e-01,
+        5.21860768e-01, 2.89100245e-01],
+       [9.25055338e-01, 9.00300798e-01, 2.41429995e-02, 1.14430983e-01,
+        8.92690834e-01, 6.55404664e-01, 3.80113966e-01, 1.13923004e-01,
+        9.54067555e-01, 8.55393100e-01, 8.11441566e-01, 6.17725813e-01,
+        8.81555256e-01, 9.38241959e-01],
+       [4.86912290e-01, 9.66832944e-01, 9.94471435e-01, 6.72837443e-01,
+        5.13914220e-01, 2.19211560e-01, 6.80077963e-01, 6.35400046e-02,
+        6.10308704e-01, 2.82099471e-01, 1.79677027e-01, 3.32265831e-01,
+        8.11880585e-01, 5.82875805e-01],
+       [2.67297913e-01, 7.84024927e-01, 9.35829792e-01, 9.12428752e-01,
+        9.03543778e-02, 1.66039895e-01, 7.34434539e-01, 8.85131723e-01,
+        1.47719137e-01, 2.39921179e-01, 3.03843118e-01, 2.06562982e-01,
+        1.41878793e-01, 4.09648016e-01],
+       [7.02514220e-01, 7.07581984e-01, 4.11110693e-01, 4.92399988e-01,
+        6.02002130e-02, 5.02279583e-01, 2.45120572e-01, 6.85417727e-02,
+        6.37719301e-01, 4.95490838e-01, 1.08357140e-02, 4.39981370e-01,
+        6.00042391e-01, 3.24757989e-01],
+       [8.39030758e-01, 4.28382311e-01, 8.21462399e-01, 3.81185941e-01,
+        8.34451189e-01, 5.14795513e-02, 8.61415453e-01, 8.69926925e-01,
+        8.41545014e-01, 6.70340668e-01, 1.97769945e-01, 1.53730713e-02,
+        6.10917774e-02, 4.45628440e-01],
+       [3.96592497e-01, 4.70831890e-01, 3.17319440e-01, 7.40852325e-01,
+        7.17326368e-03, 2.53133895e-01, 9.04527678e-01, 3.93943785e-02,
+        3.67647407e-01, 9.53921451e-01, 2.20014859e-01, 1.82097873e-01,
+        2.44768901e-02, 3.01253756e-01],
+       [2.06012232e-01, 8.68479351e-01, 4.22890291e-01, 3.61444790e-01,
+        8.53447105e-01, 4.74140861e-01, 1.26604878e-01, 1.15514664e-01,
+        9.47802816e-01, 8.93031634e-01, 2.20895335e-01, 7.63949045e-01,
+        5.49375586e-01, 5.11680439e-01],
+       [5.14027281e-01, 8.84512662e-01, 6.22957819e-01, 6.96027690e-01,
+        8.34723994e-01, 7.49811908e-01, 9.77181876e-01, 6.58296422e-01,
+        2.96011924e-01, 7.89902150e-01, 5.04150405e-02, 6.79893498e-02,
+        5.40654145e-01, 8.85106460e-01],
+       [7.26662534e-01, 5.04411572e-01, 4.68241524e-01, 5.14862656e-01,
+        4.27467718e-02, 4.47414804e-02, 3.38097610e-01, 9.85179649e-01,
+        1.79679574e-01, 6.24634165e-01, 5.34680635e-01, 1.72787312e-01,
+        4.21048163e-01, 3.30796460e-01],
+       [6.46185395e-01, 2.97977403e-01, 5.07285631e-01, 1.69973798e-01,
+        7.89807244e-01, 1.50366563e-01, 9.85195297e-01, 9.90130362e-01,
+        3.83094803e-01, 7.01116255e-01, 8.04606096e-01, 7.52140140e-01,
+        2.40421224e-01, 8.93234440e-01],
+       [5.78378394e-01, 2.88374961e-01, 1.24309208e-01, 3.61508543e-01,
+        4.56690927e-02, 6.90711417e-01, 7.20110220e-01, 5.85707963e-02,
+        4.01221602e-01, 2.67700826e-01, 8.98530816e-01, 8.92404121e-01,
+        4.45728066e-01, 6.39418024e-01]]),)
+deveria ser
+Aleatorio
+mas deu
+None
+Teste 11: correto!
+Tamanhos inconsistentes
+Teste 12 deu errado!
+Tamanhos inconsistentes
+Teste 13 deu errado!
+Tamanhos inconsistentes
+Teste 14 deu errado!
+Tamanhos inconsistentes
+Teste 15 deu errado!
+Teste 16: correto!
+Tamanhos inconsistentes
+Teste 17 deu errado!
+Teste 18: correto!
+Tamanhos inconsistentes
+Teste 19 deu errado!
+Tamanhos inconsistentes
+Teste 20 deu errado!
+Nota exercicio 1: 0.6000000000000001
+Procurando exercício 2...
+Exercício 2...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 2: 1.0
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 2.0
+Procurando exercício 4...
+Exercício 4...
+Teste 1 deu errado!
+O resultado para
+(exp(x)*sin(x), x, pi/2)
+deveria ser
+(exp(x)*sin(x) + exp(x)*cos(x), exp(x)*sin(x)/2 - exp(x)*cos(x)/2, exp(pi/2))
+mas deu
+exp(x)*sin(x) + exp(x)*cos(x), exp(x)*sin(x)/2 - exp(x)*cos(x)/2, exp(pi/2)
+Teste 2 deu errado!
+O resultado para
+(exp(x)*sin(x), x, 0)
+deveria ser
+(exp(x)*sin(x) + exp(x)*cos(x), exp(x)*sin(x)/2 - exp(x)*cos(x)/2, 0)
+mas deu
+exp(x)*sin(x) + exp(x)*cos(x), exp(x)*sin(x)/2 - exp(x)*cos(x)/2, 0
+Teste 3 deu errado!
+O resultado para
+(exp(x)*sin(x), x)
+deveria ser
+(exp(x)*sin(x) + exp(x)*cos(x), exp(x)*sin(x)/2 - exp(x)*cos(x)/2, 0)
+mas deu
+exp(x)*sin(x) + exp(x)*cos(x), exp(x)*sin(x)/2 - exp(x)*cos(x)/2, 0
+Teste 4 deu errado!
+O resultado para
+(tan(x), x)
+deveria ser
+(tan(x)**2 + 1, -log(cos(x)), 0)
+mas deu
+tan(x)**2 + 1, -log(cos(x)), 0
+Teste 5 deu errado!
+O resultado para
+(x, x)
+deveria ser
+(1, x**2/2, 0)
+mas deu
+1, x**2/2, 0
+Teste 6 deu errado!
+O resultado para
+(sqrt(x), x, 0.5458994899144554)
+deveria ser
+(1/(2*sqrt(x)), 2*x**(3/2)/3, 0.738850113293931)
+mas deu
+1/(2*sqrt(x)), 2*x**(3/2)/3, 0.738850113293931
+Teste 7 deu errado!
+O resultado para
+(acoth(x), x)
+deveria ser
+(1/(1 - x**2), x*acoth(x) + log(x + 1) - acoth(x), I*pi/2)
+mas deu
+1/(1 - x**2), x*acoth(x) + log(x + 1) - acoth(x), I*pi/2
+Teste 8 deu errado!
+O resultado para
+(sin(x), x, 0.37004177944284855)
+deveria ser
+(cos(x), -cos(x), 0.361654383766399)
+mas deu
+cos(x), -cos(x), 0.361654383766399
+Teste 9 deu errado!
+O resultado para
+(atanh(x), x)
+deveria ser
+(1/(1 - x**2), x*atanh(x) + log(x + 1) - atanh(x), 0)
+mas deu
+1/(1 - x**2), x*atanh(x) + log(x + 1) - atanh(x), 0
+Teste 10 deu errado!
+O resultado para
+(cot(x), x, 0.3835184127365684)
+deveria ser
+(-cot(x)**2 - 1, log(sin(x)), 2.47832588420164)
+mas deu
+-cot(x)**2 - 1, log(sin(x)), 2.47832588420164
+Nota exercicio 4: 0.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Se nao entender esse erro, peça ajuda ao professor:
+tester.py, 170: TypeError - unsupported operand type(s) for -: 'str' and 'float'
+Teste 10 deu errado!
+O resultado para
+(Ellipse(Point2D(2907682270681/8000000000000, 371789754461567/1000000000000000), 5, 3), Circle(Point2D(161530623377807/250000000000000, 593732229081791/1000000000000000), 5))
+deveria ser
+2.4836190259608144
+mas deu
+
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 5: 1.0
+Procurando exercício 6...
+Procurando exercício 7...
+Exercício 7...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 7: 2.0
+Procurando exercício 8...
+Exercício 8...
+Teste 1: correto!
+Teste 2 deu errado!
+O resultado para
+(b"9A\x7f\xb4\x12\xfe\xd1?\xa2\x1d\x7f\xa9\x1f*\xb5X\xc3\xed~?\x95\x85\xbf\xe1\xf3%\xbf]m\x16q\xc69\xd5\xfb,\x8bkD\xfbt\x979\xb2\xe7\x14\xe6\x8fl\xcc\xbeQYlN\xb1y\xb3>\xebl\xaa\xdc\x8b\x17d\x86\xac\xeby\xb5\xa5\xa7\x11\x06\xe8\xe8\x18\xd2U6\xcd%?\x90\xcd\xd0]\xa3\x1cD\xbfP\xb88\x88\xc7\x8f\x10\x90Oy4\xcb\n\x04\xc5\xcc*\x92d'Q]\x93\x06\x1aP\xf4|\xde\xde\xe3\xae\xf1X/N", 1)
+deveria ser
+INICIOAssumenda reprehenderit impedit omnis quod dicta nesciunt. Repellat veniam nesciunt esse molestiae ipsa at ipsa.00000FINAL
+mas deu
+5wA),j5C滿b9:C{ad,F_\N5/gYF'dRf[*!a݋1.G׾_tW55{3O08Pwqrl#i`KV
+Teste 3 deu errado!
+O resultado para
+(b"4\xe7\xd6^h\nZZ\xba_\xa5\x89p\x0e\x04,\x95\x05.\x0bq\x1e\xc1\xa3\xa3&{\xf7\x86}\x01okM\xd5N+D\xc0?\xd1y\xbd\x93M\xb9)5\xd1\xa3\xabL:u\x0b\xe9\xb5p\xd2%\xce>\xe0M\xa7\x1c\xdc\x94\xfccA\xff\xc3\x8c\x80\xfe\x8c\xe1\xaf\x1d\x04:G\xa5\x89\x9e\x9d\x12S\x8f#rpa\\6\x11<\x01\xae\xc40\xd8\xac\xebe\x9b\x12t\xaf>\x87?\x9d\x12\x8e\x99\xe2\xa7u\x15\xf3\xaa\x16\x05'\xbd\xe2\x18\xf9\xa4\xc4\x01C5\xc4Z\xf8\xacj<g\x87y\xa2^\x19'\xec\xe7\xb1\x9f+\x0b\xc3\xe7\xb5fd\xcb", 1)
+deveria ser
+INICIOQuam iure pariatur enim magni officiis. Repudiandae sequi voluptatibus veritatis ipsum.
+Minima architecto nam. Similique dolore rerum necessitatibus.FINAL
+mas deu
+pmw[c̍LÁ17IəbeKAk*3R"bՙ/cƣ?N	"a&|`-*#T݉pҔuQͺ ixE~dKvަX!PzH+zƄmEE
+Teste 4 deu errado!
+O resultado para
+(b'\x9f\xe9\xa7\x1a\xb2H\xd29\x1d\xcd\x18Hz\xa9`rR)e\x9bN`\x97s\xber- \x1ar\x15\xc4"\xf7\xb0\xca\xbb\xf5\xe9J\xa6\xbc\xd3\x00\xd4\tmyn\x00y\x1a\xdf* \xf6\x7f3\x8e\x83\xa4MH4\x14\xdb\x890E\xaaD\xaa7\xe5\x89\xafO\x8bb\xe3iK\xa1\x81\xac\x9d\xbc\x0fI\xf2*\\>\xe8\x99\x82\xd6\xdeW=:\x83r\x08\x0c\xb0\xd1\xb7N\xb4Y_]"U\xce| \xeb\xa4Dm\xaa!\x89\x1c\xf3\x1c\xc2oI\xd2\xc8p\xd5]\xd3\x84\xe4\xd8\x9e\xbeL:K\xb8\xfd\x1cg\x17\x8ar\xe5r\r?\xc7\x07\x11\'{B\xcd\xf3\x8d\x97\xb5\xba@\xe200,\xb4?\x00Xa$\xd798*\xfd', 1)
+deveria ser
+INICIOAspernatur hic saepe est nostrum consequuntur. Odio ex id harum quibusdam laboriosam maxime. Ut laboriosam deleniti. Doloremque voluptatibus fugiat repellendus aperiam sed.0FINAL
+mas deu
+ KH60\>oYQݧR{3Tn!ZYXnd,պIIڵ*3gc<!LvcO>;S(⢥-#ߨɡkRnjGUǅL꓇k).l֓SHK?HML팙{xH&
+Teste 5 deu errado!
+O resultado para
+(b'\x11xq*\xe2\xd6\x1b\xdf\x8b\xe3\xee?\x1b\xe8U#\x04\xb7\x1b-\x16\xdf\xcf+\xfa\xda\xe9\xdc\x9dc\x7f\xf6\xb9\xb1L~\xb8;\xe6\xdd\x91U\xe62\x0e"\x11\x07J\xe4V\xc2\x07\xeeyJP(\xa4:\xf8\x89&\x02\xb2yT?}A\x9d\xe6\xcf\xf1\x13g\x98\xcb\xb8\xa1v\x06\xd2\x02C\x02\xa2\xab\xb81\xdf\x8bFS\x19Jzn$.\xf5\xef5\xbd\xe7D\xb9\x94\xe2y\x89\x87H\xe6\xce\xad\x90\x97\xe3\xba\xf4\xd5,\xe1Fw\x94\xb2', 1)
+deveria ser
+INICIOMolestiae ducimus dolorum magnam doloribus tempore. Quasi sed assumenda quisquam ab cum odio. Est eum eos ea officia.FINAL
+mas deu
+pφ~ᖾ94VDWtCQ0I;b0fA<2$1|@],O4<tJ)hlr{vxf[.`<TsBJ7
+Teste 6 deu errado!
+O resultado para
+(b"A\x801\xfb\xef\x8b\xb1\xe80\xe0\xa1\x86\xa98\x96\xaa\xf1\xeb(B\xb5\xf4s\x981\xd7,\xb7'\xf8\xc6e\xba\x17\x0e<\xcc\xd7\x83\x17\xd9\xd4\x9dA;\xdaW\xbc(>\xd9\xa9\x8a\x83L\xd1I$\x18\x8c\xc4+\xacy\x1b\xfc\x878\xac\xa1\x87\xe4\x088\x8e\x8dx\xce;\x0eU3\xe8\x8ax\x7f\xa2\xbe\x13y\x1cF\x8c}\xa4\xa3\xeb\x10:W\xff\x14\x0b\xab\xb6\x16\xb9qr\x0f\x96\xa0S\xe4b\x9b\xcd/nsv:~\x0fx\x0f8\xe4\xa3#\x1b\x9c;\xba\x19`", 1)
+deveria ser
+INICIOMagnam aliquam iste accusantium voluptatum numquam. Quas illum accusamus pariatur perferendis. Voluptatibus hic iusto.0000000FINAL
+mas deu
+ye*H wIP+*[D5DyIQJUbdN(,.v3/IGÜfQ?iH"{S'cXˍ;xV
+	ud_Nui)K8{s^c-ƣ҅a :PK8=
+Teste 7 deu errado!
+O resultado para
+(b'\xfb\x0fA\x891\x14\x7f\xc5\xee\x8c=\xe9\xb4\xf4\xcd\x01S\xb4\n\xb6\xe7q$\x08\xdaLI.\xb5N\x97p\xcb\x7f;\xd7\xbb\xbcO\x91\xa2\xfc\xc4V\x89\xe5\x7f\xa5\xc4\x04^sO\xc6\x94\xf8w\xb8\x8a!\x7f\xcbc\x97V\xd8Cx\xc2\x9d\x8em\xca\t\x83\xe4P7\x8c?\x87&\xe4s0cH%\xc2\xaa\xad\x9a\x9d\x8c\xf2\xe4\xe4lz\x02\x8d\xde\xce\xa3D\xb8\xc0\xdf\x19\x94"`\x8a\xdc\xe6\xf6\x9e\x98\x088', 1)
+deveria ser
+INICIONemo explicabo nisi. Ratione nam blanditiis. Magni quas asperiores quo laboriosam suscipit voluptatem.0000000FINAL
+mas deu
+q5XG,^pGtfyl5]YRҰ+C 7ۼ\Xz';cE&g#k6){B&sc8)t
+Teste 8 deu errado!
+O resultado para
+(b'Wj \xbf\x7f\x9a\xd6\x15\x13%\xe5\xc0\xac_\x0e\xf5\xeb\x0e0\xefV\xaf*Q]\xa6\x1e\xd2\xbf\xd5\xff\xac\x1aS\x86F}\xd7DwI\xa4uA\xcaN\xe8\xa3\x03\x98HBkYp\xa8\x06\r\xa9\xf7f\x17\x8fP5<\xc9\xdas\x05\x15\xb8\xd1R<_I\x17\x82E\x0c\x92\xe0\xa7AO\xeaY5\xd9$x\xe3\xd9%.+\x1b\x84\x14X\xe6\xef\x85', 1)
+deveria ser
+INICIONumquam omnis vitae incidunt tempora rerum. Eum officiis facilis eveniet voluptatem dolore.00FINAL
+mas deu
+Uh36E,ԍ,H3b_LeަG2 \AI00؁L;iaXs΄Mqّ;Tb\6̃sv4ȰNP?U
+cO9n
+Teste 9 deu errado!
+O resultado para
+(b'3\xedHM"0\r\x0c\xb9\'\xdf\x8c\xebM\xe7M\xb9\xbbv01Z\xc1\x9f)\xa5d\xb1\xd8\xccl\x99\xf2\xca\xda\xf6\xfc\xf4\xbb\x15\xab\xb0\x1a\xee\xad\xe6S\xfa\xae\xccX]\xb2\x92k\x87\xd3\xbft\x98ER\x93%\x17$\x81\xab\xa7G\xb4\xa7\x94\x7f<x\x80\x1f\xbfP\xfe[4\xda\xa4\x8fy\xd1&\xdaY*\x04\xe6N\x9a\x02(7v\x1e{w-\xe3\xce\xb8\x0e\x06W\xd4:m\xba\xb8l\xd4ilr\x1c\xc6\x82o\x08\xc9\xdcy\x8f\xb8\x92_\xe3\x94\x00\xc6O\xd2\xc4\xf7\x01\xfdmr:H\x93\x17&\xech\x81\xfb\xed\x1a*%\x9bi\x9eu\x96\x0b\x0f\x97\xa6\xb6\xf4\x94\n\x8a\x0e9\x829\xfd\x97\xec4\xc1\xa9P\xd1\xd6\xaa\xc8Nz\xe6\xc3^\xa1WML"\xd5\n(\xe5', 1)
+deveria ser
+INICIONisi ab officia omnis a sapiente nihil assumenda. Saepe dicta soluta a repellendus unde alias qui. Non soluta occaecati odio dolore odit quos. Nisi eos doloribus unde ad ex molestias.000000FINAL
+mas deu
+7^II*U&;;
+AB8G~tt Pj9rrL0!7U%ǠS<:DJ0}nЙQގة='²պ;ϖ9k!uolVآcx׌~X~)5gЕr|GO4ۊH(aHxV'|:]IɆo
+Teste 10 deu errado!
+O resultado para
+(b"6\xad'\xe4\x9e\x9cNh#\xb8\\+\x05`?)n\x7f\x96\x02\xa8\xcf\x0e\x1a\x8c\x8d\x9e\x92Y\xdb*\xa5\xe0\xf7L\xad\xf3\xe1\xf89\xb2:\x0e\xd2`\xc2\xdb\x1b7^\x175TK\xd96\xf4\x83\xd5q\xc5\x9eY\xba\xc4\x02\xa0{\xae\xd5\xa92\xed\\7\xbf\x83e\xbdI\x9f\x11\xe5\xf5\x96vz\xe1\xfcHX\xdd&\xf0\xd8\x18~$m\xef\xdc\xda#\x92\xee\x0e\xcco\x90\x83[\x1b\xbc\xdcI\x9b\xde\xee\xc4e\xf2\x1f\x12\x94\x06\xdd\xab\xc3", 1)
+deveria ser
+INICIOMaxime consectetur optio voluptatem. Voluptas soluta nam aliquid doloremque. Aliquam ut illum sint cumque suscipit.00FINAL
+mas deu
+UM Ze5ZƶgGW})]q֧_ezfjޱ].f,(`[_V
+053FL""ϰ"$FԚ(P٤ hН
+Teste 11 deu errado!
+Teste 12 deu errado!
+Teste 13 deu errado!
+Teste 14 deu errado!
+Teste 15 deu errado!
+Teste 16 deu errado!
+Teste 17 deu errado!
+Teste 18 deu errado!
+Teste 19 deu errado!
+Teste 20 deu errado!
+Nota exercicio 8: 0.1
+Procurando exercício 9...
+Exercício 9...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 9: 1.0
+Nota total: 7.699999999999999
+{"scores": {"ex1": 0.6000000000000001, "ex2": 1.0, "ex3": 2.0, "ex4": 0.0, "ex5": 1.0, "ex6": 0, "ex7": 2.0, "ex8": 0.1, "ex9": 1.0}}
