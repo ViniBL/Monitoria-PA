@@ -1,0 +1,152 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-09-20T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Procurando exercício 2...
+Exercício 2...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3 deu errado!
+O resultado para
+1
+5
+1
+
+deveria ser
+[1,2,3,4,5]
+mas deu
+[0, 1, 2, 3, 4, 5]
+
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11 deu errado!
+O resultado para
+440
+31
+15
+
+deveria ser
+[45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 390, 405, 420, 435]
+mas deu
+[30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210, 225, 240, 255, 270, 285, 300, 315, 330, 345, 360, 375, 390, 405, 420, 435]
+
+Teste 12: correto!
+Teste 13: correto!
+Teste 14 deu errado!
+O resultado para
+267
+-504
+5
+
+deveria ser
+[-500, -495, -490, -485, -480, -475, -470, -465, -460, -455, -450, -445, -440, -435, -430, -425, -420, -415, -410, -405, -400, -395, -390, -385, -380, -375, -370, -365, -360, -355, -350, -345, -340, -335, -330, -325, -320, -315, -310, -305, -300, -295, -290, -285, -280, -275, -270, -265, -260, -255, -250, -245, -240, -235, -230, -225, -220, -215, -210, -205, -200, -195, -190, -185, -180, -175, -170, -165, -160, -155, -150, -145, -140, -135, -130, -125, -120, -115, -110, -105, -100, -95, -90, -85, -80, -75, -70, -65, -60, -55, -50, -45, -40, -35, -30, -25, -20, -15, -10, -5, 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130, 135, 140, 145, 150, 155, 160, 165, 170, 175, 180, 185, 190, 195, 200, 205, 210, 215, 220, 225, 230, 235, 240, 245, 250, 255, 260, 265]
+mas deu
+[-505, -500, -495, -490, -485, -480, -475, -470, -465, -460, -455, -450, -445, -440, -435, -430, -425, -420, -415, -410, -405, -400, -395, -390, -385, -380, -375, -370, -365, -360, -355, -350, -345, -340, -335, -330, -325, -320, -315, -310, -305, -300, -295, -290, -285, -280, -275, -270, -265, -260, -255, -250, -245, -240, -235, -230, -225, -220, -215, -210, -205, -200, -195, -190, -185, -180, -175, -170, -165, -160, -155, -150, -145, -140, -135, -130, -125, -120, -115, -110, -105, -100, -95, -90, -85, -80, -75, -70, -65, -60, -55, -50, -45, -40, -35, -30, -25, -20, -15, -10, -5, 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 105, 110, 115, 120, 125, 130, 135, 140, 145, 150, 155, 160, 165, 170, 175, 180, 185, 190, 195, 200, 205, 210, 215, 220, 225, 230, 235, 240, 245, 250, 255, 260, 265]
+
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 2: 0.9
+Procurando exercício 3...
+Exercício 3...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 3: 2.0
+Procurando exercício 4...
+Procurando exercício 5...
+Exercício 5...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 5: 2.0
+Procurando exercício 6...
+Exercício 6...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 6: 1.0
+Procurando exercício 7...
+Exercício 7...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 7: 2.0
+Nota total: 7.9
+{"scores": {"ex1": 0, "ex2": 0.9, "ex3": 2.0, "ex4": 0, "ex5": 2.0, "ex6": 1.0, "ex7": 2.0}}
