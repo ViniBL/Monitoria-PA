@@ -1,0 +1,190 @@
+Varificando data de envio...
+PRAZO MÁXIMO: 2021-11-30T23:59:59-03:00
+Testando sua solucao...
+Procurando exercício 1...
+Exercício 1...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 1: 2.0
+Procurando exercício 2...
+Exercício 2...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 2: 2.0
+Procurando exercício 3...
+Exercício 3...
+1001113141
+Teste 1: correto!
+Teste 2 deu errado!
+O resultado para
+(1,)
+deveria ser
+no máximo 1000000
+mas deu
+1001141142
+Teste 3 deu errado!
+O resultado para
+(2,)
+deveria ser
+no máximo 2000000
+mas deu
+2002165595
+Teste 4 deu errado!
+O resultado para
+(3,)
+deveria ser
+no máximo 3000000
+mas deu
+3003106631
+Teste 5 deu errado!
+O resultado para
+(4,)
+deveria ser
+no máximo 4000000
+mas deu
+4003010227
+Teste 6 deu errado!
+O resultado para
+(5,)
+deveria ser
+no máximo 5000000
+mas deu
+5005113872
+Teste 7 deu errado!
+O resultado para
+(6,)
+deveria ser
+no máximo 6000000
+mas deu
+6006172943
+Teste 8 deu errado!
+O resultado para
+(7,)
+deveria ser
+no máximo 7000000
+mas deu
+7007057304
+Teste 9 deu errado!
+O resultado para
+(8,)
+deveria ser
+no máximo 8000000
+mas deu
+8004916851
+Teste 10 deu errado!
+O resultado para
+(9,)
+deveria ser
+no máximo 9000000
+mas deu
+9009123306
+Nota exercicio 3: 0.2
+Procurando exercício 4...
+Exercício 4...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 4: 2.0
+Procurando exercício 5...
+Exercício 5...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 5: 2.0
+Procurando exercício 6...
+Procurando exercício 7...
+Procurando exercício 8...
+Exercício 8...
+Teste 1: correto!
+Teste 2: correto!
+Teste 3: correto!
+Teste 4: correto!
+Teste 5: correto!
+Teste 6: correto!
+Teste 7: correto!
+Teste 8: correto!
+Teste 9: correto!
+Teste 10: correto!
+Teste 11: correto!
+Teste 12: correto!
+Teste 13: correto!
+Teste 14: correto!
+Teste 15: correto!
+Teste 16: correto!
+Teste 17: correto!
+Teste 18: correto!
+Teste 19: correto!
+Teste 20: correto!
+Nota exercicio 8: 1.0
+Nota total: 9.2
+{"scores": {"ex1": 2.0, "ex2": 2.0, "ex3": 0.2, "ex4": 2.0, "ex5": 2.0, "ex6": 0, "ex7": 0, "ex8": 1.0}}
